@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 610" fill="none">
+  <defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#424644" stroke-width=".6"/></pattern></defs>
+  <path fill="url(#grid)" d="M0 0h800v610H0z" opacity=".45"/>
+  <g stroke="#727b76" stroke-width="1"><path d="M38 80h724M38 530h724M90 42v526M710 42v526" stroke-dasharray="5 9"/><path d="M70 80h40m-20-20v40M690 80h40m-20-20v40M70 530h40m-20-20v40M690 530h40m-20-20v40"/></g>
+  <g transform="translate(54 105)" stroke="#f3f1eb" stroke-width="2.4" stroke-linejoin="round">
+    <path d="m25 255 12-83 75-24 98-99 218-9 121 88 77 20 35 74-4 45-53 7c-3-83-125-83-132 0H201c-6-85-129-85-136 0l-40-19Z" fill="#222525"/>
+    <path d="m132 144 91-79 85-5-3 81Zm193-85 96-3 104 78-201 7Z" fill="#111212"/>
+    <path d="m313 50-5 192M535 139l13 106M118 155l-11 50h498M133 152h410M325 160h30M490 155h27M43 179h50l-12 16H40M615 164h21l12 31h-26Z"/>
+    <circle cx="133" cy="275" r="59" fill="#111212"/><circle cx="133" cy="275" r="37" stroke="#727b76"/><circle cx="133" cy="275" r="12"/>
+    <path d="m133 238 0 25m0 24v25m-37-37h25m24 0h25m-63-26 18 18m17 17 18 18m0-53-18 18m-17 17-18 18" stroke="#727b76"/>
+    <circle cx="538" cy="275" r="59" fill="#111212"/><circle cx="538" cy="275" r="37" stroke="#727b76"/><circle cx="538" cy="275" r="12"/>
+    <path d="m538 238 0 25m0 24v25m-37-37h25m24 0h25m-63-26 18 18m17 17 18 18m0-53-18 18m-17 17-18 18" stroke="#727b76"/>
+    <path d="M201 275h271M25 236h42M610 236h46"/>
+    <path d="m132 144 91-79 85-5M325 59l96-3 104 78" stroke="#ff6b35" stroke-width="3"/>
+  </g>
+  <g stroke="#ff6b35" stroke-width="1.5"><path d="m186 201-40-63H65m455 64 41-64h173M590 381l63 81h81"/><circle cx="186" cy="201" r="4" fill="#ff6b35"/><circle cx="520" cy="202" r="4" fill="#ff6b35"/><circle cx="590" cy="381" r="4" fill="#ff6b35"/></g>
+  <g fill="#b3b5b0" font-family="Arial,sans-serif" font-size="14" letter-spacing="2"><text x="65" y="123">СЕРВІС</text><text x="599" y="123">КУЗОВ</text><text x="618" y="486">ЗАПЧАСТИНИ</text></g>
+  <path d="M187 518h405m-405-7v14m405-14v14" stroke="#727b76"/><path d="M56 558h50m-25-5v10M694 558h50m-25-5v10" stroke="#727b76"/>
+</svg>
