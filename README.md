@@ -7,7 +7,7 @@
 | Auto Car Service | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-01/) | 097 919 8576 |
 | СТО "Бімер" | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-03/) | 068 990 7077 |
 | СТО Автоклан | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-05/) | 067 422 1955 |
-| СТО "STO.RV" | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-06/) | 093 274 6208 |
+| STO.RV | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-06/) | 093 274 6208 |
 | Шиномонтаж TECH | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-08/) | 097 584 2271 |
 | СТО "Мерседес Сервіс" | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-12/) | 098 129 6612 |
 | AVP SERVICE СТО | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-17/) | 097 408 3470 |
