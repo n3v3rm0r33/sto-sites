@@ -15,7 +15,7 @@
 | СТО АвтоГараж | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-19/) | 093 450 3348 |
 | Шиномонтаж "LEV" | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-20/) | 098 343 9540 |
 | СТО "СКЛ Автосервіс" | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-22/) | 095 882 2841 |
-| АВТОСЕРВІС СТАНІСЛАВІВ | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-23/) | 068 409 8068 |
+| АВТОСЕРВІС STANISLAVIV | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-23/) | 068 409 8068 |
 | VARTO IF | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-24/) | 067 492 1113 |
 | СТО Самара-Сервіс | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-27/) | 098 922 0646 |
 | 7Service шиномонтаж | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-30/) | 099 247 2447 |
