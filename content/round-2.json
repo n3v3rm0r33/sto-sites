@@ -1,0 +1,3459 @@
+[
+  {
+    "schema_version": 2,
+    "number": 31,
+    "name": "BIZON",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+    "address": "м. Луцьк, вул. Набережна",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "099 758 3817",
+      "button": "+380997583817"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–18:00; Сб 09:00–15:00; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "15:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Діагностика та ремонт ходової",
+      "Ремонт гальмівної системи",
+      "Заміна ременя ГРМ та помпи"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Діагностика та ремонт ходової",
+        "sources": [
+          "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Ремонт гальмівної системи",
+        "sources": [
+          "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Заміна ременя ГРМ та помпи",
+        "sources": [
+          "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_3-1003695.jpeg?timestamp=1689401388",
+        "source_page_url": "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "d2a26955f30df215805244cfb203cd2636160389d7c3a6f5706da58edc775f7f",
+        "bytes": 63650,
+        "dimensions": [
+          563,
+          439
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_4-1003694.jpeg?timestamp=1689401388",
+        "source_page_url": "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "987357d04ce063d91fb369596af4fe8b64f8c65865b421e9361dcec765169016",
+        "bytes": 56773,
+        "dimensions": [
+          533,
+          424
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Поради перед ремонтом",
+        "text": "Допомогли розібратися з ремонтом і дали рекомендації. Вартість робіт влаштувала.",
+        "source_url": "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Діагностика та ремонт",
+        "text": "Провели діагностику й виконали ремонт. Результатом звернення залишилися задоволені.",
+        "source_url": "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "Google Maps: Набережна; каталог містить стару адресу Вахтангова, 10. На сайті використано адресу Maps."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=18064901943040192855&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+      "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 32,
+    "name": "Starter-master",
+    "category": "Ремонт стартерів та генераторів",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+    "address": "м. Чернівці, Індустріальний провулок, 7а",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "050 672 7333",
+      "button": "+380506727333"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–19:00; Сб вихідний; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "saturday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Ремонт стартерів",
+      "Ремонт генераторів"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Ремонт стартерів",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Ремонт генераторів",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.png",
+        "source_url": "https://top20.ua/media-resize/company_large/Starter-master-1081215.png?timestamp=1711075705",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "8b823d96bfddbcafa04482f90490a9276c33a12fa0bfaf4c0ed08351bdd52633",
+        "bytes": 459190,
+        "dimensions": [
+          772,
+          445
+        ]
+      },
+      {
+        "file": "extra-2.png",
+        "source_url": "https://top20.ua/media-resize/company_large/Starter-master1-1081217.png?timestamp=1711075705",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "c1f5a5e3d3f90b4b33e7d61f9f1f91c81f7001a9739e4b5937bcd10070977acd",
+        "bytes": 452249,
+        "dimensions": [
+          727,
+          443
+        ]
+      },
+      {
+        "file": "extra-3.png",
+        "source_url": "https://top20.ua/media-resize/company_large/Starter-master2-1081216.png?timestamp=1711075705",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "bee41524c2d4c84a7769820fbca3d0a8892a6decb68992937dda589bb9fcd602",
+        "bytes": 336319,
+        "dimensions": [
+          735,
+          448
+        ]
+      },
+      {
+        "file": "extra-4.png",
+        "source_url": "https://top20.ua/media-resize/company_large/Starter-master3-1081218.png?timestamp=1711075705",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "6c8275793bdb04d60ab429df8e99d85943309e41f5051db725d7fe94ddb81d31",
+        "bytes": 491737,
+        "dimensions": [
+          748,
+          457
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Перевірка несправності",
+        "text": "Продіагностували несправність і виконали ремонт. Після звернення залишилися позитивні враження.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Стартер Mazda 6",
+        "text": "Стартер на Mazda 6 відремонтували без зайвого очікування. Роботою залишилися задоволені.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "Поточна картка Google Maps не має сайту. Історичний starter-master.business.site повернув HTTP 404 під час перевірки 30.10.2026."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=8813127369404865908&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+      "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 33,
+    "name": "WKS.cv",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+    "address": "м. Чернівці, вул. Леоніда Каденюка, 21а",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "067 212 4455",
+      "button": "+380672124455"
+    },
+    "phone_status": "published_in_catalogues",
+    "hours": "Пн–Пт 09:00–18:00; Сб 10:00–14:00; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "10:00",
+        "closes": "14:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Комп’ютерна діагностика",
+      "Ремонт двигуна та ходової",
+      "Ремонт автоелектрики",
+      "Шиномонтаж"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Комп’ютерна діагностика",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Ремонт двигуна та ходової",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Ремонт автоелектрики",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-2.png",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot%20%2817%29-1206422.png?timestamp=1758029501",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "3d0d8252019d0c25c0ebd68ef25f569eecb2127207dc717dbd9e71fb6a004e67",
+        "bytes": 584359,
+        "dimensions": [
+          1024,
+          633
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Повторні звернення",
+        "text": "Обслуговують автомобіль тут уже кілька років. Відзначають швидке й чітке виконання робіт.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Рекомендації щодо авто",
+        "text": "Під час обслуговування допомогли з ремонтом і дали корисні поради щодо автомобіля.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "Телефон зі сторінки Top20, також опублікований у List; у Maps номер не вказаний."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+      "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 34,
+    "name": "SKS",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+    "address": "м. Чернівці, вул. Маловокзальна, 2",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "050 434 1775",
+      "button": "+380504341775"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–18:00; Сб 09:00–15:00; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "15:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Розвал-сходження",
+      "Діагностика та ремонт ходової",
+      "Шиномонтаж і балансування коліс",
+      "Заміна оливи та фільтрів"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Розвал-сходження",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Діагностика та ремонт ходової",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Шиномонтаж і балансування коліс",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Заміна оливи та фільтрів",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_81-931686.jpeg?timestamp=1651127207",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "134148e08cf8fc72598d0a20eb8c175479d8bc835b381d1e4de0bd44819ff859",
+        "bytes": 79371,
+        "dimensions": [
+          1024,
+          575
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_79-931687.jpeg?timestamp=1651127207",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "8e020b7131d3f206c44d2552e81203f3de74981af1dd0fd5cfec447bedbc3b2b",
+        "bytes": 74141,
+        "dimensions": [
+          1024,
+          568
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_78-931688.jpeg?timestamp=1651127207",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "aabeaa027ec3f56a6ee34533102b4a13cb0df3e10148c32be0bde4fef2c04d94",
+        "bytes": 74711,
+        "dimensions": [
+          1024,
+          579
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_80-931689.jpeg?timestamp=1651127207",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "f9271f85eb6029a05cadc689121210c9f555eb2067b8b770aac0b08e7a8e532d",
+        "bytes": 85788,
+        "dimensions": [
+          1024,
+          432
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Після візиту",
+        "text": "Роботи виконали швидко, вартість влаштувала. Після звернення рекомендують сервіс.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Розвал-сходження",
+        "text": "Налаштували розвал-сходження, оглянули ходову й проконсультували щодо стану автомобіля.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=16677639826481717610&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+      "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 35,
+    "name": "Red Garage",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+    "address": "с. Чагор, вул. Симоненка, 41",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "050 545 5586",
+      "button": "+380505455586"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–18:00; Сб вихідний; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Комп’ютерна діагностика",
+      "Ремонт двигуна"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Комп’ютерна діагностика",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/the-redgarage.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Ремонт двигуна",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/the-redgarage.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_4-1004877.jpeg?timestamp=1689749371",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/the-redgarage.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "258badfff8dd20f5f75df86c30eaa7d8616dca0e216ac1729e1584d3fffc8e6e",
+        "bytes": 59639,
+        "dimensions": [
+          473,
+          561
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_5-1004878.jpeg?timestamp=1689749371",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/the-redgarage.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e597c2c16e8ef69248afdaafec203806b9d98eac691a21f56fe1a209246e5ebc",
+        "bytes": 102443,
+        "dimensions": [
+          578,
+          578
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Виконана робота",
+        "text": "Роботу виконали оперативно. Результатом ремонту залишилися задоволені.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/the-redgarage.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Відновлення Mazda CX-5",
+        "text": "Завершили ремонт Mazda CX-5 після пригону зі США. Допомогли знайти деталі й надсилали фото та відео виконаних робіт.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/the-redgarage.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": "https://www.instagram.com/redgarage_cv/",
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "Каталог відносить бізнес до Чернівців; поточна картка Maps вказує Чагор."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=7745257439971429909&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+      "https://top20.ua/cv/avto-moto/avtoservisi-sto/the-redgarage.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 36,
+    "name": "DS-service",
+    "category": "Шиномонтаж",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+    "address": "м. Чернівці, вул. Кавказька, територія першого кооперативного гаражу",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "066 638 8818",
+      "button": "+380666388818"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–18:00; Сб 09:00–15:00; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "15:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Шиномонтаж",
+      "Балансування коліс",
+      "Ремонт шин",
+      "Рихтування дисків"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://carta.ua/2398-ds-service.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Балансування коліс",
+        "sources": [
+          "https://carta.ua/2398-ds-service.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Ремонт шин",
+        "sources": [
+          "https://carta.ua/2398-ds-service.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Рихтування дисків",
+        "sources": [
+          "https://carta.ua/2398-ds-service.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.png",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot%20-%202026-01-29T132952.488-1247107.png?timestamp=1769686265",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e241c145b2ba3e3ff1cc739c37df490cd194d78140a77495cc32aab884d639a9",
+        "bytes": 1012634,
+        "dimensions": [
+          1024,
+          683
+        ]
+      },
+      {
+        "file": "extra-2.png",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot%20-%202026-01-29T132940.403-1247108.png?timestamp=1769686265",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "9062f20fe3057b54e525ab85fd5d8f1200e2ec6ff10f9e57ea57317a54dd68c4",
+        "bytes": 589218,
+        "dimensions": [
+          710,
+          711
+        ]
+      },
+      {
+        "file": "extra-3.png",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot%20-%202026-01-29T132918.142-1247109.png?timestamp=1769686265",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "4f01b23c0357418933b805b72b4735a0882918d447597beaef4771a09c4a804b",
+        "bytes": 855277,
+        "dimensions": [
+          1024,
+          685
+        ]
+      },
+      {
+        "file": "extra-4.png",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot%20-%202026-01-29T132925.929-1247110.png?timestamp=1769686265",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "649fc12af3910dfc9b03937cfa13453c2f8d0e226e04d57e02b57047065d4b7f",
+        "bytes": 762023,
+        "dimensions": [
+          655,
+          749
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Швидке обслуговування",
+        "text": "Після візиту відзначають швидкість роботи й задоволені її результатом.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Рекомендація після візиту",
+        "text": "Роботи виконали без затримок. Після звернення радять майстерню іншим водіям.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": "https://m.facebook.com/DSdiskservice/",
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "ds-service.com.ua належить іншому сервісу в Софіївській Борщагівці: інша адреса та телефони."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=12596061603319533165&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+      "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
+      "https://carta.ua/2398-ds-service.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 37,
+    "name": "GT Motors",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+    "address": "м. Тернопіль, вул. Бродівська бічна, 10",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "098 400 8242",
+      "button": "+380984008242"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 08:00–17:00; Сб вихідний; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "08:00",
+        "closes": "17:00"
+      },
+      "saturday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Ремонт двигунів",
+      "Діагностика та ремонт ходової",
+      "Заміна оливи й фільтрів",
+      "Комп’ютерна діагностика"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Ремонт двигунів",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/gt-motors.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Діагностика та ремонт ходової",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/gt-motors.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Заміна оливи й фільтрів",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/gt-motors.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Комп’ютерна діагностика",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/gt-motors.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/%D1%84%D0%B0%D1%81%D0%B0%D0%B4-936894.jpeg?timestamp=1653839244",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/gt-motors.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "c6e429674c46c0954be87f976169d0693bcf51ebb1c1cb2acb5b47c77984c967",
+        "bytes": 98985,
+        "dimensions": [
+          1024,
+          768
+        ]
+      },
+      {
+        "file": "extra-5.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/IMG_20200508_183951-936885.jpeg?timestamp=1653839244",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/gt-motors.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "cde6d396645c6d70a3765f171ff9db7fbb46a471bd3f707ce335607ab27eca0d",
+        "bytes": 185543,
+        "dimensions": [
+          1024,
+          1365
+        ]
+      },
+      {
+        "file": "extra-6.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/IMG_20210319_183522-936886.jpeg?timestamp=1653839244",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/gt-motors.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "ac765ca7627eaadf55c9adfe3737ca37c60a6fea9d41e018278da069561260a3",
+        "bytes": 129836,
+        "dimensions": [
+          1024,
+          1365
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Пояснення під час ремонту",
+        "text": "Роботи виконали швидко, майстри пояснили потрібні дії. Автомобіль забрали із задоволенням від результату.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/gt-motors.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Ремонт Mercedes-Benz EQC",
+        "text": "Ремонтували Mercedes-Benz EQC. Роботи виконали відповідно до попередніх домовленостей.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/gt-motors.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": "https://instagram.com/gtmotorsternopil",
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=18314220057265331026&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+      "https://top20.ua/tr/avto-moto/sto/gt-motors.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 38,
+    "name": "БІОЛ",
+    "category": "Заміна оливи та фільтрів",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+    "address": "м. Тернопіль, вул. 15-го Квітня, СТО БІОЛ",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "050 588 4676",
+      "button": "+380505884676"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–17:00; Сб вихідний; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "saturday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Заміна моторної оливи",
+      "Заміна масляного, повітряного й салонного фільтрів",
+      "Заміна оливи в АКПП та МКПП",
+      "Заміна технічних рідин"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Заміна моторної оливи",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Заміна масляного, повітряного й салонного фільтрів",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Заміна оливи в АКПП та МКПП",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Заміна технічних рідин",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/20261014_105230-1350317.jpeg?timestamp=1791966345",
+        "source_page_url": "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e9131b0feaec0b771c4c0835828dde328c212ec1d8e38f7cf8c4213921878491",
+        "bytes": 99378,
+        "dimensions": [
+          1024,
+          744
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/20261015_110554-1350984.jpeg?timestamp=1792051747",
+        "source_page_url": "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e4db7e8e6d13bdda82b8de78145a364f0b7578e96d19534652e7420bda010c17",
+        "bytes": 153390,
+        "dimensions": [
+          901,
+          1600
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Заміна оливи та фільтрів",
+        "text": "Не перший рік приїжджають на заміну оливи й фільтрів. Результат обслуговування влаштовує.",
+        "source_url": "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Візит за домовленістю",
+        "text": "Заздалегідь погодили час приїзду. Після прибуття потрібні роботи виконали швидко.",
+        "source_url": "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "На Maps не вказано номер будинку; його не додано з іншої адреси каталогу."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=16149769111579598572&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+      "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 39,
+    "name": "Інтеравтосервіс",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+    "address": "м. Тернопіль, вул. Текстильна, 28",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "096 520 8750",
+      "button": "+380965208750"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–18:00; Сб 09:00–15:00; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "15:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Заміна моторної оливи",
+      "Заміна оливи в КПП та АКПП",
+      "Заміна антифризу"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Заміна моторної оливи",
+        "sources": [
+          "https://auto.ria.com/uk/autoservice/sto-interavtoservis-11929.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Заміна оливи в КПП та АКПП",
+        "sources": [
+          "https://auto.ria.com/uk/autoservice/sto-interavtoservis-11929.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Заміна антифризу",
+        "sources": [
+          "https://auto.ria.com/uk/autoservice/sto-interavtoservis-11929.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/5926d0e833a7f-816827.jpeg?timestamp=1624623838",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "b3085c899ca2946b14d1947f31c21cbb07ec226211024dcb1e779e7b3285ef21",
+        "bytes": 47076,
+        "dimensions": [
+          728,
+          544
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/5926d0eaf35bc-816828.jpeg?timestamp=1624623838",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "31c15f2125727ef46a89d3f644dead391ef16b29b9b3dc46bc3b7d6dd408fc95",
+        "bytes": 45311,
+        "dimensions": [
+          728,
+          544
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/5b28ab120605c-816829.jpeg?timestamp=1624623838",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "dfa3695220108b743103a414deb2b6c4a0b75b7cc9929bd6b26c2399be87be67",
+        "bytes": 37998,
+        "dimensions": [
+          960,
+          600
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/interavtoservis-727.jpeg?timestamp=1568043128",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "4244e93d3cb2e46da43c91696a46c45fc1dc289c2804b6c72c27e501217f81a7",
+        "bytes": 130948,
+        "dimensions": [
+          1010,
+          755
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Спілкування в сервісі",
+        "text": "Після звернення відзначають привітне спілкування з працівниками й рекомендують сервіс.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Пошук несправності",
+        "text": "Допомогли усунути проблему, яку до цього довго не могли знайти. Після першого візиту планують звертатися знову.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": "https://www.instagram.com/inter_autoservice/",
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=11181878873770847049&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+      "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
+      "https://auto.ria.com/uk/autoservice/sto-interavtoservis-11929.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 40,
+    "name": "Mservice",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+    "address": "м. Хмельницький, вул. Болохівська",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "098 188 5588",
+      "button": "+380981885588"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–18:00; Сб 09:00–15:00; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "15:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Заміна оливи та фільтрів",
+      "Діагностика й ремонт ходової",
+      "Проточка гальмівних дисків",
+      "Заміна оливи в АКПП"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Заміна оливи та фільтрів",
+        "sources": [
+          "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Діагностика й ремонт ходової",
+        "sources": [
+          "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Проточка гальмівних дисків",
+        "sources": [
+          "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Заміна оливи в АКПП",
+        "sources": [
+          "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/%D0%BC%20%D1%81%D0%B5%D1%80%D0%B2%D1%96%D1%812%D1%81-1028618.jpeg?timestamp=1695044339",
+        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "6f30914a5825a489237fb749db1d9e3976324207c627b765092f7e425454ca05",
+        "bytes": 104147,
+        "dimensions": [
+          1024,
+          683
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/%D0%BC%20%D1%81%D0%B5%D1%80%D0%B2%D1%96%D1%811%D1%81-1028619.jpeg?timestamp=1695044339",
+        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "d3365dbf7b3d02aba910ee4f830734fa59d0d30c56f31244994dde0634f9302e",
+        "bytes": 85756,
+        "dimensions": [
+          1024,
+          683
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/%D0%BC%20%D1%81%D0%B5%D1%80%D0%B2%D1%96%D1%81-987675.jpeg?timestamp=1683780170",
+        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "0f5c1ca74bf0361e49b9aa7f8b7923a70cc8daabe6f3e8284d77301432d49d39",
+        "bytes": 114219,
+        "dimensions": [
+          1024,
+          1536
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Повторне обслуговування",
+        "text": "Звертаються до сервісу повторно. Задоволені швидкістю й результатом виконаних робіт.",
+        "source_url": "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Колодки та стабілізатори",
+        "text": "Замінили гальмівні колодки й задні стабілізатори. Відзначають оперативність виконання робіт.",
+        "source_url": "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": "https://instagram.com/m.service.khm",
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "Використано актуальні телефон та адресу Google Maps; Top20 показує інший старий телефон і адресу Польова, 1/1 А."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=12869451852050996419&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+      "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 41,
+    "name": "VivaT",
+    "category": "Автосервіс та автомийка",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+    "address": "м. Луцьк, вул. Залізнична, 1-б",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "097 550 5051",
+      "button": "+380975505051"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Графік роботи уточнюйте за телефоном.",
+    "hours_weekly": {
+      "monday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "tuesday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "wednesday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "thursday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "friday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "saturday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "not_confirmed",
+    "services": [
+      "Ремонт двигуна",
+      "Заміна оливи та фільтрів",
+      "Шиномонтаж",
+      "Балансування коліс"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Ремонт двигуна",
+        "sources": [
+          "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/vivat-avtomaysternya.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Заміна оливи та фільтрів",
+        "sources": [
+          "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/vivat-avtomaysternya.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/vivat-avtomaysternya.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Балансування коліс",
+        "sources": [
+          "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/vivat-avtomaysternya.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "maps-1.jpg",
+        "source_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvC6PEj5FdCxAg1cKH0QuB33yzxIXvtG6ygwPrmXpTOZ5_krm6E-QRXHd74niVkAx2Dk_52lF6WlNQBIKUPeS-IihjEX9zdhuKEXnZwBuYPFOsSF7TrFaFuktcz_1hbinCrSi7=w1200-h1600-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e2d5a57c772b3223bc49dfa252b4566b56f5a782d040ae0ce43ed48560809f98",
+        "bytes": 103295,
+        "dimensions": [
+          960,
+          1280
+        ]
+      },
+      {
+        "file": "maps-2.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RBQGQSo01qJARML68xGiVmLn0JBcz5CEo4U8K9J9oscK6ipoiXA2u5G6J7oYOTHHRGAnYWo6ypWLI_Vi1LPKI_ue-GgL-422irjrttzGo1qiGodOTNH8K7ycffybKd3mJFKS0y-g=w1200-h900-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "28586a24370d31c662414c8e2b7db225ca6f21eec72d4c40670253f31d561ae1",
+        "bytes": 306664,
+        "dimensions": [
+          1200,
+          900
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Хімчистка салону",
+        "text": "Залишили автомобіль на хімчистку й забрали наступного дня. Салон став помітно чистішим.",
+        "source_url": "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/vivat-avtomaysternya.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Очищення сидінь",
+        "text": "Почистили передні сидіння автомобіля. Результат очищення й спілкування з майстром сподобалися.",
+        "source_url": "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/vivat-avtomaysternya.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "Графік не підтверджений; показано запрошення уточнити телефоном."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=13167474500102797987&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+      "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/vivat-avtomaysternya.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 42,
+    "name": "СТО ТИТАН У ТОЛІКА",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+    "address": "м. Тернопіль, вул. Гайова, 52",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "097 150 8577",
+      "button": "+380971508577"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–18:00; Сб 09:00–14:00; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "14:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Діагностика та ремонт ходової",
+      "Ремонт двигунів",
+      "Шиномонтаж",
+      "Заміна оливи"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Діагностика та ремонт ходової",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/titan-sto.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Ремонт двигунів",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/titan-sto.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/titan-sto.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Заміна оливи",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/titan-sto.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_2-1105864.jpeg?timestamp=1715867826",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/titan-sto.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "eb5aec0cbb624f008e5b52bd208077060cb75a6f79f3a10a96899d2f1b1f1654",
+        "bytes": 48354,
+        "dimensions": [
+          459,
+          509
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_3-1105865.jpeg?timestamp=1715867826",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/titan-sto.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "6fccd60d6497044432ff037df8c5407e567a10bb102098767c2dedcdd265a8c7",
+        "bytes": 43692,
+        "dimensions": [
+          436,
+          525
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_4-1105866.jpeg?timestamp=1715867826",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/titan-sto.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "485d54ca399130f7f6c232ca6e5ca3608f2a78cc3311173689c8786f0a166735",
+        "bytes": 61940,
+        "dimensions": [
+          439,
+          539
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Виконання робіт",
+        "text": "Майстри виконали потрібну роботу швидко й чітко. Після візиту рекомендують сервіс.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/titan-sto.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Ремонт ходової",
+        "text": "Звернулися з ходовою після серйозного ДТП. Результатом відновлення автомобіля залишилися задоволені.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/titan-sto.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": "https://www.instagram.com/cto_tutan_",
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "Не змішувати з іншим СТО ТИТАН на Гайовій, 8/3."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=17055696783138331128&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+      "https://top20.ua/tr/avto-moto/sto/titan-sto.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 43,
+    "name": "AUTOSTE",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+    "address": "м. Тернопіль, просп. Злуки, 49",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "098 375 9329",
+      "button": "+380983759329"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–18:00; Сб вихідний; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Діагностика та ремонт двигуна",
+      "Ремонт автоелектроніки",
+      "Обслуговування автокондиціонерів",
+      "Шиномонтаж"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Діагностика та ремонт двигуна",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Ремонт автоелектроніки",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Обслуговування автокондиціонерів",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_4-949043.jpeg?timestamp=1661492323",
+        "source_page_url": "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "4851c4b61ed5761df3efa69a4b7fb5a439077b3a8fae0b5d057201f419578f81",
+        "bytes": 48147,
+        "dimensions": [
+          765,
+          473
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_1-949042.jpeg?timestamp=1661492323",
+        "source_page_url": "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "5d4422ec1351b5fa40a6864e354a1abf2ee99539d21c5a15e99f97b36fb94c4a",
+        "bytes": 48150,
+        "dimensions": [
+          605,
+          567
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_2-949044.jpeg?timestamp=1661492323",
+        "source_page_url": "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "fe7978adbe6c2f0a25aa7c9fe2623070200681db98a6b99135369bea2b22726c",
+        "bytes": 86750,
+        "dimensions": [
+          651,
+          486
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/61b2074911e30-922388.jpeg?timestamp=1642979913",
+        "source_page_url": "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "9cd803c308ff9d751a4e77c461bfa9d3e9dedb7c8b3c9c34b54365eba762e3ae",
+        "bytes": 90340,
+        "dimensions": [
+          719,
+          960
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Усунення несправності",
+        "text": "Допомогли швидко вирішити проблему з автомобілем. Після ремонту подякували за роботу.",
+        "source_url": "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Заміна помпи",
+        "text": "Замінили помпу, що підтікала. Після виконаних робіт зауважень не виникло.",
+        "source_url": "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=16402766617596990770&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+      "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 44,
+    "name": "Преміум Шина",
+    "category": "Шиномонтаж",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+    "address": "м. Тернопіль, вул. Бродівська, 58",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "097 210 4575",
+      "button": "+380972104575"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Графік роботи уточнюйте за телефоном.",
+    "hours_weekly": {
+      "monday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "tuesday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "wednesday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "thursday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "friday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "saturday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "not_confirmed",
+    "services": [
+      "Шиномонтаж",
+      "Балансування коліс",
+      "Ремонт шин",
+      "Вирівнювання дисків"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Балансування коліс",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Ремонт шин",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Вирівнювання дисків",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/IMG_6072-1189302.jpeg?timestamp=1750679832",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "8d12bdf1c675ee136e83c804b866c77787861f401a6a5c324aeaffef15c74fad",
+        "bytes": 115977,
+        "dimensions": [
+          1024,
+          1365
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/IMG_6591-1189303.jpeg?timestamp=1750679832",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "c63dda41b6abc687c5b521da2dfa6d256378b5a8429dc61a42f6da75afc807cc",
+        "bytes": 174633,
+        "dimensions": [
+          1024,
+          1365
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/fa994e8e-c15e-4691-9ad6-f4a696dc6382-1189305.jpeg?timestamp=1750679832",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "7c051e8de9b689b2772506d4a88bc3e51a60d40184d8a84dabd226bd38ff28cc",
+        "bytes": 166560,
+        "dimensions": [
+          1024,
+          768
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Консультація щодо шин",
+        "text": "На запит про шини відповіли швидко. Потрібний комплект був у наявності, умови купівлі влаштували.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Підбір і встановлення",
+        "text": "Допомогли вибрати нові шини з урахуванням доріг, якими користується водій, і швидко встановили комплект.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": "https://www.instagram.com/premium_shyna",
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "Графік не підтверджений; показано запрошення уточнити телефоном."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=11186559528335553513&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+      "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 45,
+    "name": "Грація Дизель-Сервіс",
+    "category": "Ремонт дизельних авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+    "address": "м. Тернопіль, вул. Лозовецька, 1А",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "067 350 2513",
+      "button": "+380673502513"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–18:00; Сб вихідний; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Ремонт дизельних двигунів",
+      "Ремонт паливної апаратури",
+      "Ремонт турбокомпресорів",
+      "Шиномонтаж"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Ремонт дизельних двигунів",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Ремонт паливної апаратури",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Ремонт турбокомпресорів",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_7-915158.jpeg?timestamp=1640999630",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "6a7c3c722a7f4f6459de314908fe988ae7d8a84c11a8f7fb8178398e4831e0a5",
+        "bytes": 57442,
+        "dimensions": [
+          857,
+          505
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_1-915155.jpeg?timestamp=1640999630",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "8dcb1d03b1fd7e22b77321098ed0dd47d30c90e3776bc3ba29d8f981c71d1412",
+        "bytes": 54190,
+        "dimensions": [
+          775,
+          490
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_6-915156.jpeg?timestamp=1640999630",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "8f07e6c11135461fde407d49832966fa79cee65d62c9679107dfc948fba372c0",
+        "bytes": 59985,
+        "dimensions": [
+          502,
+          549
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_8-915157.jpeg?timestamp=1640999630",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "249f73d0ddf637456dfb255e76af0a8bf9800aad869a65a26386a0b38a56efc6",
+        "bytes": 49077,
+        "dimensions": [
+          497,
+          547
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Запуск дизельного двигуна",
+        "text": "Перевірили паливний насос і тиск у системі Common Rail. Знайшли проблему з клапаном та замінили його.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Ремонт форсунки",
+        "text": "Після звернення з форсункою провели діагностику й усунули несправність. Роботою залишилися задоволені.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=8131753034672608010&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+      "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 46,
+    "name": "СПЕКТР",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+    "address": "м. Тернопіль, вул. 15-го Квітня, 44А",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "097 435 1918",
+      "button": "+380974351918"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–17:00; Сб 09:00–14:00; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "14:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Кузовний ремонт",
+      "Шиномонтаж",
+      "Заміна оливи",
+      "Встановлення ГБО"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Кузовний ремонт",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Заміна оливи",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Встановлення ГБО",
+        "sources": [
+          "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/5927e88dcc14b-909745.jpeg?timestamp=1639004053",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "d237f5d0beecb78472f8e96e81530043310b299da904851e9521e3e67a396006",
+        "bytes": 72924,
+        "dimensions": [
+          693,
+          520
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_2-909741.jpeg?timestamp=1639004053",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "f6df2e52d47b5388d1bb1cc5ea59c22d46c7c584c7a140d82bfd6efceb6e7b86",
+        "bytes": 38539,
+        "dimensions": [
+          406,
+          484
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_3-909742.jpeg?timestamp=1639004053",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "5788fc84fd872f1f05fd5d94c483ced679f1ace392823062d5119623cb99986a",
+        "bytes": 56376,
+        "dimensions": [
+          856,
+          439
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_1-909743.jpeg?timestamp=1639004053",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "abdde1b6c9e36a95b939d85974955706b136bd432bb58717ac6f3a0f34ddcb68",
+        "bytes": 62085,
+        "dimensions": [
+          861,
+          411
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Результат звернення",
+        "text": "Після ремонту відзначають швидкість виконання робіт і задоволені їхнім результатом.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Ремонт форсунок",
+        "text": "Відремонтували форсунки. Після роботи автомобіль поїхав краще, а витрата пального нормалізувалася.",
+        "source_url": "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=10183232462660877497&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+      "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 47,
+    "name": "ОРІОН",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+    "address": "м. Чернівці, вул. Південнокільцева, 2А",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "066 751 1111",
+      "button": "+380667511111"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–19:00; Сб 09:00–18:00; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Діагностика та ремонт ходової",
+      "Ремонт електрообладнання",
+      "Розвал-сходження",
+      "Шиномонтаж"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Діагностика та ремонт ходової",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Ремонт електрообладнання",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Розвал-сходження",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/orion-avtolyuks-avtoservis-c-379530.jpeg?timestamp=1573314070",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "48b5729b3c658e0966b64d57d979cd3218f3600ec2aa19120db88273c7689a40",
+        "bytes": 55252,
+        "dimensions": [
+          800,
+          600
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/orion-avtolyuks-avtoservis-c-379529.jpeg?timestamp=1573314070",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "df298a41795a808806b4bc68bc4b6b75620be2b7a143ec639b8f9ddcf35459fc",
+        "bytes": 46308,
+        "dimensions": [
+          800,
+          600
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/orion-avtolyuks-avtoservis-c-379531.jpeg?timestamp=1573314070",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "5e7a4e8eb301a05c1ee3ab4882886aed83df255ca09327bc7fc5c7ab553a5080",
+        "bytes": 46339,
+        "dimensions": [
+          800,
+          600
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Допомога з автомобілем",
+        "text": "Після звернень відзначають готовність працівників допомогти з автомобілем.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Кілька років обслуговування",
+        "text": "Обслуговують автомобіль тут кілька років. Задоволені діагностикою, роботою механіка та автоелектрика.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=283840624358183003&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+      "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 48,
+    "name": "Grand Allmax",
+    "category": "Шиномонтаж та автомийка",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+    "address": "м. Новоселиця, вул. Енергетична, 48",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "068 313 7777",
+      "button": "+380683137777"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–17:00; Сб вихідний; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      },
+      "saturday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Шиномонтаж",
+      "Балансування коліс",
+      "Автомийка самообслуговування"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Балансування коліс",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Автомийка самообслуговування",
+        "sources": [
+          "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/b370ec944176865374d15216b777b253492bde84-1030056.jpeg?timestamp=1695626772",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "51875f6590d70f836ddc825fb26945bec21d610e5366fa84d85e9575d1d1004c",
+        "bytes": 47945,
+        "dimensions": [
+          521,
+          522
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/69d6b78f170d47a987bbe99c25b90ca27aeb7744-1030057.jpeg?timestamp=1695626772",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e1bfdb36a1f6cbd517a3a5cbea32ad3d55c8cdb767d065463f2cc453e4379018",
+        "bytes": 228948,
+        "dimensions": [
+          960,
+          1280
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/07de2322256796da8695bbfd6d165356ffb3acf5-1030058.jpeg?timestamp=1695626772",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "ebadc9c2ed0eb3a9a3ad34e68171c4340616c67277811b9f03ebbf9fb2e856ef",
+        "bytes": 178425,
+        "dimensions": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/21cdd00141c579d88c8d3d273bf07ad324db3138-1030059.jpeg?timestamp=1695626772",
+        "source_page_url": "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "4a408084cfdc644ab3333e7c14cad5db28126619c4ededda7fbf379b464950c1",
+        "bytes": 246549,
+        "dimensions": [
+          1024,
+          768
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Допомога під час поїздки",
+        "text": "Автомобіль зламався в дорозі. Допомогли знайти й привезти запчастини та виконали ремонт, після якого вдалося продовжити поїздку.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Мийка самообслуговування",
+        "text": "Скористалися мийкою самообслуговування. Відзначили результат миття та наявність кафе поруч.",
+        "source_url": "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": "https://www.facebook.com/grand.allmax.ukr",
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "Поточна картка Maps — Новоселиця, Енергетична, 48; не використовувати помилкову прив’язку каталогу до Чернівців."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=6425183367354259632&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+      "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 49,
+    "name": "GIS",
+    "category": "Шиномонтаж",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+    "address": "м. Хмельницький, Вінницьке шосе, 2/1",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "093 483 0746",
+      "button": "+380934830746"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–19:00; Сб 09:00–18:00; Нд 09:00–17:00.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "19:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "sunday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "17:00"
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Шиномонтаж",
+      "Балансування коліс",
+      "Прокатка дисків",
+      "Сезонне зберігання шин"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://carta.ua/4703-shinomontazhnii-servis-gis.html",
+          "https://www.google.com/maps?cid=16542579906642233022&hl=uk"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "Балансування коліс",
+        "sources": [
+          "https://carta.ua/4703-shinomontazhnii-servis-gis.html",
+          "https://www.google.com/maps?cid=16542579906642233022&hl=uk"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Прокатка дисків",
+        "sources": [
+          "https://carta.ua/4703-shinomontazhnii-servis-gis.html",
+          "https://www.google.com/maps?cid=16542579906642233022&hl=uk"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Сезонне зберігання шин",
+        "sources": [
+          "https://carta.ua/4703-shinomontazhnii-servis-gis.html",
+          "https://www.google.com/maps?cid=16542579906642233022&hl=uk"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/61b9e3f48ebdf_1639565626542111-918468.jpeg?timestamp=1642119863",
+        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "1b80f4d67c50cbf085a4d5c28682d8293b0a583ea88d67eae318e94f6d006028",
+        "bytes": 99574,
+        "dimensions": [
+          1024,
+          766
+        ]
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/IMG-be24f9de4829d601702bb366e28d0db9-V-918469.jpeg?timestamp=1642119863",
+        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "c99ac235cd7b13db2e63af7873b5e6ce48fa70b60186ef509c1bacdb9f8819a9",
+        "bytes": 98469,
+        "dimensions": [
+          1024,
+          768
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/photo_2021-12-08_22-29-58-918470.jpeg?timestamp=1642119863",
+        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "085198c8bdfc9dd0c783e6381726e14cb1a3a16826a5529bb8d2ba5bdd63b510",
+        "bytes": 89528,
+        "dimensions": [
+          1024,
+          768
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/1639233829676-918471.jpeg?timestamp=1642119863",
+        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e476aaad725a64558dfc8efafeadcc1e08069cf50f808b19ed75b2885e8a58a3",
+        "bytes": 204178,
+        "dimensions": [
+          1024,
+          1369
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Швидка робота",
+        "text": "Потрібні роботи виконали швидко. Сподобалося спілкування з працівниками сервісу.",
+        "source_url": "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Регулярні візити",
+        "text": "Користуються послугами сервісу не вперше й залишаються задоволені обслуговуванням.",
+        "source_url": "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": null,
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=16542579906642233022&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+      "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
+      "https://carta.ua/4703-shinomontazhnii-servis-gis.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  },
+  {
+    "schema_version": 2,
+    "number": 50,
+    "name": "Дакар-Сервіс",
+    "category": "СТО / Ремонт авто",
+    "selection_status": "retained_without_confirmed_own_website",
+    "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+    "address": "м. Хмельницький, вул. Кам’янецька, 184",
+    "address_status": "published_in_maps",
+    "phone": {
+      "display": "098 669 4575",
+      "button": "+380986694575"
+    },
+    "phone_status": "published_in_maps",
+    "hours": "Пн–Пт 09:00–18:00; Сб 09:00–13:00; Нд вихідний.",
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "13:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "hours_status": "published_in_maps",
+    "services": [
+      "Ремонт двигуна та ходової",
+      "3D розвал-сходження",
+      "Шиномонтаж",
+      "Комп’ютерна діагностика"
+    ],
+    "service_evidence": [
+      {
+        "service_index": 0,
+        "service": "Ремонт двигуна та ходової",
+        "sources": [
+          "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html"
+        ]
+      },
+      {
+        "service_index": 1,
+        "service": "3D розвал-сходження",
+        "sources": [
+          "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html"
+        ]
+      },
+      {
+        "service_index": 2,
+        "service": "Шиномонтаж",
+        "sources": [
+          "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html"
+        ]
+      },
+      {
+        "service_index": 3,
+        "service": "Комп’ютерна діагностика",
+        "sources": [
+          "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html"
+        ]
+      }
+    ],
+    "prices": [],
+    "price_note": "Ціну уточнюйте за телефоном",
+    "photos": [
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/%D0%94%D0%A1_1-419932.jpeg?timestamp=1582123839",
+        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "c214a014b99c0a58b5e5b1fd8ca21db69e179ec67cc3755602dc4f7809c97b85",
+        "bytes": 175593,
+        "dimensions": [
+          1024,
+          1247
+        ]
+      },
+      {
+        "file": "extra-3.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/%D0%94%D0%A1_2-419933.jpeg?timestamp=1582123839",
+        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "282bfee2cc01364cd57e0fd7939154e99c2ad6e97df9c6f9e07c71773ed87406",
+        "bytes": 176434,
+        "dimensions": [
+          1024,
+          1365
+        ]
+      },
+      {
+        "file": "extra-4.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/%D0%94%D0%A1_3-419934.jpeg?timestamp=1582123839",
+        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html",
+        "source_name": "ТОП 20",
+        "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "d839a917966aafca6cdf72c041e7a9e05da26ff4eb0beadbc49f167d1e8f06a9",
+        "bytes": 110088,
+        "dimensions": [
+          1024,
+          1066
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Вибір сервісу для авто",
+        "text": "Після тривалого пошуку майстерні вирішили обслуговувати автомобілі тут. Відзначають ставлення до клієнтів і виконання робіт.",
+        "source_url": "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html",
+        "source_name": "ТОП 20"
+      },
+      {
+        "title": "Після ремонту",
+        "text": "Автомобіль відремонтували швидко. Результат роботи й вартість звернення влаштували.",
+        "source_url": "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html",
+        "source_name": "ТОП 20"
+      }
+    ],
+    "photos_note": "Файли та джерела збережено окремо в media/photos.json.",
+    "reviews_note": "Два позитивні відгуки з Top20, переказані своїми словами без імен; оригінали збережено у content/round-2-evidence.json.",
+    "website": {
+      "status": "not_found_in_maps_and_search",
+      "url": null,
+      "social_url": "https://www.instagram.com/sto.dakar_servis/",
+      "observed_on": "2026-10-30",
+      "finding": "У відкритій картці Google Maps немає власного сайту або вказана тільки соцмережа; додатковий пошук за назвою та містом не виявив підтвердженого власного сайту. Це результат перевірки, а не абсолютний доказ відсутності сайту."
+    },
+    "open_questions": [
+      "Телефон актуальної картки Maps відрізняється від старого номера Top20; використано 098 669 4575."
+    ],
+    "contact_evidence": {
+      "source_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+      "observed_on": "2026-10-30",
+      "method": "Відкрита конкретна картка Google Maps у браузері; для доступного графіка розгорнуто сім днів.",
+      "phone_source": "https://www.google.com/maps?cid=12630613811433249103&hl=uk"
+    },
+    "source_urls": [
+      "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+      "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html"
+    ],
+    "data_status": "sourced_with_explicit_limits",
+    "recreated_on": "2026-10-30"
+  }
+]
