@@ -84,32 +84,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_3-1003695.jpeg?timestamp=1689401388",
-        "source_page_url": "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1001.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TO1zKeZ89QWcpKgV2iDVJj8-7WCe2bEhYN-IEUnC0zYVXh7sr2f9zI9X3PMYP7EKGL8I50buK14euwrMeoGnsh7Rh1GgoO3aSMSxfvGJ-vJT3__k-rJ1WmOhbYIGy5mkm2axdb8Nmvt9sP=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "d2a26955f30df215805244cfb203cd2636160389d7c3a6f5706da58edc775f7f",
-        "bytes": 63650,
+        "sha256": "f2fcda0619729a56dc4620fbcb1229aad1ab210641015d5610e3ece255f249e5",
+        "bytes": 761971,
         "dimensions": [
-          563,
-          439
-        ]
+          1284,
+          723
+        ],
+        "archive_index": 1
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_4-1003694.jpeg?timestamp=1689401388",
-        "source_page_url": "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1003.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qkt-_ODlVZqqRZ9LB1ePRWArI2nn86ps-FWkK2xLZz-O68MGyni17KFUHDs-dkXaiZXGmgp1Uv5Q1L4kW03Jf69pxBylH3OUEwhIj_MaDvlqY0CK94deCQXSAPcm6MxkSZDGep-GzPB7U=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "987357d04ce063d91fb369596af4fe8b64f8c65865b421e9361dcec765169016",
-        "bytes": 56773,
+        "sha256": "cde5eecf22456d83b1e46097394a31461c5077d4a71b64dbc8f748501b17c61e",
+        "bytes": 450718,
         "dimensions": [
-          533,
-          424
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 3
+      },
+      {
+        "file": "maps-1008.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TgmOJWNXimeY5ydoQ3Ja7IPoMbbam-pxS91jJFa4mzgbSk4Fjg6X-f3BchwPROeNrGy_IUjGcuctXWK7kErxuwZHHwZuLvsjrd5K_ekSJTkLlSXTvqFWEupS545hLYU3nE5YTGB-Fq1Do=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e8a4d472585c5ddd25d482be7fbd764a00f55ec356a73d3a3079e63f4d8a748b",
+        "bytes": 413821,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 8
+      },
+      {
+        "file": "maps-1010.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TlvzEgcNl7lxYSqX6qbJgTji-5gLUTUjCYkqwy0sADOAFPs_JtPwNQ2VqrCyChrKjTdp1ywfCYfYiEcvExXU_3jwpWdCKueH_cfmdBpXvivaDGIzD8TCSldnfqV6aSSyEBd1Pz=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "cc58a4fb1334c06db84c1e3636601d1c4e80bd78ba280f31080ddd886081aa4b",
+        "bytes": 374027,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 10
+      },
+      {
+        "file": "maps-1014.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TlMarxK6SeliVVVP7v1Zbdut08BOKtsTiJbDEUO-qtw6o8L2q8h7SJNcPJmbReyyE6NI4GPui7kCuaQgHmmG6Je5NI_eHfFj1ybrxbDJAwVpJwZW4yWaSDiDPPRha3MBpiIAzr=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "046a4652bdbaf56d1f0c243561c2c3b5709e79300f1bf8efa2f4bce35bf7f900",
+        "bytes": 460536,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 14
+      },
+      {
+        "file": "maps-1023.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QhEVU6YwDiSEpLIzBgVY7ccu3GFwa7_0Z5H52_uEDy8AQQyvAu1Zpl2TYJ6GL1PDjEQCcLU17lcA5G8gBhUEK2kmvakVnAOkNv74CsQR4dbba3eOV_v5-_fx1BKZ5pcs4jlcihGJBmNd_P=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "41cec1de3cb799c831481a6105c3754497cc6e640aaec3a3de0efbe36cd7a98a",
+        "bytes": 427492,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 23
+      },
+      {
+        "file": "maps-1027.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TPrpyErGcVgiWzXYPWEu6gOcU3FpCJcglfy1B5oy8wYWuDc3GztU0Swla7DOrPioxp1HqUHCDt-pbdSiZIdhEG1NkcnsIzx2a6_5r7geOE-k4OeosfPaySHPyD9m8AO02x8-BYmEwg71s=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=18064901943040192855&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "0f807a0333f677a581237980c251f670fe314a800ed3f1c9f50cf261ca0f41fa",
+        "bytes": 190669,
+        "dimensions": [
+          765,
+          765
+        ],
+        "archive_index": 27
       }
     ],
     "reviews": [
@@ -149,7 +226,12 @@
       "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/bizon-avtoservis.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1027.jpg",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -228,60 +310,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.png",
-        "source_url": "https://top20.ua/media-resize/company_large/Starter-master-1081215.png?timestamp=1711075705",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1001.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWOAAqXHnd9qKzasmsAAcCf8HfoVVTAWOL-bl0U3w8IyrBfnDNUbXiLFPAVi0fpoR3ui0r8gpRr6cKGH_JoAH8985QUGaS7MlDtGA920frQWhU5kC4FPcBLdkyB3Z8xdVmwIZ_=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "8b823d96bfddbcafa04482f90490a9276c33a12fa0bfaf4c0ed08351bdd52633",
-        "bytes": 459190,
+        "sha256": "62f30d45ae7ef65f49d1348081b973ab86bc212cd81679e9b221cdefcb683d31",
+        "bytes": 247468,
         "dimensions": [
-          772,
-          445
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 1
       },
       {
-        "file": "extra-2.png",
-        "source_url": "https://top20.ua/media-resize/company_large/Starter-master1-1081217.png?timestamp=1711075705",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1002.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QeIiWncLz_RxSsv9uihzkWCWtAe_ChWD_7GadT6GBTCaHtf16ELFCOLRN2anktklpiA4oVqnQKusUZ6RwcKbjWd-PDLD-LmqHvaXUzfedByx2S84vW62F-ert1VTGRSORAEzWD=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "c1f5a5e3d3f90b4b33e7d61f9f1f91c81f7001a9739e4b5937bcd10070977acd",
-        "bytes": 452249,
+        "sha256": "5ae8530a3fa11f30c21e5b4f34d740dbca9d6a14a1490ee762047f0e4bdf1301",
+        "bytes": 287789,
         "dimensions": [
-          727,
-          443
-        ]
+          1600,
+          900
+        ],
+        "archive_index": 2
       },
       {
-        "file": "extra-3.png",
-        "source_url": "https://top20.ua/media-resize/company_large/Starter-master2-1081216.png?timestamp=1711075705",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1011.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tg8FWWJAl1Q_TpxlXCgN-FVfC9J98X1IrL36BL0-EoKHL1552dSYVrGpJWErkFs5wdpA3ffWE508yt1GrQ7aqCmcUBa7lFOqDMzkrDu6SiRgnaT1l_xSQSJWz8yvP0PwxnJRN5jp7DFao1=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "bee41524c2d4c84a7769820fbca3d0a8892a6decb68992937dda589bb9fcd602",
-        "bytes": 336319,
+        "sha256": "e7f9a6598756b3d47766550769256a02fc35eaa8a4606f27fb5c15eef0b5b0bc",
+        "bytes": 253426,
         "dimensions": [
-          735,
-          448
-        ]
+          800,
+          1200
+        ],
+        "archive_index": 11
       },
       {
-        "file": "extra-4.png",
-        "source_url": "https://top20.ua/media-resize/company_large/Starter-master3-1081218.png?timestamp=1711075705",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1013.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T1XkguYmgNtMVevrExCDH8ixtHi0zvkllSwIMvBRJC_e1G2UG1uRbyRwVemEREyhxhcii5Q5_KdlkQLcJfVWwoKt1QD8geHpx9jqVAK64jyl1z6c5iIL4TgnYMIn2mgnq8Mj2H=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "6c8275793bdb04d60ab429df8e99d85943309e41f5051db725d7fe94ddb81d31",
-        "bytes": 491737,
+        "sha256": "67352109782ae78e836fde7e83b9ac914e39862689476b9ee29a7a4420538921",
+        "bytes": 192193,
         "dimensions": [
-          748,
-          457
-        ]
+          1600,
+          900
+        ],
+        "archive_index": 13
+      },
+      {
+        "file": "maps-1018.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q6kqpnsqkXLqrTl8oQq42hpfwDvh1ZG4nx_Q6hY1nPyHaeu6WzU8XKQiL5zcsNqC8WhM03ZGtGqLDEZMb8pKLj91cQkwOkLG31KrMKxxF69mwtXbv78MIav9rJATNroOqKwD3FUytTYXz_=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "2216bcd5125a2e5ea57a65615a28895dd44a32261cb136090cd13090779348dc",
+        "bytes": 639937,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 18
+      },
+      {
+        "file": "maps-1061.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tmx_lPX11DDSf4OBq9jLhpeafJ-vTM-CF8igogGnmbRZp7lU8OEdeVsOf8U8TY78LvwR5ii4-_7COy-Ajby9JfAhk396D9V77jqD86B-ivNNvCgv7DwGGgAdOo_oGSqdchQjPn=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "149bc64d5b3495c14e0d3cb5f6db1a0df79d56bc620dbe6266922664a2524c65",
+        "bytes": 369939,
+        "dimensions": [
+          1280,
+          720
+        ],
+        "archive_index": 61
+      },
+      {
+        "file": "maps-1004.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RyTrcRYF75igBiEGWKjXfFqHna6vi4QXqTGqfQEjFKpw-26X5zsVr3o4FjZGsvq4FxZzflLwPTMw-79MwkACcZqVrby_v57QhdBwH56mEs_6vQ1lKT8RUpcSpjSznn6PuIEAMsPw=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=8813127369404865908&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "72a158d67e20804db86db3cefad7437acef5cd057f5fb63ace715e53114651a0",
+        "bytes": 89891,
+        "dimensions": [
+          1600,
+          965
+        ],
+        "archive_index": 4
       }
     ],
     "reviews": [
@@ -321,7 +452,12 @@
       "https://top20.ua/cv/avto-moto/avtoservisi-sto/starter-master-remont-starterov-i-generatorov-d.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1004.jpg",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -416,18 +552,79 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-2.png",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot%20%2817%29-1206422.png?timestamp=1758029501",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1006.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TV1g_8yCyM32Pj8JN2ZGdX9y7JIIsv2HmI_NJWGm3MHgjcp0F71Tyl103Dwg2COCV8P52MijayzNK37cKVkj6RN1v5hwDj21CdnQF3IYUgxN5IOqAuVz6EdIqvQFq19xnWloU=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "3d0d8252019d0c25c0ebd68ef25f569eecb2127207dc717dbd9e71fb6a004e67",
-        "bytes": 584359,
+        "sha256": "839b63684dd0e01d8039c01ce5e62f4bdf1c15c9faeb68eb57d94733959753ff",
+        "bytes": 214272,
         "dimensions": [
-          1024,
-          633
-        ]
+          1440,
+          1080
+        ],
+        "archive_index": 6
+      },
+      {
+        "file": "maps-1001.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TDGkZ-YB7YRh095FGpL-Kzghy732WLVPsDkMjCf-maItkrorCyZX-gTuFWYu19EQeiSzPd_0DDaIMwxxvGD_MeYZ7ffxOWO31sq0EaNThDP3iSc0Y6NkL8YKEQh5_t8fFKV-Ny=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "696adb78d05cdc41cba32283578025c1622231cd5cbef2448a3048bcd6996333",
+        "bytes": 651975,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 1
+      },
+      {
+        "file": "maps-1005.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TjSQIoZ0W8gU7psdnB_2aDQq6RH2g_elkL_ynw05XNMfAIJPS4boNYWQOxy843lk383I56YcX6npC9X1kSZkSyQJY1fu-FblYVhfpBl8_5i3YAHNzxy5K15PMUJY6aJavVtwo=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "07ddeb5f4a19adec5be8bd18cf379b1f61600580d80697019e4f4b8458c6bc13",
+        "bytes": 532091,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 5
+      },
+      {
+        "file": "maps-1007.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QLmsjf4htgMXcN9e1DB8C7AF5noh3s5EGZpB9Y9-TueGkm_tQVMYTyocLDm4tw8_uTIfJtxgyHuwMS_08v1PXNscbSkKDNvp0VAqr_TJO8hk9GyLPzy26_hWgREXWDoCpSzwnM=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "b06c7b3aad227a90378c3a6bc4fd1a157c0580a7b229520994e41a61cad0b1ba",
+        "bytes": 464843,
+        "dimensions": [
+          1600,
+          901
+        ],
+        "archive_index": 7
+      },
+      {
+        "file": "maps-1010.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R6AlU89i777xfFJF0vI-tnlK36Yc04ldRtls0t1PKIro3KQVk1ASgF9BMFxCg3naBtAuHz-XH6MwH9vy66vCytCW8mCbhbb2c3NP3vvWmvmg4Eu_jDvAcZNMZy3sUZnw1a2ms=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=5401750291112530590&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "23b795912c61394ff93b720b7fbf938bfbb36386defb64f6f599ba04a3f6dfbc",
+        "bytes": 50552,
+        "dimensions": [
+          1013,
+          1015
+        ],
+        "archive_index": 10
       }
     ],
     "reviews": [
@@ -467,7 +664,12 @@
       "https://top20.ua/cv/avto-moto/avtoservisi-sto/wks-stantsiya-tehobsluzhivaniya.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1010.jpg",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -562,60 +764,94 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_81-931686.jpeg?timestamp=1651127207",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1002.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QmDS2PAGe8sC7SFHFBGtdAtEz6x7d-Gnzgsmc_dQ-zoAcENSywy-RbSAydEmEEXJFzEhH2cAEQKNziOYt--l3IGpV4loaUFXgRHxm62HMIX-xbuvbPJbBVa7l-2iVmBrEypqji=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "134148e08cf8fc72598d0a20eb8c175479d8bc835b381d1e4de0bd44819ff859",
-        "bytes": 79371,
+        "sha256": "406e41998d333f1ed3534ecf946f13e1ea4062f46325ecc86d9a4fef4ccb101b",
+        "bytes": 395237,
         "dimensions": [
-          1024,
-          575
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 2
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_79-931687.jpeg?timestamp=1651127207",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1005.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SqEQJA0KhMJJFQX6Dmpk9_3_R1t17HZUD-AROK79Ii61cHM9AOE2AbfGcGQ3HTG2TzMMqmM3aiG3cIk1BQUGSDxAFvteBE6dFnzFdpnl1jCOwVldFRUz9ClsREuOyY4VqP9iDRuxus1D8=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "8e020b7131d3f206c44d2552e81203f3de74981af1dd0fd5cfec447bedbc3b2b",
-        "bytes": 74141,
+        "sha256": "cc0b81d71079664d05ad79d0ece4c4001124fb32d83c6fe2d6ac0aa1837a7793",
+        "bytes": 176638,
         "dimensions": [
-          1024,
-          568
-        ]
+          900,
+          1200
+        ],
+        "archive_index": 5
       },
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_78-931688.jpeg?timestamp=1651127207",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1014.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QWMEagGbcdxGcRcZLJsSublNT_L-CHZ3n5CEV4h9jEpwsGr0zDPvnYC4KH8MgDv35dqLmFplvnvCvpxnKzu8abGfRV98mBQdruxey7vIaeDs4uTjr0RMuYkWv4UZcmAMwATtKVuQ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "aabeaa027ec3f56a6ee34533102b4a13cb0df3e10148c32be0bde4fef2c04d94",
-        "bytes": 74711,
+        "sha256": "574a2fdc0cefa073c91079cb990204300a3721357b4f97c797946dcd62dfca33",
+        "bytes": 388599,
         "dimensions": [
-          1024,
-          579
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 14
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_80-931689.jpeg?timestamp=1651127207",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1025.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RRaDqoXPomqrFm3ngSJZtSOgrSRXcK45Qfgnc9XaaqA62N-uA5jhnAKGsnCMVzFf6fqD_leU9R5JypWst665nmxo1gCCOVlfl6-gTWJ6frnjNkl9DIFEVHGzw6ZmsI1LhvrD5I=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "f9271f85eb6029a05cadc689121210c9f555eb2067b8b770aac0b08e7a8e532d",
-        "bytes": 85788,
+        "sha256": "8ef976766366ac5eef480a0a9d6ae5152d7e9503c4111514c38504f7b4446836",
+        "bytes": 344717,
         "dimensions": [
-          1024,
-          432
-        ]
+          1600,
+          900
+        ],
+        "archive_index": 25
+      },
+      {
+        "file": "maps-1036.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qa7pFB_7b7sKgXzehWXIFFrqlTovEaJJE2fPlM73DIH7XJ-hTX8cBQXa6j-TcMbzVBzcS8XlzOeS5vN-AnvtNy8KKzbXvkITvF65OwoemxtLftGS2yU9Iv7TtqOfQD27BYVuH6=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "b0ef30d8c45f60feb0a4f4f35399a0294e8c03c1bd727ac5096051323f2b6049",
+        "bytes": 341608,
+        "dimensions": [
+          1600,
+          958
+        ],
+        "archive_index": 36
+      },
+      {
+        "file": "extra-1040.png",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SRVdV16TH2wVADBK4-CdAiM4SuniuDL4viImFgNC2n0ft2KRbJr63rAwh8lYOuRoZef22_EQUnL9ORYH72lCjKgG5kVzOG3oRRF5_L7g82JiZhZlOCm4UyeGkIgihQtqdqm6sd=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16677639826481717610&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "f1a0ea01dd5f59d4e1174e614a1c16fecb3eef98cdb160a0e6809d5d352e7fd2",
+        "bytes": 43713,
+        "dimensions": [
+          550,
+          400
+        ],
+        "archive_index": 40
       }
     ],
     "reviews": [
@@ -653,7 +889,12 @@
       "https://top20.ua/cv/avto-moto/avtoservisi-sto/avtotsentr-sks-sto-c.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "extra-1040.png",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -732,32 +973,94 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_4-1004877.jpeg?timestamp=1689749371",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/the-redgarage.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1011.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TjGqcjs7INpFgq7M5x04Brt-dNbsOLzse53QuGVTDGV9FNI_40LYQMgXIvS_21rM0_g4MOw8BLG8N6VXCv8gAcMc1CMaCZ_2qRwIETmrWJCdRj6Qvftuvn9Cbo3a9j0au3T2v-Ow=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "258badfff8dd20f5f75df86c30eaa7d8616dca0e216ac1729e1584d3fffc8e6e",
-        "bytes": 59639,
+        "sha256": "e8e3818627b38f6f55372e2b13aac05dfc755400394574e97ace47faa628c489",
+        "bytes": 489749,
         "dimensions": [
-          473,
-          561
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 11
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_5-1004878.jpeg?timestamp=1689749371",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/the-redgarage.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1006.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RrTzQhsFIncGdQuFOouiQxYvDgV6Nb6NFthuWibM2lOPpSQK04Gv_wdx9hkcQBfdrcXeeG0i6mRaNBVoEiBcjFd_lWR6bcQYsSnBQw9Lh0hHGxtjHmKOkYPeXZkMuTlvhqsZ8u=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "e597c2c16e8ef69248afdaafec203806b9d98eac691a21f56fe1a209246e5ebc",
-        "bytes": 102443,
+        "sha256": "456cafaad59be25d02a9185e8f5b4da77c3cee04b2d7eb08cb16c8a868ed46ed",
+        "bytes": 415125,
         "dimensions": [
-          578,
-          578
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 6
+      },
+      {
+        "file": "maps-1001.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RiWq_FsP18mcUn8pgfs109RjJFdfyYwccOMALaebs3oovSYEe-Bob-1oaodCm0eIzLjCJS2ZCwS20vCXTEIT4lVJ82GI2dClIA6ilsLTEyejsomjL8tQXz-T5MgYgl-HkrC1V3=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "d6f4abefdbd3489308a3160d80a73be7e52764087c39883d9e84de99ad4ae06d",
+        "bytes": 292416,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 1
+      },
+      {
+        "file": "maps-1010.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rm9i76nTyT3YTn_vjDbNsAvR5v-q4rrL93KuaqzQF6dNL4SfMyprcTQggmPieUyInbXU-DjWQ2D0I6MD3a0C05bezpMWdg27gl3Mum80GJjFoOBUbIFxeuc25FiHBc_oXeU-0=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "d40725a12c09fb4d6cee2e43a85e2fcc3c3cfb2142544fcf5af3f1049791aa2e",
+        "bytes": 343712,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 10
+      },
+      {
+        "file": "maps-1013.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9THNHftF_3wUWg6d2l6-4BegUxobEjIEGN-S65pIsMJ9GblovZJaiRnNCTupTayiX2mtxmtvt7X0UV20NzWNyLHJDb_MBN4zxQQahnXWxV_T9iN0H9TKfLOh99ISlDadbz1Vpda=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "69b4a3c5904374ddd9911427df8a6bf54820f27fda23d13fc7faa71bbae60ad6",
+        "bytes": 339113,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 13
+      },
+      {
+        "file": "maps-1022.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SIkt1YTW3blOcL460G176ryaTFoC3jKUDHFav1DX-LqZ9yDH6NDwzmoclFFWYAjMB7NNrLDWBHmnTZ4fV85J-lVJf0y1bWOzHNoTx0dEWZqDlHbstckXrRwyMwRWJ2f9od2VGvJA=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=7745257439971429909&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "24579ba4e69ee863217e5da50e0055ffd28988d621d0577ad74ff491980ec016",
+        "bytes": 182769,
+        "dimensions": [
+          1600,
+          900
+        ],
+        "archive_index": 22
       }
     ],
     "reviews": [
@@ -797,7 +1100,12 @@
       "https://top20.ua/cv/avto-moto/avtoservisi-sto/the-redgarage.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1011.jpg",
+      "kind": "photo",
+      "reason": "Відібрано чіткий знімок сервісу без сторонніх телефонів та рекламних плашок."
+    }
   },
   {
     "schema_version": 2,
@@ -892,60 +1200,94 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.png",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot%20-%202026-01-29T132952.488-1247107.png?timestamp=1769686265",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1003.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q9EZKmpsS-plo7SeP5tR0wntGamLehNvADqR0_rrlH0Ni68Zeq3tooG9sonmG8bHjO0qU2E72p2Um6TECG8WoEKQcqNrpCZ0HZMsqiIOlxhxAXCa3hCF-11p0Ha9VYUfMe2Tl9Ew=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "e241c145b2ba3e3ff1cc739c37df490cd194d78140a77495cc32aab884d639a9",
-        "bytes": 1012634,
+        "sha256": "5b0f2fe3e448ff4c4aad6a6f30913e759bc0c6601a81d76a079ef0b3b32e441c",
+        "bytes": 292995,
         "dimensions": [
-          1024,
-          683
-        ]
+          900,
+          1200
+        ],
+        "archive_index": 3
       },
       {
-        "file": "extra-2.png",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot%20-%202026-01-29T132940.403-1247108.png?timestamp=1769686265",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1005.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SRU82L3d2rNj3gMOg60sh42yMuUSxlZOIh5YvIc0DgK2obYQ5SPTpDqK2g9gmOWGECQjnsbeA55Mf1u4wCHG9s95TFKWKG4z6xDkV6dxMR-9-GjyvyNlXG_ySOJs4x0jF4hWNB=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "9062f20fe3057b54e525ab85fd5d8f1200e2ec6ff10f9e57ea57317a54dd68c4",
-        "bytes": 589218,
+        "sha256": "68618a7a8f0ebcdb5c30db011ef1e83a43867c6507cb769707d133681e5e66a3",
+        "bytes": 511627,
         "dimensions": [
-          710,
-          711
-        ]
+          1367,
+          1200
+        ],
+        "archive_index": 5
       },
       {
-        "file": "extra-3.png",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot%20-%202026-01-29T132918.142-1247109.png?timestamp=1769686265",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1011.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Se_39AkdHiIcNDQyl8yGQeOQIFSbYEGi3AqQZcYnCv9rIwTMJnNTr5tr_NS7_Eu86zNdVK8OqBfhL4qbROcGO3H_D-F6RcQMLWI9Xkhw2qgGtsXiPmIS_Frwh2p716GogfSZtu0w=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "4f01b23c0357418933b805b72b4735a0882918d447597beaef4771a09c4a804b",
-        "bytes": 855277,
+        "sha256": "ddc7d35cd8a322958339bc13021f0f5a5735d9a3a47eb641539d24de3ed3c5bb",
+        "bytes": 438556,
         "dimensions": [
-          1024,
-          685
-        ]
+          1201,
+          957
+        ],
+        "archive_index": 11
       },
       {
-        "file": "extra-4.png",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot%20-%202026-01-29T132925.929-1247110.png?timestamp=1769686265",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/ds-service-shinomontazh.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1022.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RaP-f6LQqqk8LgKIC8o4j4Mmft2mo0yzu1d6qo7kA7q2tyl2cosbZKd7MgrEcrkxM6r5aPPrOGinkILrrZVLV9CQhOXkqLlY5vNuzPhEsA8PDUgBFPMwsgisCax-KLguUo0QI=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "649fc12af3910dfc9b03937cfa13453c2f8d0e226e04d57e02b57047065d4b7f",
-        "bytes": 762023,
+        "sha256": "063caca67558fa0d5a3fd6b95c8cf8943c0400a959e4f212385cce65556b9341",
+        "bytes": 300832,
         "dimensions": [
-          655,
-          749
-        ]
+          960,
+          1200
+        ],
+        "archive_index": 22
+      },
+      {
+        "file": "maps-1027.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9StOJ4VrEJPoOgNn77hMlVzT9fuqnAe-uX666-dELKT8Tm97V_pjSRKXPMpmlp-0ddwkGKqSEdL6i7sdd6m_eLxGRBk_j5fk4Cr32TQNOb7gN9oy-uxCX8MKAEUp3Zrs58duZze=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "8b62da62491ee67ca44979f94f01efd00d0c0c56c8ea3a219f11e1c515407e8d",
+        "bytes": 172675,
+        "dimensions": [
+          960,
+          1200
+        ],
+        "archive_index": 27
+      },
+      {
+        "file": "maps-1037.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TKFIyzcK7UkjNrbIjowd-u4eipiC1jVecEh62orXhQkHfNw2a19jjfx2hd_faemo3HIvngkQpu00adC7XOdDnzzRXiYjTrEFHwM7qruyAhjx6RMcZT_C3cXO6AiZQAUc9uT8hl=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=12596061603319533165&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "95f5f951d8e0f45159ab2c5b716b0ac6af57bab127303429f59af64743b7a2af",
+        "bytes": 280959,
+        "dimensions": [
+          960,
+          1200
+        ],
+        "archive_index": 37
       }
     ],
     "reviews": [
@@ -986,7 +1328,12 @@
       "https://carta.ua/2398-ds-service.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1003.jpg",
+      "kind": "photo",
+      "reason": "Відібрано чіткий знімок сервісу без сторонніх телефонів та рекламних плашок."
+    }
   },
   {
     "schema_version": 2,
@@ -1081,46 +1428,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/%D1%84%D0%B0%D1%81%D0%B0%D0%B4-936894.jpeg?timestamp=1653839244",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/gt-motors.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1053.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q3dI2t0QWWIlfd9L5xGH6dVgebbWCtqjVPRaSFfgYmfLUc2tOZKMiBDBM9BEIK42MA1Ihs3F677iSXTdGejLucakxRoUw2I8gKqtGTVeVn2hsJ8H1C1vW4uoLt5Dhp0L9qw6hwDg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "c6e429674c46c0954be87f976169d0693bcf51ebb1c1cb2acb5b47c77984c967",
-        "bytes": 98985,
+        "sha256": "a1c92bc57a8820acb8f2e034a956142f607e62f4fb598c3099e787700bd030e7",
+        "bytes": 310482,
         "dimensions": [
-          1024,
-          768
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 53
       },
       {
-        "file": "extra-5.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/IMG_20200508_183951-936885.jpeg?timestamp=1653839244",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/gt-motors.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1010.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RxjMSWtFSxDQaZYEimvNW_SpHqH9gdhEN7KDNOtut9ixn8eHTYucuVc-cGm91-Uy9mJSuDoyxYsfh1YzCp9g5Id2OSeU4hazeE1hZl3SjK8RqoLh5OEHllPHtREJSQpr5_JB0=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "cde6d396645c6d70a3765f171ff9db7fbb46a471bd3f707ce335607ab27eca0d",
-        "bytes": 185543,
+        "sha256": "2093373144773005468f88b6f117f1dc55d0d0322831c7b0f8565ef9b71d82d1",
+        "bytes": 228386,
         "dimensions": [
-          1024,
-          1365
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 10
       },
       {
-        "file": "extra-6.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/IMG_20210319_183522-936886.jpeg?timestamp=1653839244",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/gt-motors.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1012.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QC3aaMEUtMoLQzemhcuS6o0EtxNKW9wqwQmZzjBuR569NeSjOEFafjxvGnmsSldNEdshlG6CHkZrUHoYYF3y-bM0fszUfDIQObYXFdaqNXggF9HULkU2rTagLtLFOy0v0El9TI=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "ac765ca7627eaadf55c9adfe3737ca37c60a6fea9d41e018278da069561260a3",
-        "bytes": 129836,
+        "sha256": "eef4c2cfc73e85c2a1499c0fa5df8d99416f89d3e4a086fe2fd01275a2dcfe6a",
+        "bytes": 198485,
         "dimensions": [
-          1024,
-          1365
-        ]
+          900,
+          1200
+        ],
+        "archive_index": 12
+      },
+      {
+        "file": "maps-1024.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q52fW2i_9lSAoVwjid12pJhDLKfXFNlEgIxckJIlfPaaPTCiVKqHZ4T_HYbKgp4O9nKNxRkxH0N_nYcgFHYfJhIS6iZVeNDrf6hNsV44PKEkFfRsKS6lUJDdDOk57rnCNdlPEQ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "3138b458678ff9449e416a3d8f41821b9811958be639bb69be573630057fbe57",
+        "bytes": 366635,
+        "dimensions": [
+          960,
+          1200
+        ],
+        "archive_index": 24
+      },
+      {
+        "file": "maps-1030.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RgNO94uRJod0vnCyPMDylmEnD-mcTI6mOh0ZWR07XbstQzJmK5sqWKrCK5h-8ffTlnsXKv1pcQzTpY9tg8JwCagC7WGIq7evaHmLjo-XTEhLSKp0MuN29Jfu4I2o6mxV8tuhhi=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "3866e2d3e7730b2a8a003bef2513a525fde0dd70d61dfc11f85a2438ba75d309",
+        "bytes": 155939,
+        "dimensions": [
+          900,
+          1200
+        ],
+        "archive_index": 30
+      },
+      {
+        "file": "maps-1047.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QN6drcP0CknvfJ1s9yk4Ag9mWq5pItwO_TRgG1FZPnLFPqDDumgCdSvSIfB2dS8Ay_OfJQwBRMNvm-WQpUsmxHe1K7u2YGGrVFIr1umjZgidiv4L5oVatPViZpQUZ3zb3DtZSwSg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "38bc19df785e5cf24ea9feaf8881024ca7854b8ac326f59877c045e47ccf4554",
+        "bytes": 349691,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 47
+      },
+      {
+        "file": "extra-1055.png",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SmpsY-eNVzvXiCSBmhJmKdmSkmuSvn6eHFEDommgd_6RjS0eGHcsvA6qx52pcn93VGeD-foi6mTmZ1X241_9ybFrCOcymoIlZOLYEqEMIru-dQxZPB9f7Tq7vfPXlENw1lUB0=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=18314220057265331026&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "61d59ade4032370f75624a5a8a75601ceed0a6732aeb4377d19310f194951181",
+        "bytes": 226884,
+        "dimensions": [
+          1348,
+          758
+        ],
+        "archive_index": 55
       }
     ],
     "reviews": [
@@ -1158,7 +1568,12 @@
       "https://top20.ua/tr/avto-moto/sto/gt-motors.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "extra-1055.png",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -1253,32 +1668,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/20261014_105230-1350317.jpeg?timestamp=1791966345",
-        "source_page_url": "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1006.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPG1exaseqhVzmfPQQqN36Y0piw_QJsE3ABgLmt9jkhAIVNS1d9BKw8pZlEJh8WojkbRPby3Z4aor9dOAxJzOlO8job7sJMY0Wp9MZzYPCL4jnY4DkWrra4QhR_6l3XS-FVfYWK0ciQn7q=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "e9131b0feaec0b771c4c0835828dde328c212ec1d8e38f7cf8c4213921878491",
-        "bytes": 99378,
+        "sha256": "24db65274146df4a5c61418b7153d32066e481942aced63713e7540657f26f00",
+        "bytes": 459054,
         "dimensions": [
-          1024,
-          744
-        ]
+          1600,
+          900
+        ],
+        "archive_index": 6
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/20261015_110554-1350984.jpeg?timestamp=1792051747",
-        "source_page_url": "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1012.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RQOcIIDmL-Tf-Amq9VMbYMM2SOwXKMuFYId1mjrcW7Ft5AK7SjN1OdHXrFT1kfWkLhypowIMRZCxFVHn_cwK60Uf9af2bYphivfAhcVtVoWuahoHYWL4u2Kdz6pdtDZEaH-plE=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "e4db7e8e6d13bdda82b8de78145a364f0b7578e96d19534652e7420bda010c17",
-        "bytes": 153390,
+        "sha256": "022fb3d09d877a1a2f128135466107a6c6f6f9bf4dbeb67be119eb5093d53a69",
+        "bytes": 65253,
         "dimensions": [
-          901,
-          1600
-        ]
+          600,
+          321
+        ],
+        "archive_index": 12
+      },
+      {
+        "file": "maps-1004.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SpNNotrWYAETp9xHfP0DJCZ4A-CIm-H2jicI_9ksr3xzbYm5ail5rVe-afnKmBoVyG0boLiMwfYCLNR2tYqg6ee9Xvxd2K7spDIOajVGR1Kmcl-xxlATlm0vXmK3lpkKAjxYQ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "f50b7bd1d874f24c4dcca062d4c77ecedf4288e4d83f72f85d09f52bea95a570",
+        "bytes": 277676,
+        "dimensions": [
+          1600,
+          900
+        ],
+        "archive_index": 4
+      },
+      {
+        "file": "maps-1020.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SNSg3vnI9GNy5gSrfzihV_0Jbpff_UDGOzQ6HtEKyTxLhIatXIlDOkOsROhIkBkXXFPLGN1KA_yGftPnl0THefOw-ss9YaxYbMsw5JPj4lLR-fvmkBSGGZsm8DkS-epgSxPrkWodBZ-B2m=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "5c9aa215f1f2ce8a2c260e1931ad6b351c99480bad65470c07e09c2bfefa4ab0",
+        "bytes": 258235,
+        "dimensions": [
+          900,
+          1200
+        ],
+        "archive_index": 20
+      },
+      {
+        "file": "maps-1026.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RMbb8SJIIoOPzlodHZS_l2WZZL2ZqDfQXV1YKjIavDCj_o21tVXhEC8vQ-x2_ks-yQasrrgm4v0RxhYfhTbzjnaqgAc3c8S9xDnyt6IsmNszfLDjBjsg1kB2MzFK31Ch6QWjtpvw=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "1a0f92bc55a3005a02eb682bd08712c0f6a1db7800bd9c467af82528caee361e",
+        "bytes": 162999,
+        "dimensions": [
+          1600,
+          720
+        ],
+        "archive_index": 26
+      },
+      {
+        "file": "maps-1008.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RX0Hl4Yc6lOV-upwvkhZBDOVutnswp_8U3mJvxaRQDdYXl5deRLgUcHhYKOXkYycgcZtY7fqdVvGaplSpSIZo_irMDWoDXw8vOGX7yBenbqYdOSeTI-9UoX1oyNgXWXq17IRlhrF0TFXny=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "7235bc980d2093e6e95ffefaa764d7645547f5df2962ec6289c7f86f6623e6b2",
+        "bytes": 798640,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 8
+      },
+      {
+        "file": "maps-1041.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TeyfLEBQAmfio4vt_-_6NS4j-ZF3AZYJ4TvCl5SNVj-9Pi8nAtiiBDSQJJwV9HuOWnpxZRNVKzzoN0WQamW3XGWKHQeSh8fuv_n4Tq9MUlaX1RlK5DDTpNb1jvbjFLFoQ4788uhfcgRJns=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16149769111579598572&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "506a11f85d389f0663413306e258fc19c2b23fc185a2af5441489bba774a388d",
+        "bytes": 133751,
+        "dimensions": [
+          1195,
+          1200
+        ],
+        "archive_index": 41
       }
     ],
     "reviews": [
@@ -1318,7 +1810,12 @@
       "https://top20.ua/tr/avto-moto/avtozapchasti/pp-shulgay-vb.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1041.jpg",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -1405,60 +1902,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/5926d0e833a7f-816827.jpeg?timestamp=1624623838",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1017.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q9Pw0W4fZbvWON2fUdd6zOWoKfg8vKgiQqGYaaWZvxYqmBtzysqLqMJrAjQqI2pXEpmrz1OX5_BT7jUYz7nb7uifqLCY8JtlDXN_rcAwZ_Jux9A6otRq-tNwQUac5UuNEsnobdr0ShU1A=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "b3085c899ca2946b14d1947f31c21cbb07ec226211024dcb1e779e7b3285ef21",
-        "bytes": 47076,
+        "sha256": "b4d38e836a87e3b51837e30479031cdf7c6a2fe9c57e7a25293f5a62b52c05a5",
+        "bytes": 174869,
         "dimensions": [
-          728,
-          544
-        ]
+          1280,
+          960
+        ],
+        "archive_index": 17
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/5926d0eaf35bc-816828.jpeg?timestamp=1624623838",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1018.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RW0K1-W0slkNtRRwUksgPHWqXgwDflvsB5Is-du4rz7FQBH3Cp9q1GqPbN3yYFwm2xCFpkMJHLtwdg89cm9RuNLbVxMXU3hr-w82A4_RxR4dNBFyIUXeXrAGwfivN8DEZXSCT1cg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "31c15f2125727ef46a89d3f644dead391ef16b29b9b3dc46bc3b7d6dd408fc95",
-        "bytes": 45311,
+        "sha256": "bf95576204e2c7a0b40f2471d2c3b80a7b585d70683d104b94629e7daee97574",
+        "bytes": 382185,
         "dimensions": [
-          728,
-          544
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 18
       },
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/5b28ab120605c-816829.jpeg?timestamp=1624623838",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1027.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QNCPD_cVMSj4eG88Z5Y5TgqFcM9stcCPqLb2Nni8sUUOf9_ev6GuXsHbrSf2G3OKfUQj622txkjqxcSQEqaifqbRzubnMP5m0hKWHQOhOZlmvnSmByiqV-Xj9I9WS6WoHbE0vdwL3TJTM=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "dfa3695220108b743103a414deb2b6c4a0b75b7cc9929bd6b26c2399be87be67",
-        "bytes": 37998,
+        "sha256": "f75b3e88f0f2f20e29673acca319c78f9dfe88c2b369bb2e8a62b846489c85f3",
+        "bytes": 148648,
         "dimensions": [
-          960,
-          600
-        ]
+          1280,
+          960
+        ],
+        "archive_index": 27
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/interavtoservis-727.jpeg?timestamp=1568043128",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1033.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTGsuyAdRs0isBnbSsNqzV_ZpLSPaCGaJBLw-OAa5Smaixt1C0iJzH4XIt3E9DYXlktG428_kpIBuisfn0LprYBsvAchFC-ZaxBf2_8suOAEESxj_zmDe2FwG29GcpKg5jMhvOvg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "4244e93d3cb2e46da43c91696a46c45fc1dc289c2804b6c72c27e501217f81a7",
-        "bytes": 130948,
+        "sha256": "668f7bf764701c7416aacbe4cf04e62f141385fc26f5946394893fbc279706eb",
+        "bytes": 403149,
         "dimensions": [
-          1010,
-          755
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 33
+      },
+      {
+        "file": "maps-1038.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QDOmb3h4j5ogvNKsc6USZsO4uM1Gs8g-xL1QQdbjdfUSb7j1Q-bNIzSZnUsWWGuvdBVtIJbHHr1vjqJ7Z5ihWQFfDYolrUIKs64lnIwMwxzAouPzyYVj148bF8WkmMS6AIxhjL=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "1432df1ebbcc155e78d6c20981239e9f4c1f4f50035019ac0ce2da7c04bca248",
+        "bytes": 60499,
+        "dimensions": [
+          512,
+          382
+        ],
+        "archive_index": 38
+      },
+      {
+        "file": "maps-1079.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TK5HR7Wzefcf-srUBc81drGdnL32wLPxZTIGQPQKT619mDgo8uxWRCOAHpG1gQSagUZTfJI6yD03Z_ZVlYdpjirAmupymNip8Ktl6oYCHQMfVhxute0Wl7xjLHDhErdd8XU1Z-=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "c5140fbe311617c37837c398907e34caafa6dea17dc3e4af2b9640b945ca9f09",
+        "bytes": 49678,
+        "dimensions": [
+          512,
+          383
+        ],
+        "archive_index": 79
+      },
+      {
+        "number": 39,
+        "file": "extra-9001.jpg",
+        "source_url": "https://top20.ua/media-resize/company_large/interavtoservis-726.jpeg?timestamp=1568043128",
+        "source_page_url": "https://top20.ua/tr/avto-moto/sto/interavtoservis.html",
+        "source_name": "ТОП 20",
+        "sha256": "416ab93c8725155213d944ecfc101effdda5dd19572dc9f79be3261143f1af3a",
+        "dimensions": [
+          1024,
+          640
+        ],
+        "bytes": 13280,
+        "maps_url": "https://www.google.com/maps?cid=11181878873770847049&hl=uk",
+        "observed_on": "2026-10-30"
       }
     ],
     "reviews": [
@@ -1497,7 +2043,12 @@
       "https://auto.ria.com/uk/autoservice/sto-interavtoservis-11929.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "extra-9001.jpg",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -1592,46 +2143,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/%D0%BC%20%D1%81%D0%B5%D1%80%D0%B2%D1%96%D1%812%D1%81-1028618.jpeg?timestamp=1695044339",
-        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1006.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TF_pDtYYE2UIDEEogDNguQANPAtzhzOosBIW2f2dyHIIe9Sch8KFB1w3KUWl-hHVqVLUA5v355zuigEEzaL0tF-EnRQOlu7WwYu35XA6bV-oMiAt0uRWljjsTRPzRUmIJbN1qg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "6f30914a5825a489237fb749db1d9e3976324207c627b765092f7e425454ca05",
-        "bytes": 104147,
+        "sha256": "560e449ded4ed1fe81ca0dfa53614d9ff96f34eaa51e97a38d115f299cc4d140",
+        "bytes": 350096,
         "dimensions": [
-          1024,
-          683
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 6
       },
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/%D0%BC%20%D1%81%D0%B5%D1%80%D0%B2%D1%96%D1%811%D1%81-1028619.jpeg?timestamp=1695044339",
-        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1023.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sh2IzdCNsOwqejEuUNyH-D4raJLWL4B6n6wfF031p4Ka7XFmlDUwBVLhPE02lpFIm1jwyzPqA2Ie1ghSGVAM5ew6T42-KkSjs4W3SmIp0Kr4Z1OTyPWZ5vKnYH_emBj7oVAg9Gqg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "d3365dbf7b3d02aba910ee4f830734fa59d0d30c56f31244994dde0634f9302e",
-        "bytes": 85756,
+        "sha256": "537aed7d7130236e3ee22f7fc8048761f39b258b7da31ca942e8a07a490c81e3",
+        "bytes": 625864,
         "dimensions": [
-          1024,
-          683
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 23
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/%D0%BC%20%D1%81%D0%B5%D1%80%D0%B2%D1%96%D1%81-987675.jpeg?timestamp=1683780170",
-        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1014.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTKp7c-gkdUiO8riXEDxqQefCd1dt41Qp1d-Kj6BaBsopMmUk1GU6nb77Jz9gfhTssA_fHspT7gf3gIvW_pZ8Yg3eUrV0m3yhkjCBe0ShwNbuPgVSjpaD3cobc9LUf3j5Tbb0=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "0f5c1ca74bf0361e49b9aa7f8b7923a70cc8daabe6f3e8284d77301432d49d39",
-        "bytes": 114219,
+        "sha256": "d90c240cbe2e3310ee1cfe900ccca28788d9be6ccab556f46d4f903e39f926c6",
+        "bytes": 255488,
         "dimensions": [
-          1024,
-          1536
-        ]
+          900,
+          1200
+        ],
+        "archive_index": 14
+      },
+      {
+        "file": "maps-1033.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qlyr_ER3jptxDxrdxX30ycAcH2x5R6Rc4oOljSVfARF6C2bP5vBiHcWmnVFrJpVwf5-d0j1E4rrK1848BdhJBoOVaW6sAFZ0OU0gBlStBh18GCdSsPteOL63T2VZZQ4GoU3QdX=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e77413c7448bd18279574cdf9d3eedbbe2fb5a0330178f40101e3b4266df6a17",
+        "bytes": 423946,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 33
+      },
+      {
+        "file": "maps-1061.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R1Vj4i6mtIP44oZOGB1XlSAOWS63_ePBQfteyKHirV1_axuYaIPRcNebDT1IEXoXw3F5ggIS-32NCp389QU-ZGuHAzufSIuZyEfF72zREs3yoTT2OEdTruymbqays88fSgV20Rmw=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "395671f5b3df454be5c1bb177be1fcb7982167d5782d353fcd6e00e0993a8055",
+        "bytes": 284517,
+        "dimensions": [
+          900,
+          1200
+        ],
+        "archive_index": 61
+      },
+      {
+        "file": "maps-1068.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q__H1JjgLCMVnL8JS2raKQl9ymqY-e0XbQ3IjkM7cVZDpjJVPT1qRPlOlYkU_3ahL5WauM7P-Xy10NeAoJZ9p2Dy--rpflgvWwqToe7oKcpuf5PVpTcoSdE0Ow6wz7D_Dufb0=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "242f0e492a687034c5bd42e9eb34bed381b9c5ff2939e65283cf0cf2f3710793",
+        "bytes": 112669,
+        "dimensions": [
+          675,
+          1200
+        ],
+        "archive_index": 68
+      },
+      {
+        "file": "extra-1076.png",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SkVymup0BGeBFuADbSSrFq3E4EKNksEPjRT_B6O8DCYR19yWkJ5k9EuugTTwNoQhwU-9hEw5ZnTfDfmqMYZTFAqsfawJdkrBlsKznXg2YnlorGb0U2iDuK7eXrBma8DPESxIbQSg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=12869451852050996419&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "2eb5e3dda38d8af351535e75d5eaa0c747f1e22d4c303cda84b51ae01e30c909",
+        "bytes": 186802,
+        "dimensions": [
+          1600,
+          901
+        ],
+        "archive_index": 76
       }
     ],
     "reviews": [
@@ -1671,7 +2285,12 @@
       "https://top20.ua/khm/avto-moto/avtoservisyi/mservice-m-servis.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "extra-1076.png",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -1766,32 +2385,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "maps-1.jpg",
-        "source_url": "https://lh3.googleusercontent.com/grass-cs/AABkmLcvC6PEj5FdCxAg1cKH0QuB33yzxIXvtG6ygwPrmXpTOZ5_krm6E-QRXHd74niVkAx2Dk_52lF6WlNQBIKUPeS-IihjEX9zdhuKEXnZwBuYPFOsSF7TrFaFuktcz_1hbinCrSi7=w1200-h1600-k-no",
+        "file": "maps-1019.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RG-1lkZMAWKJPYQV4VcXh3TPNH5th3Sp-36Ms8KIfJeSb6MIbjqm6z8JF7nvcRo1r-wR8vvvKiIllYJ5A6zAS52w5TnggB198Pq9_O6fqGMwvu3L0O7y3B-qcQmKXfZ-_0K0zu=w1600-h1200-k-no",
         "source_page_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
         "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "e2d5a57c772b3223bc49dfa252b4566b56f5a782d040ae0ce43ed48560809f98",
-        "bytes": 103295,
+        "sha256": "accc96d1600bbafd4c30b5bf0c234fd118bb6d4d287e712038b8ce8bad17d6dd",
+        "bytes": 259193,
         "dimensions": [
-          960,
-          1280
-        ]
+          1600,
+          758
+        ],
+        "archive_index": 19
       },
       {
-        "file": "maps-2.jpg",
-        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RBQGQSo01qJARML68xGiVmLn0JBcz5CEo4U8K9J9oscK6ipoiXA2u5G6J7oYOTHHRGAnYWo6ypWLI_Vi1LPKI_ue-GgL-422irjrttzGo1qiGodOTNH8K7ycffybKd3mJFKS0y-g=w1200-h900-k-no",
+        "file": "maps-1013.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RdyKkmcjasn7Z_wpTWMp_BGP0xEliFdudZlY37b63-3V6Mvkrxjiu4QupYwxpwpv6ySp9E9GXQlh0qaOzgv9_P_d6v5-soVcD9S9IpHsV2Wr7SAsHjTQjD-8sIAFlTra2NxXuoAQ=w1600-h1200-k-no",
         "source_page_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
         "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "28586a24370d31c662414c8e2b7db225ca6f21eec72d4c40670253f31d561ae1",
-        "bytes": 306664,
+        "sha256": "a18879901a4482ea6679a170db0c4b7df8c9084011671e4b8190be6bbdbb1b00",
+        "bytes": 277020,
+        "dimensions": [
+          1600,
+          901
+        ],
+        "archive_index": 13
+      },
+      {
+        "file": "maps-1010.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RNy-r3N0l-6LNCHJgOaTuEaQvz-nkPWTl-PGWvbfaNOakalBXAPd3VHxHccHrq_k-BZcx8-S9mD3xotwidELgRcsUIVjH_62n8D0apqhxHUZqgGJJx9he9M-7M0EStSFBKnOWy=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "ac81fd0dc0b7aa6b7f782629b5258c4021033616a125932687a69cf27442035a",
+        "bytes": 150176,
+        "dimensions": [
+          1280,
+          720
+        ],
+        "archive_index": 10
+      },
+      {
+        "file": "maps-1023.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sv41wIJZURKAEZONt3dc-zO_NH5IDFUWRzogsGrDj1vuR_f4mX7gjVjAwwjom5EcuF3Co_mVZ4QRszLdK2vDcWKSkCCB_5C_oWxW2eEz-4IJAdcG31fXB5osFUeUV8Bs9mDhZEOw=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "99d0d9c9e677b059b960c8e4e1c0e4612090334eb9d8b59f344a613887dba081",
+        "bytes": 173060,
+        "dimensions": [
+          1280,
+          720
+        ],
+        "archive_index": 23
+      },
+      {
+        "file": "maps-1026.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RTYpWT3Lc7pCtjg6ZGtGOTfyCTiA7pazc8hQEflSY-oewYBcsIydpRos0KKp_I51LLXt79eMvHQZbeaBxJ9LqFpE9i4V3X23DQ_sABT1biUgp_Eh6Ej2sbhVa_rc_zr9S2PbyZ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "5c786879185f1f6924ef384158211dd8a9217719b90bedbbc4dbaefd45cd5660",
+        "bytes": 129343,
+        "dimensions": [
+          900,
+          1200
+        ],
+        "archive_index": 26
+      },
+      {
+        "file": "maps-1033.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9REDHTD8CBy9PH3fSKF_u5CtLIyJ0YQBHGU2lGbJcWf7BkIAvEGnaKzsiBJZayJnAqyvYNmyLxLe_DT3IPWVHJbYa6P-uS3TP4Sd9jVPs-Wgt9_y8MjNFwhVjG_s-_s2QmqqZ47Rg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "49a9ef5a7e803df0a4e6345e05624583ca73d1150295a04ccdcf181e219c85ac",
+        "bytes": 128649,
+        "dimensions": [
+          900,
+          1200
+        ],
+        "archive_index": 33
+      },
+      {
+        "file": "extra-1031.png",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TywuH8CPFdxO7tbXwUdK1FJePSWOTdrBoo8VhMvfjMBrUpuAuFC_DAk8BgpRZ2lyvnBmZIHG_qjvYWz7_TqwuG5urYC_itbhGf3dYreFdc9A2Me2riRrCcJ12xwAOtR3cht3TT=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=13167474500102797987&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "2ae8fd237ffebac657d128fed8930230cf7154508f5d52eec58088a9b3dc24a2",
+        "bytes": 163922,
         "dimensions": [
           1200,
-          900
-        ]
+          1200
+        ],
+        "archive_index": 31
       }
     ],
     "reviews": [
@@ -1831,7 +2527,12 @@
       "https://top20.ua/lutsk/avto-moto/avtoservisyi-sto/vivat-avtomaysternya.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "extra-1031.png",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -1926,46 +2627,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_2-1105864.jpeg?timestamp=1715867826",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/titan-sto.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1002.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RWUUbMS-Vo9OEEfiamPK0SoY5JD6stD7jt0WJImZ9Wsi6rHiMYMSMh7dPRTt__53stSn9A7OrfAcJjPoXbnPGkhasnYSOOzxYK8j8D8ig3WMKrIuD0HN59oNjSrkve5_PYfpZtgmcY9H0r=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "eb5aec0cbb624f008e5b52bd208077060cb75a6f79f3a10a96899d2f1b1f1654",
-        "bytes": 48354,
+        "sha256": "3e06d26ed1a2cfb11b25f2def5601dda328800c32c8abe44eb59f5d79d80103f",
+        "bytes": 353133,
         "dimensions": [
-          459,
-          509
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 2
       },
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_3-1105865.jpeg?timestamp=1715867826",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/titan-sto.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1006.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SrzpE3oDDg6oI8eYW18nMRLbSDWuMt8-GKLXp5VogKMwlsGnrxRuLEKZbwbz-jUcZ_e0gSgYQW9YD52Qdnb7-Wx3BPaGlwSDL_vadFMPVTaSn77pFwtXRdmowewgXgc1AmkuOcU62UGOeC=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "6fccd60d6497044432ff037df8c5407e567a10bb102098767c2dedcdd265a8c7",
-        "bytes": 43692,
+        "sha256": "23632a357b275dddf661b19c067ed479f0d9e6ac8a4407e700c9d965374207a8",
+        "bytes": 335543,
         "dimensions": [
-          436,
-          525
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 6
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_4-1105866.jpeg?timestamp=1715867826",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/titan-sto.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1009.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QE57GvIaqOSkazG3ZU3pFE1egOUOVepF0yXa_GWtQO3bmbri_bHOl8hx-fBnFSyQtDbcLYXufr_4UHoq5Sirs97ua0TE8v5VfeRmM53CkaUnAbXUN5BcBfJ3Ah3XZupBa2cHFGd7pEwHgp=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "485d54ca399130f7f6c232ca6e5ca3608f2a78cc3311173689c8786f0a166735",
-        "bytes": 61940,
+        "sha256": "79752add42440f29f08042bd7d415dd81f78861460f3dd943a515274d4f6626e",
+        "bytes": 272267,
         "dimensions": [
-          439,
-          539
-        ]
+          900,
+          1200
+        ],
+        "archive_index": 9
+      },
+      {
+        "file": "maps-1018.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RDoDFXAO_tea5E3RSpp7gfviUxym-isqlR4hJg1a-sAzFE18_tfp-XKOl9ybP0h05JkNS4qP8KLnQCuisbra4_WfW4ZlkxbR0Rswdj-0Pn0sTFnB7zCsbhAfIo_fwDZr3X8s02qlxuORQo=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "840af33d87ebd4e033fb17b92357ca6b8e1ae30d3f45e3a43942e16d79ece0ac",
+        "bytes": 217512,
+        "dimensions": [
+          900,
+          1200
+        ],
+        "archive_index": 18
+      },
+      {
+        "file": "maps-1028.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RCDDxQHjVqvtFWhftRV57oX0DxuNo5yXIyN5kNOL4VvWN3_VFR_RatqjD0SXKjh8d2Ng3bdo4sA7nNXtGzVEXwd0B0MvlVPT0FjacDMEj_jeeO8SEZ5y6_ykVb_WXxHW1XYGcmQFnvdm1r=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "57afe611dc155a35120b1e8c8f2a6649818415f5b141c0e75bdd2faaa6f4741d",
+        "bytes": 226837,
+        "dimensions": [
+          900,
+          1200
+        ],
+        "archive_index": 28
+      },
+      {
+        "file": "maps-1036.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TorUKy0hlQfgzD_icfclndw8BoJDEzFdGgNHmGbCxMijW5PEyx-5Chpe4-DsLA8PMClz8dpYgYgKSGhITPC-icYyjgwLEy3oVzWhLc6KBuh3oEVpWkafisXMHeJLUep7F-yDxOvms6t2aQ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "273dec0a407e2895a94b0519d10b792149523d0158ee757516c4df62b2c43c02",
+        "bytes": 201147,
+        "dimensions": [
+          900,
+          1200
+        ],
+        "archive_index": 36
+      },
+      {
+        "file": "maps-1079.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RGdzydNWkwvTbSlJ2HNJqExPF2aN-tEG7q6VXvHQB3Tu9nSvL4dDt0PVjN8Pe3jJhriUCFKa3Our3dJkSwnHdnC_fxVV_zG5XxGep8lYXwzE_e8aCE8qxvxfKx20xHuxG89W3j=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "0ed6e8bbecf9ad42adc66a4cf646f75ccf84307b6c4b02f8b357b5462d8015f4",
+        "bytes": 137246,
+        "dimensions": [
+          1200,
+          1200
+        ],
+        "archive_index": 79
       }
     ],
     "reviews": [
@@ -2005,7 +2769,12 @@
       "https://top20.ua/tr/avto-moto/sto/titan-sto.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1079.jpg",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -2100,60 +2869,94 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_4-949043.jpeg?timestamp=1661492323",
-        "source_page_url": "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1001.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T46PSfZ82fIL4BvkZgWwxqMsKbAQPGMFeFvC4QUWNgSW-G8MtYYaXDSzlPH7BdZhBlpff7cyv35ilnjSmmXdQ6s-JOdwywqyxU9f7WQUZ9fSqla-JxBW8eLf0uMnVFq732Tzt2=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "4851c4b61ed5761df3efa69a4b7fb5a439077b3a8fae0b5d057201f419578f81",
-        "bytes": 48147,
+        "sha256": "2ac464c7a12be883d270dac427f769d4681583b9c2866f9f232e18b9b681768f",
+        "bytes": 161897,
         "dimensions": [
-          765,
-          473
-        ]
+          1600,
+          739
+        ],
+        "archive_index": 1
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_1-949042.jpeg?timestamp=1661492323",
-        "source_page_url": "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1002.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R1zoHaoLaEGUculrgj1DV8FZUg4eAvyIFqqg5gL3rE0E1ZpqNBbiKQafap-RTyxbskDqGefj3JdoWFmtnwg_MwK7hHMAXA0wT1f0fJFhjdXbK--X_eOymQuAHImi7EWE4Unt_e=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "5d4422ec1351b5fa40a6864e354a1abf2ee99539d21c5a15e99f97b36fb94c4a",
-        "bytes": 48150,
+        "sha256": "8f874caa90a2ff3371929014fbf0cf74411d7a9a48898b31e19eeebfe375b57c",
+        "bytes": 244097,
         "dimensions": [
-          605,
-          567
-        ]
+          1600,
+          720
+        ],
+        "archive_index": 2
       },
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_2-949044.jpeg?timestamp=1661492323",
-        "source_page_url": "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1009.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QnQSpihSwgRUKnamoijZ_oMd_76Cvy0G1sRWxSIcnmY9Pz8fzcKpR-hH1Ts2VpdS-DCb5qIFN4Y6DQyIinuysmLGFq5wDQ3ttohXtHT95-4v2zhN320lZFqTnmumG7ROWkeeHY0VnF4cs=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "fe7978adbe6c2f0a25aa7c9fe2623070200681db98a6b99135369bea2b22726c",
-        "bytes": 86750,
+        "sha256": "c26737e02d6cd3415480aa92863aef7b63379cba61f9b7c65d0ef54902e49262",
+        "bytes": 319315,
         "dimensions": [
-          651,
-          486
-        ]
+          900,
+          1200
+        ],
+        "archive_index": 9
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/61b2074911e30-922388.jpeg?timestamp=1642979913",
-        "source_page_url": "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1010.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SHU3c7ePkMxU0Ex1Y9fp0xP1yoJbSdTalvLS1SulnmiKeOMXa4497vdOTndv_QLB9ZV6MqY8pS7QAWL-NVxCEKJttxX4O1fl7nyVmudtneqMC-qcspcRYAeVqjhKeTos8Vk5vn=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "9cd803c308ff9d751a4e77c461bfa9d3e9dedb7c8b3c9c34b54365eba762e3ae",
-        "bytes": 90340,
+        "sha256": "3576210889e69c279cac57ef6639dec6ce62c47655690ae72140e74542c59d3d",
+        "bytes": 218949,
         "dimensions": [
-          719,
-          960
-        ]
+          1600,
+          739
+        ],
+        "archive_index": 10
+      },
+      {
+        "file": "maps-1015.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWurOStRpsFYAC5c-7JJHeek1NiZ2498XDuY4inC0Y7h_GVlmT9zoF1OJSHT-i1nDHubUr4SkAkQIUroNe0qncKaYQ8qya0n6tVO4bcc4nOsZxZI5BTRM0xFTFpvsUPog3R7q6=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "0f83378b94288eef9c49bb83af32a1782439b46aca1ddfcfe574affc9887d3f3",
+        "bytes": 135751,
+        "dimensions": [
+          675,
+          1200
+        ],
+        "archive_index": 15
+      },
+      {
+        "file": "maps-1019.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S2Eu1H522SN6OuhLypb8M3rbBlHSWawaONYTR-FKwsVRXus6g8D3S7RosH7zwCfQkrWRnruv3VErO1Wy77Bif9tKaKsvumYh1zDNCXtP0JkSd9nZF7oOALp8O8Kb9F2hIV_sV9=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16402766617596990770&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "fbfcfe225904e96b4ebf600f04d24a725a42aa99329622ad73c7541f0261d575",
+        "bytes": 243484,
+        "dimensions": [
+          1600,
+          720
+        ],
+        "archive_index": 19
       }
     ],
     "reviews": [
@@ -2191,7 +2994,12 @@
       "https://top20.ua/tr/avto-moto/avtosalonyi/auto-ste-avtomasterskaya.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1001.jpg",
+      "kind": "photo",
+      "reason": "Відібрано чіткий знімок сервісу без сторонніх телефонів та рекламних плашок."
+    }
   },
   {
     "schema_version": 2,
@@ -2286,46 +3094,94 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/IMG_6072-1189302.jpeg?timestamp=1750679832",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1006.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TCLgKj8zgLnqH88xzhvEBgPTu34henVA3KBDBRyWGflXNYj8fYAlG4UK6tqakOEwy3fuag7AaIQBtn94XlE1hHs5GyuG3V2Y37v59CYjerq27QKQf8pwjw43x2hJXFz7XzlukExd_mcM0=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "8d12bdf1c675ee136e83c804b866c77787861f401a6a5c324aeaffef15c74fad",
-        "bytes": 115977,
+        "sha256": "df6eaa5f27b78b036addbdb3c65a7aec56e0f5ebcf9f46f1dd1c0e473b299a36",
+        "bytes": 618021,
         "dimensions": [
-          1024,
-          1365
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 6
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/IMG_6591-1189303.jpeg?timestamp=1750679832",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1007.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QrYycbEVfc7v4v9SbmpX_RO6S-hgtBXyns5KTOPX26zW7Ug0k1Wm4EXpaF7qM7Ayxp0iO0Z-nXdKWB2td5TFdZNB5NOU1T5hHUTJiVi6xeoy5TaOwuHdLsUdQxn8dHpbFXUYx_=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "c63dda41b6abc687c5b521da2dfa6d256378b5a8429dc61a42f6da75afc807cc",
-        "bytes": 174633,
+        "sha256": "3f1292370f52b3c5b48eafb1c814cb7b9f571e429ee8e9b54483d5a812fa9498",
+        "bytes": 435998,
         "dimensions": [
-          1024,
-          1365
-        ]
+          1600,
+          1067
+        ],
+        "archive_index": 7
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/fa994e8e-c15e-4691-9ad6-f4a696dc6382-1189305.jpeg?timestamp=1750679832",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1027.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tj2gL38pbpVxfubTTR9G70HQt4SJgaO9cWMVxSd7o9ak2E1AtJatgatBxmhOO9dMMoUruhWNH5HF2h6NULVtWT6zHkCvMkbCRMM94C7nkeP2qcDnc3xUVrN0aUNh-ueaY33Aff=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "7c051e8de9b689b2772506d4a88bc3e51a60d40184d8a84dabd226bd38ff28cc",
-        "bytes": 166560,
+        "sha256": "c5198c3a912336939e4d4e2b5a70f1ce90a7b34c6e4683a3353c253871aa0d99",
+        "bytes": 349324,
         "dimensions": [
-          1024,
-          768
-        ]
+          900,
+          1200
+        ],
+        "archive_index": 27
+      },
+      {
+        "file": "maps-1111.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPXz1e6Rt2vDDeAHBYT54asCK-2bdz1iyzRTCpyJBE5dsvuFhfgwFTrWVlfKRPTTuZJaVPbe3UniuQoN-RwyxehuQiVualZIrsGJSBaZWXPYeB7Dsn9XXlbaQxge3WKSXbwpYa=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "937923625fa9b16a8e751a75003fc118e3d4d6913e1c17a2c17d5420752c56b4",
+        "bytes": 380239,
+        "dimensions": [
+          1600,
+          1067
+        ],
+        "archive_index": 111
+      },
+      {
+        "file": "maps-1102.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RfrHN28zclH1Rm5MbDc6a3hwVzDw8zq5dcEkt5FxLZYoNgkH8oUJn61VXVFEMSsipH4wrANonGaQMMOWHgJZJcRRLgMuzoB29usDe320sVCSsGV2D_pB9fQgZf6mmvewFpIbCi_w=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "5e9475fe20904d1e1725f773f0de79c2229a3c905ced0319b81e3826cac6c11f",
+        "bytes": 307510,
+        "dimensions": [
+          1600,
+          1067
+        ],
+        "archive_index": 102
+      },
+      {
+        "file": "maps-1043.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R0FrmLYmEWqnCgnfZpFzSXM88aezqLMgRTfUe5BWmQOMcjXp_lQn7kE1ScVtsMAhCOYe4Q53DE7jxLWUU_hbQO6pSGNHrFFJYPq9cqhFHQk7T4DU35GXaHM8x0Qopa-_engfU=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=11186559528335553513&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "8f487891a0b983f213ff0e5e2ecc92ce09be414af30f71505fa22a58530239d3",
+        "bytes": 471381,
+        "dimensions": [
+          1600,
+          1067
+        ],
+        "archive_index": 43
       }
     ],
     "reviews": [
@@ -2365,7 +3221,12 @@
       "https://top20.ua/tr/avto-moto/sto/ooo-premium-shina.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1006.jpg",
+      "kind": "photo",
+      "reason": "Відібрано чіткий знімок сервісу без сторонніх телефонів та рекламних плашок."
+    }
   },
   {
     "schema_version": 2,
@@ -2460,60 +3321,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_7-915158.jpeg?timestamp=1640999630",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1002.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RtFs7JzDvI_GsG1PxKrlcIarLesMx8qA7bvoXxnCIEId71vOHRiTaRIDT41gnXfBT803kfJ3wSB5nL5PB8VYbqfs3lL4I6rtjQPsFo_xvXWK7EBAi3RrSBHNOxxG6NyQ77eWJg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "6a7c3c722a7f4f6459de314908fe988ae7d8a84c11a8f7fb8178398e4831e0a5",
-        "bytes": 57442,
+        "sha256": "f48ce396263f87a59e82c043d0d3a6a0b558005eb2e094f39bc38023baabaf74",
+        "bytes": 78442,
         "dimensions": [
           857,
-          505
-        ]
+          422
+        ],
+        "archive_index": 2
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_1-915155.jpeg?timestamp=1640999630",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1003.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SC-mc7YivMLSVkutFWx5sdenF6Hs-itFTp27rCz0JKjOPC-XxhgY83SDSApgGaoyg4Zef1Tf9zS-swctJsUi6Xiu2Fd_Wx_NE1PSaUQARgegrhxqelP5LdDcu0ZtoCaLpm7hW3=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "8dcb1d03b1fd7e22b77321098ed0dd47d30c90e3776bc3ba29d8f981c71d1412",
-        "bytes": 54190,
+        "sha256": "a75c0a03754e4c920478af0af32ec68ce2ef88277e8b6aa91c1a97443a925747",
+        "bytes": 269716,
         "dimensions": [
-          775,
-          490
-        ]
+          900,
+          1200
+        ],
+        "archive_index": 3
       },
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_6-915156.jpeg?timestamp=1640999630",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1006.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tuiwc5aPxbjwxyDcv4XU--onxGo1wgFUuluZEQiZKBGzE2ojTq8PHhX4iwvx9nJe25zQYvp9R3Ph3ekmsqhOd26KEw55ys5_57SaT0D4q9DhTa0Eo-nhVV0R77KyFqnprfi6UP=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "8f07e6c11135461fde407d49832966fa79cee65d62c9679107dfc948fba372c0",
-        "bytes": 59985,
+        "sha256": "9f74fe8cf9ad777ba2c8314f70c579704b2e5ad01345582dfc3f35ddb93691fa",
+        "bytes": 70920,
         "dimensions": [
-          502,
-          549
-        ]
+          644,
+          408
+        ],
+        "archive_index": 6
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_8-915157.jpeg?timestamp=1640999630",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1009.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SMMAtTV7qBkIEtUbbzyz11jYudKgglfUMIapt-GdLnJpkGFX71Id1QfbPBA_QsoWP1kiFxzkXlvAMmYyAqrMIGbRb7zMHCgauNFas9lMY-gu_EbiZG5C-6uHa7RD3lwhIQLZc=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "249f73d0ddf637456dfb255e76af0a8bf9800aad869a65a26386a0b38a56efc6",
-        "bytes": 49077,
+        "sha256": "b8c088aefe1a419d182082314d1068f0e1627a51e2b834542dac81215c3679b5",
+        "bytes": 189328,
         "dimensions": [
-          497,
-          547
-        ]
+          900,
+          1200
+        ],
+        "archive_index": 9
+      },
+      {
+        "file": "maps-1012.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Riy0MXlfjXA_7slz3NUYel9CX80hhCDT5GZs8bhUrA4dZPsoHz8mG135jvOKSfc8C3fMwveS7DPFUTrFjunOaXgW_4UVNJy-nDEqkkSGhrTgB8niwSNKqhjXcI92_A0Nl7rmGY=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "0484fb1c04f343d3bb19c4ac5e24fe8811eda2267636c193dc1fd1b75e29cb99",
+        "bytes": 132354,
+        "dimensions": [
+          675,
+          1200
+        ],
+        "archive_index": 12
+      },
+      {
+        "file": "maps-1005.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S3qAMlIaXs1BmjJQRNBNePqwUvzD6gcYOaZNBa7cuTv-SREc6m7NaRgR2Ac4FswV0xnUDVKxhb_MNij5oCTGEnYLST95jkqAxBXVqFx4FcQzO_uvKGAr3g_vIgmkoQWx-ckxOR=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "eff6d1ea9203a5a40f33f124892355b8f52dbdc9438c5608da79abca4bc7a9a6",
+        "bytes": 619328,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 5
+      },
+      {
+        "file": "maps-1020.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TOsxhlvsX8s3VDO3mcTSIvoo3IIZGxcifgsYKJc8D1bemcxsR-YWZnop43PVUKyNd337vifRqOPMuAp0rATUVUzR_WuLFeei7-ENvML6aX6qDpOEeYgWV7IkIVpg3rPZbBFQ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "1a190672ab898d28c05d693adf1458507c7c84f78f30c7a9482267472d8cfbf7",
+        "bytes": 58753,
+        "dimensions": [
+          1125,
+          400
+        ],
+        "archive_index": 20
       }
     ],
     "reviews": [
@@ -2551,7 +3461,12 @@
       "https://top20.ua/tr/avto-moto/sto/dizel-servis-gratsiya.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1020.jpg",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -2646,60 +3561,94 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/5927e88dcc14b-909745.jpeg?timestamp=1639004053",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1002.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Scrn_d4ipIIwo-ZudHfLX25Mu8Wkp9iV6TwEnhq8KKJb0MfyjaSLRhbW9ZNzeMhRFiXup4sF0Ut7TMXPEfQBO-vV7NRCTjH_ZOApCr-TlSq4D1kEnmR4jKPr7MFn7AroS7bv3y=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "d237f5d0beecb78472f8e96e81530043310b299da904851e9521e3e67a396006",
-        "bytes": 72924,
+        "sha256": "37007248c48b207f6f50a24c17006e02ce6397b2c778a74be8a1cc6dec6d2145",
+        "bytes": 90392,
         "dimensions": [
           693,
           520
-        ]
+        ],
+        "archive_index": 2
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_2-909741.jpeg?timestamp=1639004053",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1003.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S_KNc37fbiExxKcUgrTUe8poLu-B2MAmiXBX8_4GwAw_EhY8TufziBGioARdhd2pcDQz0e6vvwLbzVQskLH56ZxfeeAz0FFVpETsEAXPDjK_5LDDT0a9SU50VtA2S7qakSaQ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "f6df2e52d47b5388d1bb1cc5ea59c22d46c7c584c7a140d82bfd6efceb6e7b86",
-        "bytes": 38539,
+        "sha256": "14667b6d1e34942bb3948e0f0b93dd9642a9aca9270d54252915a54f58d97386",
+        "bytes": 297454,
         "dimensions": [
-          406,
-          484
-        ]
+          1600,
+          1067
+        ],
+        "archive_index": 3
       },
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_3-909742.jpeg?timestamp=1639004053",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1016.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RtnhBcL1nWeT8gw-CMs-LHbOvHBwt4rkUUcFt1u6XyghKZCs2DiWKHmd-r5M0lb4iXIIO_vg7gyIB3eSitDLi7TeqhQdZYSpcicdpBcuisooojEJ8mp1W8G0PkWbEIchDl8J7hbQ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "5788fc84fd872f1f05fd5d94c483ced679f1ace392823062d5119623cb99986a",
-        "bytes": 56376,
+        "sha256": "d96dafe087ffdd592d0a5696ade3f76054b78f3ea110ee985d56314fd922af40",
+        "bytes": 343614,
         "dimensions": [
-          856,
-          439
-        ]
+          1600,
+          1067
+        ],
+        "archive_index": 16
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/Screenshot_1-909743.jpeg?timestamp=1639004053",
-        "source_page_url": "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1019.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZeDP2GXaH3PJlgkzJLo5b7cLpLcA2Tyztpd-iEqIPHa-1xsaRZEqiuujsIjEbmQ19xWYqtIjsWaP-LfAyMSEzlNOivF2x-CYhbBIJaKcO2UsSC_uvZdv5IIht-QcFr2pucHTw=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "abdde1b6c9e36a95b939d85974955706b136bd432bb58717ac6f3a0f34ddcb68",
-        "bytes": 62085,
+        "sha256": "d9e68f4b6311a9af261c913bd7c6d6079ea1e7ddf6691fe392b7de8e8c7b6e76",
+        "bytes": 391512,
         "dimensions": [
-          861,
-          411
-        ]
+          1600,
+          1067
+        ],
+        "archive_index": 19
+      },
+      {
+        "file": "maps-1020.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QB6MMJOpP26uxY7C2uyLdAJZPASKCwjDq4ubYFE0oPH6KSkNYVcPlAz_5JkbqdW0xpCXvEJiEMNZM6PuYIzE2a8uv6K00t3k3SUzlr0ouEzVN0uI_gE8Fk6s-J4W5uiwxjLqdNSg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "06be634742907dde9c121a14144be63cb5695e5f0aa9b1aeecfacfa80fece283",
+        "bytes": 326885,
+        "dimensions": [
+          1600,
+          1067
+        ],
+        "archive_index": 20
+      },
+      {
+        "file": "maps-1021.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TrlXXBBdDYCIBKwakiHCKXyt6XBN_2PBUJ-ruoFZu8N2jPNlWUGwoVkOkBO5m3oz2BZBCaVsMvwaW2XcT1q-67OubzjyfO5Oq5LyAUnX4WtKy3X3NgprgyUTQFhSmPsbIFKi0rJQ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=10183232462660877497&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "c1e16f0ebee42b0b8697be2b342b6b18d31461f5f99d746bf84a3aa1a44f7d9f",
+        "bytes": 368125,
+        "dimensions": [
+          1600,
+          1067
+        ],
+        "archive_index": 21
       }
     ],
     "reviews": [
@@ -2737,7 +3686,12 @@
       "https://top20.ua/tr/avto-moto/sto/avtoservis-spektr.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1002.jpg",
+      "kind": "photo",
+      "reason": "Відібрано чіткий знімок сервісу без сторонніх телефонів та рекламних плашок."
+    }
   },
   {
     "schema_version": 2,
@@ -2832,46 +3786,94 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/orion-avtolyuks-avtoservis-c-379530.jpeg?timestamp=1573314070",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1001.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QwI5Gt3cN7GCAT8aG_4ewZeuBs5qYI-fkQ6AjstNkLzAh9A5TbByVnvnoiKkNqytg1qw4CBr_UMQmqp1SiOCtoW0FUp2yVihNpcHlxf8VV7_fvjMUpUqhGJS-pGCM46uZKCVrYMA=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "48b5729b3c658e0966b64d57d979cd3218f3600ec2aa19120db88273c7689a40",
-        "bytes": 55252,
+        "sha256": "7c49aec18132c79b0f7771c5058cc3577b05c52a70cd3918b0f003363071608a",
+        "bytes": 411814,
         "dimensions": [
-          800,
-          600
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 1
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/orion-avtolyuks-avtoservis-c-379529.jpeg?timestamp=1573314070",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1002.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SKWiDWCSPkd1omihbOPC3_nvSzVRb4KZ7fxolowJH8H-_CI3p3yzO0DqtLUK8DW3dV3Q4JNMB7J137oW_gk5P4GFNVYaoTrGYthoxKpja0gqGCNG1WNO54GSHFON8VG2y58VA=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "df298a41795a808806b4bc68bc4b6b75620be2b7a143ec639b8f9ddcf35459fc",
-        "bytes": 46308,
+        "sha256": "bd19dde797eb260b7a7d39fa62ecfeafb219cde85aa44bfe110dfb4cb37f9b60",
+        "bytes": 384210,
         "dimensions": [
-          800,
-          600
-        ]
+          1600,
+          1200
+        ],
+        "archive_index": 2
       },
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/orion-avtolyuks-avtoservis-c-379531.jpeg?timestamp=1573314070",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1003.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S1_WNlss_hrs8p1nTXQaS_B4b1t1I58NSlzw9sJUxy5CIWCvSnJq5bGMeB9elCV-JBYa8ZWLcXkRr4owcIcBr_CRwCokzgFYdwMZOJMNuVhqELmHVTWm_NJdS_iLCQTmBUKbY=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "5e7a4e8eb301a05c1ee3ab4882886aed83df255ca09327bc7fc5c7ab553a5080",
-        "bytes": 46339,
+        "sha256": "73d54e953f876c1879664a907659a6a02cf09d7ecdc683ec6cfbfea329331982",
+        "bytes": 162992,
         "dimensions": [
-          800,
-          600
-        ]
+          1600,
+          900
+        ],
+        "archive_index": 3
+      },
+      {
+        "file": "maps-1007.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-jdH0AQnXYy17WauzhA5BOlSZVzTbBruVXIVNm1mCd7K3bCue-PIl9ZfypIFNBGQuNSk1BgxizclR_01CK42eGi3ziJ25jvhSvxV7vjFxZxFjO-ksZwQSTqd79trwa1spAyK_=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "03f1a815226abf9cc1b7bbf0fea6ad7412f04187e0af6407c29dfc893dc12bbd",
+        "bytes": 257320,
+        "dimensions": [
+          1600,
+          900
+        ],
+        "archive_index": 7
+      },
+      {
+        "file": "maps-1026.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qudv3dnOOfQf06esZjaWhH2moXhIAtGHPRp_c8vQFOaT4iLUP_ohufxtxoDB3A3COTFOal2gx6ANL0ky8Ut7vF4lms6sa5Ev3yDXXy42HaKKso49xkGYAiRIanCMraWjGBvxcF5g=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "ca39a004e062c63819ef0146628a5037e1837a9e0be24a7e342dfa124a1eb662",
+        "bytes": 238331,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 26
+      },
+      {
+        "file": "maps-1038.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SjOU-FbDvk4cEyS0RVNXeNEjT9mwXv2mb4ODptaPWBbRp7WNlids8QE73zQKCyrwqSOeGaEVAijnb-ovNGFaO67lBltIh1OwxB_SiAfCt9Hqf7kHyRx3uz3tPM4-TigQiUbAGf=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=283840624358183003&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "a4030173b3ea73389b39b5816939fb4dbab3c9ec99418dcbefd4dc06264af059",
+        "bytes": 369748,
+        "dimensions": [
+          1600,
+          1200
+        ],
+        "archive_index": 38
       }
     ],
     "reviews": [
@@ -2909,7 +3911,12 @@
       "https://top20.ua/cv/avto-moto/avtoservisi-sto/orion-avtolyuks-avtoservis-c.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1001.jpg",
+      "kind": "photo",
+      "reason": "Відібрано чіткий знімок сервісу без сторонніх телефонів та рекламних плашок."
+    }
   },
   {
     "schema_version": 2,
@@ -2996,60 +4003,94 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/b370ec944176865374d15216b777b253492bde84-1030056.jpeg?timestamp=1695626772",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1005.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QJEyai6mKyfNqnugG4gb5_VKDPC0Ef5NXQ7jSOerr2iE97VU9G-R-Wp25n4LD6Td_DzCUYHklmbYxmBQWkKEliy3b8q1QdDLavWNNEt2MdFsf2nATy3gjubzgGVPXGtNYOytCi=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "51875f6590d70f836ddc825fb26945bec21d610e5366fa84d85e9575d1d1004c",
-        "bytes": 47945,
+        "sha256": "ee6b66e4dd2485196bb6f477f89285b3e894e984e6934121333667938de3b410",
+        "bytes": 193163,
         "dimensions": [
-          521,
-          522
-        ]
+          1280,
+          963
+        ],
+        "archive_index": 5
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/69d6b78f170d47a987bbe99c25b90ca27aeb7744-1030057.jpeg?timestamp=1695626772",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1006.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QiQh-X28wFdPDyCkOzcbcUXInWBzOJT9sJ7SSbZSlVfcl_wYWvCPKLdFxIK9qByGVeM34HF2UZVZlegYu5gsSZgB3z3C_9lhfhTBzagKcAhW7kt_4zw7sR0ioAH97UaTVHQ4BUkA=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "e1bfdb36a1f6cbd517a3a5cbea32ad3d55c8cdb767d065463f2cc453e4379018",
-        "bytes": 228948,
+        "sha256": "049837f3a24922c1079b6895ac99adba121a949b124f88b6aadc1054e8cfda1f",
+        "bytes": 224735,
+        "dimensions": [
+          900,
+          1200
+        ],
+        "archive_index": 6
+      },
+      {
+        "file": "maps-1010.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SPP4Z5o3a3BPWPa65WzioNsFd-HStgBXjEad4GVRriK5477KZWiLtXaHXUhepyAVFyh_7h72ssUuXylaiWN9sy9fj7T3Ljzi39lEXH51XSK__VQLl1httwrqdRWRVyMpRRBISsmg=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "3dea46690867ce2bcb2ce81355eeb8d12af58b27a549fb6abce6f4b916f05e5e",
+        "bytes": 193325,
+        "dimensions": [
+          1280,
+          958
+        ],
+        "archive_index": 10
+      },
+      {
+        "file": "maps-1002.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R6pmdNrOStlpFg-0SorQZW062K7FvdKucb9aGcarcsj6bIkDydJsgcfg6z1AcdPbvVj_hQEyhiikkwF-H7m-dtXIYExsMGzs49S9a5A6tVbYmS2upn4zv2GIlPd5BgehtVm4w=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "9db93e4ff08f893b3de7f8bf4fabc56d95d280b46a08778c67e028eeef998df0",
+        "bytes": 530739,
+        "dimensions": [
+          1200,
+          1200
+        ],
+        "archive_index": 2
+      },
+      {
+        "file": "maps-1016.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RN0DP1GanG0u9zWfaVh9ABuT82LxWcXhOG8L6qJYI-mlgg8dM7e5GRQcL7wElEkXrrmerNSiQcFRvSLNAEMJiZJm_-bOlBIQQSY-ItmFBc-o8wTUZSacoI6mCNgHph-xSpAJt6=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "cf7331becac5185458276ba0bfa1151fbd85f012b39a4f5c18f59eae8a53d1e9",
+        "bytes": 285514,
+        "dimensions": [
+          957,
+          957
+        ],
+        "archive_index": 16
+      },
+      {
+        "file": "maps-1021.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R-vjdT9qyfF63B6JJBXxNy81qM5Ad1K0GNANrIMBw_EV_a8ojcHzQXreiDD1wemM-rGwwDqSEAOmQ-PYM9KLnECV49g85-GIbg7AbEbIaeun7Oehp3u4HVG0wYoNsllMqPQ_0WtQ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "b54fbb152d64f03090168440e0fc53f178ac4d90e8350d3c783195ec05e3b6c0",
+        "bytes": 201419,
         "dimensions": [
           960,
-          1280
-        ]
-      },
-      {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/07de2322256796da8695bbfd6d165356ffb3acf5-1030058.jpeg?timestamp=1695626772",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html",
-        "source_name": "ТОП 20",
-        "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
-        "observed_on": "2026-10-30",
-        "sha256": "ebadc9c2ed0eb3a9a3ad34e68171c4340616c67277811b9f03ebbf9fb2e856ef",
-        "bytes": 178425,
-        "dimensions": [
-          1024,
-          1024
-        ]
-      },
-      {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/21cdd00141c579d88c8d3d273bf07ad324db3138-1030059.jpeg?timestamp=1695626772",
-        "source_page_url": "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html",
-        "source_name": "ТОП 20",
-        "maps_url": "https://www.google.com/maps?cid=6425183367354259632&hl=uk",
-        "observed_on": "2026-10-30",
-        "sha256": "4a408084cfdc644ab3333e7c14cad5db28126619c4ededda7fbf379b464950c1",
-        "bytes": 246549,
-        "dimensions": [
-          1024,
-          768
-        ]
+          960
+        ],
+        "archive_index": 21
       }
     ],
     "reviews": [
@@ -3089,7 +4130,12 @@
       "https://top20.ua/cv/avto-moto/avtomiyki/grand-allmax-avtomoyka-samoobsluzhivaniya.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1005.jpg",
+      "kind": "photo",
+      "reason": "Відібрано чіткий знімок сервісу без сторонніх телефонів та рекламних плашок."
+    }
   },
   {
     "schema_version": 2,
@@ -3188,60 +4234,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-1.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/61b9e3f48ebdf_1639565626542111-918468.jpeg?timestamp=1642119863",
-        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1008.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S7EgtwBDDJhYsM5qGe7awJe1-moia_fD3rpQYyVftFc07Zvy_cIS-8wEwakadst4ijtZ9jZCJPIZ0FubiEVW07rYu9LV7JRlYI9rDPSffNgX9v4H9f_UWNwzBbSnYQGCJK9kr8=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "1b80f4d67c50cbf085a4d5c28682d8293b0a583ea88d67eae318e94f6d006028",
-        "bytes": 99574,
+        "sha256": "6860efa66559c27f91aed025c3223243e16676ded42e88e048a734e547206f7d",
+        "bytes": 340203,
         "dimensions": [
-          1024,
-          766
-        ]
+          1600,
+          1063
+        ],
+        "archive_index": 8
       },
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/IMG-be24f9de4829d601702bb366e28d0db9-V-918469.jpeg?timestamp=1642119863",
-        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1009.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RP14kpZPzwqVpF02j70JNYVRmqJPIudYH3s4a2AawNf0Ens76Bqz8BEh-h-wu8QoxvWf0e6uGyfGEIGww0BS3H9R8whO7yw2vzYxu7sBc_xuR8jDo0CpPFPTwd-hxVx7JAofq6=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "c99ac235cd7b13db2e63af7873b5e6ce48fa70b60186ef509c1bacdb9f8819a9",
-        "bytes": 98469,
+        "sha256": "9e9f18bf2415a8c46fe3c544b231c726c6ed9d94992d59e047daf57609eb36a6",
+        "bytes": 402211,
         "dimensions": [
-          1024,
-          768
-        ]
+          1600,
+          1063
+        ],
+        "archive_index": 9
       },
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/photo_2021-12-08_22-29-58-918470.jpeg?timestamp=1642119863",
-        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1024.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R5GRJX7alC0xaJ__-g3uUp4hFOlbtwlciD536-LYcH-GdjBf9zL2Y9JkT6w58qlQOzAr-7MkL0tT_zZDxk_A6SzpvH2Fz5nATVuzFQ6flPH0LQp4El-5EMw1JX_NH9v1UC3GY=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "085198c8bdfc9dd0c783e6381726e14cb1a3a16826a5529bb8d2ba5bdd63b510",
-        "bytes": 89528,
+        "sha256": "fc8cfcc6a3c783c8e8eb43727e3dd8cd22498f72e19d588bbe2e3153f00ba2de",
+        "bytes": 219112,
         "dimensions": [
-          1024,
-          768
-        ]
+          1600,
+          1063
+        ],
+        "archive_index": 24
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/1639233829676-918471.jpeg?timestamp=1642119863",
-        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/gis-shinomontazhnyiy-servis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1028.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QQ5Uwl7xb0BvPh9pQ82w_aUOR7axjCtpPHxMjH0JBdYiSetDEwtiR_OIs3SpNVFm06zpX1daKFl7W6nxXIgb9NJiWwsfY7U9bVZTeCsApAD87BQ_GXJ1LQeWoVHpT6yChloLcL=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "e476aaad725a64558dfc8efafeadcc1e08069cf50f808b19ed75b2885e8a58a3",
-        "bytes": 204178,
+        "sha256": "1f2b52329d8059d958e29ed3e6f666557dd82ab465186afbc5d49a1ac8954eb5",
+        "bytes": 232166,
         "dimensions": [
-          1024,
-          1369
-        ]
+          1600,
+          1063
+        ],
+        "archive_index": 28
+      },
+      {
+        "file": "maps-1045.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S-1ZkWEeN5REwhpipDXCGBibrviI0nzjsk9q0dbVg-4pkGurJ7dI50rruR9Jt3yCAxNsoLtXBXqbgQAPYh7uXS-RS4Hl3KUA4Cck1OqgZ22EDkBtM9NRp67i612Q5UdpnsmzY=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "f3ef88faeead8db9b889453c8174480b22a0b9cac60a0f08ab2a858016e5bf7b",
+        "bytes": 172610,
+        "dimensions": [
+          1600,
+          1063
+        ],
+        "archive_index": 45
+      },
+      {
+        "file": "maps-1114.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QJLhStZasngelHlfjCCH8ZH43brpWPXlbPXVM8vgMalSFbamv4HfqIGMBsF9bfi9gn8MbvEck8IXBnwc-Rx17mxxKcPC7fCVdqcXS9YZfuC-NpsNCmcFgSaby4AvZ_QTphClo=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e598c8a440ab9c39dfbbd3e7cfbec46b3da790fa4d1585d1fc732dbb950cf226",
+        "bytes": 307634,
+        "dimensions": [
+          1600,
+          738
+        ],
+        "archive_index": 114
+      },
+      {
+        "file": "maps-1131.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYVhSPxkEkuQTTZseC5gGGeR9jDUWeHDBsojTnoogwPc5XMoqMqzZp_EwHTdH9dHPzxLjOyNM_9bse1rgquFEqahqD4OahCDqi4NVhkWWFkRqBq5kH4h8sXL2ih4gEK2ddp7wz=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16542579906642233022&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "e9abb5dd60c2174eff3a3cd0787531643f84948c600cd617fd9082980ae5de67",
+        "bytes": 187542,
+        "dimensions": [
+          643,
+          362
+        ],
+        "archive_index": 131
       }
     ],
     "reviews": [
@@ -3280,7 +4375,12 @@
       "https://carta.ua/4703-shinomontazhnii-servis-gis.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1131.jpg",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   },
   {
     "schema_version": 2,
@@ -3375,46 +4475,109 @@
     "price_note": "Ціну уточнюйте за телефоном",
     "photos": [
       {
-        "file": "extra-2.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/%D0%94%D0%A1_1-419932.jpeg?timestamp=1582123839",
-        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1042.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QzzD7WHg1YjN8zr5hroT5eg_oqUxYtx7kmzkDQEcF158J2HUKTZ4tDomnFq9Z-kVC_U4Cbdstpp9HmvrYTLyYZV03UtyFK7zt-wKoTaKS5lzBPvzxmcGbRk0FOCoy1Er3H4IxdOlaNdKt4=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "c214a014b99c0a58b5e5b1fd8ca21db69e179ec67cc3755602dc4f7809c97b85",
-        "bytes": 175593,
+        "sha256": "0c7db805407f6f4c224721107c280e28317a8d0457e25b40da737c5283eea56c",
+        "bytes": 196107,
         "dimensions": [
-          1024,
-          1247
-        ]
+          1080,
+          1080
+        ],
+        "archive_index": 42
       },
       {
-        "file": "extra-3.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/%D0%94%D0%A1_2-419933.jpeg?timestamp=1582123839",
-        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html",
-        "source_name": "ТОП 20",
+        "file": "maps-1010.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RaUMNPGBadGxOTxRTfnUS-AM9eEYij2vi73HypNiv3FS27EpvrFyB8nWk3CbuHYhoIKCxBsyWt29zYzOvMJaHVRxXckcpXxdhyp6rR0yClopUk-gwMZvkj2_qGEa_B5eZLNmH6=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "282bfee2cc01364cd57e0fd7939154e99c2ad6e97df9c6f9e07c71773ed87406",
-        "bytes": 176434,
+        "sha256": "f3662284da03c2394c6154acd65725d408409f1049bb43a395d6cf67a6146a95",
+        "bytes": 275461,
         "dimensions": [
-          1024,
-          1365
-        ]
+          900,
+          1200
+        ],
+        "archive_index": 10
       },
       {
-        "file": "extra-4.jpg",
-        "source_url": "https://top20.ua/media-resize/company_large/%D0%94%D0%A1_3-419934.jpeg?timestamp=1582123839",
-        "source_page_url": "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html",
-        "source_name": "ТОП 20",
+        "file": "extra-1016.png",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TjIZtzvdVIZH68BjhS_bA1LmwEH4UaolDdYfnzVcTY9pqTnYJ0kPLlnyFgO080nP6i8xfuSZ8RVhdgD8RUwgBmA3XbKM4iqIjpQoqd4mAddccb3Dh-5APiSMRQxyB64NX8XDSheZSdfjAI=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "source_name": "Google Maps",
         "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
         "observed_on": "2026-10-30",
-        "sha256": "d839a917966aafca6cdf72c041e7a9e05da26ff4eb0beadbc49f167d1e8f06a9",
-        "bytes": 110088,
+        "sha256": "4d62c6f1980e39dc1b424f6b58e4692932ee9daaf9efb7b24899a99575eeb092",
+        "bytes": 2393410,
         "dimensions": [
-          1024,
-          1066
-        ]
+          1536,
+          1024
+        ],
+        "archive_index": 16
+      },
+      {
+        "file": "maps-1028.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SHhtCF4S0vGXiqbsauhO9GxqDlkasc0nqyLjvwlV6tjvLjb5QBm4wcM65uxesk24MhOpfbIlnEX8OUC7I0O_-jfxKPDbZAVocK04uU5OrEWR3sFblIqi9L-0iBMx3sJMg1yuDVlw=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "f1e59549c39952600f5fadc23f5d0fc6b09b9d6bd6000a865fd7a47491ab298e",
+        "bytes": 188399,
+        "dimensions": [
+          900,
+          1200
+        ],
+        "archive_index": 28
+      },
+      {
+        "file": "extra-1044.png",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Tk4XeV7fR9z2uuaUuKTFHfNlQnTERCY1cHiSLTcsenDsgyw6hkzBmYl26L3JPwCrjvUm_-xqi85PCp81wwD9yYOFwM8pKmNL79etfZp5ZJ1Rf4d7VIlW1HZ8Ub-Fx0MKcM6CnN=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "efb8301436968d4b61a931da2ffff66be8ddc766ca61ed853b04b4d040af6d53",
+        "bytes": 1802262,
+        "dimensions": [
+          1488,
+          1200
+        ],
+        "archive_index": 44
+      },
+      {
+        "file": "maps-1078.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TOEQ_o6Ke1V6bvKdlhsupMTLBFOjBwfMwpZID1sQI9BLEfzgTg3QhUx4lf79Kfk_ns9CxHUDyIIMDUssS2S-14s-ON_6WBvpnddYv0tGuMHr583RXmZOwFUSpkNtlOV5LaK4c=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "d12c300ce72c46013f9c3e94e842ebc127cbc8ddeebc4be43489db78d07b2f29",
+        "bytes": 134188,
+        "dimensions": [
+          946,
+          1200
+        ],
+        "archive_index": 78
+      },
+      {
+        "file": "maps-1165.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QahMJQwRuFEu-_3aaLuvng25xt1Zgg-Yz4rmSy1aLTo915dfIW3jd3xu_NUbohXvO29cgBhVSM0Ngljdp2GcRXV49tmk68P-CPuCQhUS-GkS1Od8MQet5jCzLjDhZCfBRugHzT=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=12630613811433249103&hl=uk",
+        "observed_on": "2026-10-30",
+        "sha256": "88322df1bc79b748cf7a48ac32ffd87819ced2d0a1af18a27ed267a1f131781e",
+        "bytes": 68847,
+        "dimensions": [
+          1589,
+          1200
+        ],
+        "archive_index": 165
       }
     ],
     "reviews": [
@@ -3454,6 +4617,11 @@
       "https://top20.ua/khm/avto-moto/avtoservisyi/chp-dakar-servis.html"
     ],
     "data_status": "sourced_with_explicit_limits",
-    "recreated_on": "2026-10-30"
+    "recreated_on": "2026-10-30",
+    "cover": {
+      "file": "maps-1165.jpg",
+      "kind": "logo",
+      "reason": "Логотип із картки цього бізнесу."
+    }
   }
 ]
