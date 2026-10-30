@@ -58,6 +58,12 @@
     "32": {
       "palette": "light",
       "tokens": {
+        "canvas": "#f2f7e8",
+        "surface": "#deebc7",
+        "raised": "#c9ddaa",
+        "ink": "#244212",
+        "muted": "#506343",
+        "line": "#91a877",
         "accent": "#426a0b",
         "accent-hover": "#325207",
         "on-accent": "#ffffff"
