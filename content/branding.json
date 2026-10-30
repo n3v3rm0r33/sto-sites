@@ -120,7 +120,8 @@
         "accent": "#d21f2b",
         "accent-hover": "#b81824",
         "on-accent": "#ffffff",
-        "accent-ink": "#ff6570"
+        "accent-ink": "#ff6570",
+        "period-ink": "#d21f2b"
       },
       "blend": "lighten",
       "media": "logo",
