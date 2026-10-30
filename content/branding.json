@@ -1,0 +1,194 @@
+{
+  "palettes": {
+    "dark": {
+      "canvas": "#111212",
+      "surface": "#191b1b",
+      "raised": "#262929",
+      "ink": "#f3f4f2",
+      "muted": "#b8bdbb",
+      "line": "#525957"
+    },
+    "light": {
+      "canvas": "#ffffff",
+      "surface": "#f1f3f4",
+      "raised": "#e5e9ec",
+      "ink": "#1c242a",
+      "muted": "#52616b",
+      "line": "#a1acb3"
+    }
+  },
+  "businesses": {
+    "23": {
+      "palette": "dark",
+      "tokens": {
+        "canvas": "#191b1b",
+        "surface": "#222525",
+        "raised": "#303434",
+        "accent": "#ff654a",
+        "accent-hover": "#ff8974",
+        "on-accent": "#180e0c"
+      },
+      "blend": "lighten",
+      "media": "logo"
+    },
+    "24": {
+      "palette": "dark",
+      "tokens": {
+        "canvas": "#07181d",
+        "surface": "#10272e",
+        "raised": "#1b353c",
+        "accent": "#ff6570",
+        "accent-hover": "#ff8992",
+        "on-accent": "#180c10"
+      },
+      "blend": "normal",
+      "media": "artwork",
+      "header_file": "extra-9102.png"
+    },
+    "31": {
+      "palette": "dark",
+      "tokens": {
+        "accent": "#d4d9d7",
+        "accent-hover": "#f0f3f1",
+        "on-accent": "#111212"
+      },
+      "blend": "lighten",
+      "media": "logo"
+    },
+    "32": {
+      "palette": "light",
+      "tokens": {
+        "accent": "#426a0b",
+        "accent-hover": "#325207",
+        "on-accent": "#ffffff"
+      },
+      "blend": "multiply",
+      "media": "logo"
+    },
+    "33": {
+      "palette": "light",
+      "tokens": {
+        "accent": "#f4ca16",
+        "accent-hover": "#dfb500",
+        "on-accent": "#1c242a",
+        "accent-ink": "#806800"
+      },
+      "blend": "multiply",
+      "media": "logo"
+    },
+    "34": {
+      "palette": "dark",
+      "tokens": {
+        "accent": "#ffae00",
+        "accent-hover": "#ffc54d",
+        "on-accent": "#191309"
+      },
+      "blend": "lighten",
+      "media": "logo"
+    },
+    "37": {
+      "palette": "light",
+      "tokens": {
+        "accent": "#bb2530",
+        "accent-hover": "#991c26",
+        "on-accent": "#ffffff"
+      },
+      "blend": "multiply",
+      "media": "logo"
+    },
+    "38": {
+      "palette": "dark",
+      "tokens": {
+        "accent": "#f45c59",
+        "accent-hover": "#ff807e",
+        "on-accent": "#1c1010"
+      },
+      "blend": "lighten",
+      "media": "logo",
+      "trim_edge": true
+    },
+    "39": {
+      "palette": "light",
+      "tokens": {
+        "accent": "#194f91",
+        "accent-hover": "#123d73",
+        "on-accent": "#ffffff"
+      },
+      "blend": "normal",
+      "media": "logo"
+    },
+    "40": {
+      "palette": "dark",
+      "tokens": {
+        "canvas": "#094899",
+        "surface": "#0c3d7e",
+        "raised": "#175aaf",
+        "ink": "#ffffff",
+        "muted": "#d8e5f5",
+        "line": "#8aa9d0",
+        "accent": "#ffffff",
+        "accent-hover": "#deebff",
+        "on-accent": "#123d73"
+      },
+      "blend": "lighten",
+      "media": "logo"
+    },
+    "41": {
+      "palette": "light",
+      "tokens": {
+        "accent": "#25333a",
+        "accent-hover": "#41535e",
+        "on-accent": "#ffffff"
+      },
+      "blend": "multiply",
+      "media": "logo"
+    },
+    "42": {
+      "palette": "dark",
+      "tokens": {
+        "accent": "#e4e9e6",
+        "accent-hover": "#ffffff",
+        "on-accent": "#111212"
+      },
+      "blend": "lighten",
+      "media": "logo"
+    },
+    "45": {
+      "palette": "dark",
+      "tokens": {
+        "accent": "#ff6660",
+        "accent-hover": "#ff8985",
+        "on-accent": "#1b1010"
+      },
+      "blend": "lighten",
+      "media": "logo"
+    },
+    "49": {
+      "palette": "dark",
+      "tokens": {
+        "canvas": "#101114",
+        "surface": "#1c1d22",
+        "raised": "#2b2d34",
+        "accent": "#ffb329",
+        "accent-hover": "#ffca6a",
+        "on-accent": "#1c1509"
+      },
+      "blend": "lighten",
+      "media": "artwork",
+      "header_file": "extra-9102.png"
+    },
+    "50": {
+      "palette": "dark",
+      "tokens": {
+        "canvas": "#0b1118",
+        "surface": "#151f2a",
+        "raised": "#243344",
+        "accent": "#e8f0f7",
+        "accent-hover": "#ffffff",
+        "on-accent": "#101720"
+      },
+      "blend": "lighten",
+      "media": "logo"
+    }
+  }
+}

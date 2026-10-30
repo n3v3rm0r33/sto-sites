@@ -35,7 +35,7 @@
 | Інтеравтосервіс | Тернопіль | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-39/) | 096 520 8750 |
 | Mservice | Хмельницький | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-40/) | 098 188 5588 |
 | VivaT | Луцьк | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-41/) | 097 550 5051 |
-| СТО ТИТАН У ТОЛІКА | Тернопіль | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-42/) | 097 150 8577 |
+| СТО «ТИТАН» | Тернопіль | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-42/) | 097 150 8577 |
 | AUTOSTE | Тернопіль | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-43/) | 098 375 9329 |
 | Преміум Шина | Тернопіль | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-44/) | 097 210 4575 |
 | Грація Дизель-Сервіс | Тернопіль | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-45/) | 067 350 2513 |

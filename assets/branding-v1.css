@@ -1,0 +1,12 @@
+.brand.brand--wordmark{grid-template-columns:minmax(0,1fr)}
+.brand .brand-title{font:inherit;min-inline-size:0}
+.brand .brand-city{display:block;font-size:.5625rem;line-height:1.3;letter-spacing:.15em;margin-top:var(--s2);font-weight:400}
+.brand.brand--logo{grid-template-columns:var(--s20) minmax(0,1fr);column-gap:var(--s4);align-items:center}
+.brand-logo{inline-size:var(--s20);block-size:var(--s16);object-fit:contain;mix-blend-mode:var(--logo-blend,normal)}
+.vehicle-frame.logo-frame,.vehicle-frame.brand-art-frame{background:transparent;padding:0}
+.logo-frame .figure-top,.brand-art-frame .figure-top{display:none}
+.vehicle-frame.logo-frame{aspect-ratio:4/3;display:grid;place-items:center}
+.vehicle-frame.logo-frame .hero-photo{margin:0;inline-size:100%;block-size:100%;max-block-size:calc(var(--s20)*5);object-fit:contain;object-position:center;mix-blend-mode:var(--logo-blend,normal)}
+.vehicle-frame.brand-art-frame .hero-photo{margin:0;object-fit:contain;mix-blend-mode:var(--logo-blend,normal)}
+.brand--logo + nav{align-self:center}
+@media(max-width:699px){.brand.brand--logo{grid-template-columns:var(--s16) minmax(0,1fr);column-gap:var(--s3)}.brand-logo{inline-size:var(--s16);block-size:var(--s12)}.vehicle-frame.logo-frame{aspect-ratio:4/3;max-block-size:calc(var(--s20)*4)}.vehicle-frame.logo-frame .hero-photo{max-block-size:calc(var(--s20)*4)}}

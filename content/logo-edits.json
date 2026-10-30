@@ -1,0 +1,38 @@
+{
+  "edited_on": "2026-10-30",
+  "method": "Built-in image_gen; user-requested adaptation of sourced logos to site palettes. Originals remain unchanged.",
+  "edits": [
+    {
+      "number": 24,
+      "source_file": "sto-24/user-cover-v2.png",
+      "output_file": "sto-24/extra-9102.png",
+      "header_only": true,
+      "prompt": "Extract the EXISTING VARTO IF logo from this image for a small website header. Keep EXACT logo from the center only: red curved car-roof line, uppercase white VARTO with small superscript IF at top-right, and the white subtitle Auto Service beneath. Preserve typography, proportions, geometry and colors. Remove the entire mechanic photo and engine background. Output a clean crisp isolated logo centered on a perfectly uniform opaque #07181d background, with 8% clear margin. No new design, no extra letters, no grain, no shadows or glow, no photographic elements, no border. Opaque image, no alpha processing."
+    },
+    {
+      "number": 49,
+      "source_file": "sto-49/maps-1131.jpg",
+      "output_file": "sto-49/extra-9102.png",
+      "header_only": true,
+      "prompt": "Extract the EXISTING circular GIS tire-service emblem from the left side of this exact reference for a website header. Preserve the round orange-and-white tire badge, large black GIS letters with white outline, and exact Ukrainian lettering around the ring: ШИНОМОНТАЖНИЙ at top and СЕРВІС at bottom. Preserve all geometry, proportions, typography, orange/white/black colors. Remove the surrounding tire-track rectangular background. Center ONLY the round badge on a perfectly uniform opaque #101114 background with 8% clean margin. Improve sharpness of existing mark; no redesign, no new symbols, no glow, no grain, no photographic texture outside the badge. Opaque image, no alpha processing."
+    },
+    {
+      "number": 31,
+      "source_file": "sto-31/maps-1027.jpg",
+      "output_file": "sto-31/extra-9101.png",
+      "prompt": "Restore this exact BIZON logo for a website. Faithful clean flat redraw of existing stylized bull head, thin circular ring and exact words BIZON and CAR SERVICE. Preserve all proportions and letter forms, no redesign. Make every line and letter solid crisp ivory #f1f3f2, no embossing or shadow or roughness. Put it on perfectly uniform opaque charcoal #111212, including inside the ring and between letters. Remove all mockup texture. Absolutely smooth solid clean vector-like contours; NO distressing, speckles, holes, grain, ghost edges or white halo. Centered with modest breathing room. Opaque image, no transparency processing."
+    },
+    {
+      "number": 39,
+      "source_file": "sto-39/extra-9001.jpg",
+      "output_file": "sto-39/extra-9101.png",
+      "prompt": "Use case: background-extraction. Edit the supplied existing blue-and-red intertwined lowercase i logo of Interautoservice. Preserve exact curves, proportions, oval orbit lines, red swoosh and red dot, blue italic i. Remove the gray rectangular background completely, retain the logo alone on real transparent alpha. Restore clean sharp edges, no added lettering, no business name, no new elements, no redesign. Centered tight composition with 7% clear padding. Keep blue and red original colors."
+    },
+    {
+      "number": 45,
+      "source_file": "sto-45/maps-1020.jpg",
+      "output_file": "sto-45/extra-9101.png",
+      "prompt": "Restore this exact existing Ukrainian wordmark for a dark website. Same lettering shapes, same proportions. Two lines exactly: ДИЗЕЛЬ-СЕРВІС in solid ivory white condensed bold capitals; Грація in solid red #ef4744 with a thin clean ivory outline. Entire background perfectly uniform opaque charcoal #111212. Faithfully trace the source rather than redesign it. Sharp smooth solid vector-like lettering, no grain, distress, patchy pixels, holes, halo or shadows. No extra text or symbols. Center and add 6% clean margin around all lettering. Opaque image with no transparency processing."
+    }
+  ]
+}

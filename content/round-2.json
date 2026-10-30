@@ -228,9 +228,12 @@
     "data_status": "sourced_with_explicit_limits",
     "recreated_on": "2026-10-30",
     "cover": {
-      "file": "maps-1027.jpg",
+      "file": "extra-9101.png",
       "kind": "logo",
-      "reason": "Логотип із картки цього бізнесу."
+      "reason": "Логотип із картки цього бізнесу.",
+      "transformation": "Imagegen restoration of the sourced logo; original source retained.",
+      "original_file": "maps-1027.jpg",
+      "sha256": "c1ccafade8b3215367e15a9159e5b6d47ec37659660278bc00ab54b0e753b7fd"
     }
   },
   {
@@ -2045,9 +2048,12 @@
     "data_status": "sourced_with_explicit_limits",
     "recreated_on": "2026-10-30",
     "cover": {
-      "file": "extra-9001.jpg",
+      "file": "extra-9101.png",
       "kind": "logo",
-      "reason": "Логотип із картки цього бізнесу."
+      "reason": "Логотип із картки цього бізнесу.",
+      "transformation": "Imagegen restoration of the sourced logo; original source retained.",
+      "original_file": "extra-9001.jpg",
+      "sha256": "5e8f8dbc35b6c649b968a51ad29a2587414964413e96ab2f7033c5920996f034"
     }
   },
   {
@@ -2537,7 +2543,7 @@
   {
     "schema_version": 2,
     "number": 42,
-    "name": "СТО ТИТАН У ТОЛІКА",
+    "name": "СТО «ТИТАН»",
     "category": "СТО / Ремонт авто",
     "selection_status": "retained_without_confirmed_own_website",
     "maps_url": "https://www.google.com/maps?cid=17055696783138331128&hl=uk",
@@ -3463,9 +3469,12 @@
     "data_status": "sourced_with_explicit_limits",
     "recreated_on": "2026-10-30",
     "cover": {
-      "file": "maps-1020.jpg",
+      "file": "extra-9101.png",
       "kind": "logo",
-      "reason": "Логотип із картки цього бізнесу."
+      "reason": "Логотип із картки цього бізнесу.",
+      "transformation": "Imagegen restoration of the sourced logo; original source retained.",
+      "original_file": "maps-1020.jpg",
+      "sha256": "e9059b9b45c56b6bf134d5b9aaeb72bf3244d001e4e81a066d92da7cede7609f"
     }
   },
   {
@@ -4380,6 +4389,11 @@
       "file": "maps-1131.jpg",
       "kind": "logo",
       "reason": "Логотип із картки цього бізнесу."
+    },
+    "header_logo": {
+      "file": "extra-9102.png",
+      "original_file": "maps-1131.jpg",
+      "transformation": "Imagegen extraction of the sourced logo for the header."
     }
   },
   {
