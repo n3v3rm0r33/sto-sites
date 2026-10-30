@@ -3472,12 +3472,11 @@
     "data_status": "sourced_with_explicit_limits",
     "recreated_on": "2026-10-30",
     "cover": {
-      "file": "extra-9101.png",
-      "kind": "logo",
-      "reason": "Логотип із картки цього бізнесу.",
-      "transformation": "Imagegen restoration of the sourced logo; original source retained.",
-      "original_file": "maps-1020.jpg",
-      "sha256": "e9059b9b45c56b6bf134d5b9aaeb72bf3244d001e4e81a066d92da7cede7609f"
+      "file": "maps-1002.jpg",
+      "kind": "photo",
+      "reason": "Фото із галереї відповідного сервісу.",
+      "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RtFs7JzDvI_GsG1PxKrlcIarLesMx8qA7bvoXxnCIEId71vOHRiTaRIDT41gnXfBT803kfJ3wSB5nL5PB8VYbqfs3lL4I6rtjQPsFo_xvXWK7EBAi3RrSBHNOxxG6NyQ77eWJg=w1600-h1200-k-no",
+      "source_page_url": "https://www.google.com/maps?cid=8131753034672608010&hl=uk"
     }
   },
   {

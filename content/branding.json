@@ -181,7 +181,8 @@
         "on-accent": "#1b1010"
       },
       "blend": "lighten",
-      "media": "logo"
+      "media": "logo",
+      "header_file": "extra-9101.png"
     },
     "49": {
       "palette": "dark",
