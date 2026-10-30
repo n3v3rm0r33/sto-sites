@@ -56,30 +56,29 @@
       "media": "logo"
     },
     "32": {
-      "palette": "light",
+      "palette": "dark",
       "tokens": {
-        "canvas": "#f2f7e8",
-        "surface": "#deebc7",
-        "raised": "#c9ddaa",
-        "ink": "#244212",
-        "muted": "#506343",
-        "line": "#91a877",
-        "accent": "#426a0b",
-        "accent-hover": "#325207",
-        "on-accent": "#ffffff"
+        "canvas": "#111316",
+        "surface": "#1c241c",
+        "raised": "#293a27",
+        "accent": "#95cb46",
+        "accent-hover": "#b4df72",
+        "on-accent": "#14200b"
       },
-      "blend": "multiply",
+      "blend": "lighten",
       "media": "logo"
     },
     "33": {
-      "palette": "light",
+      "palette": "dark",
       "tokens": {
+        "canvas": "#111316",
+        "surface": "#22221b",
+        "raised": "#343327",
         "accent": "#f4ca16",
-        "accent-hover": "#dfb500",
-        "on-accent": "#1c242a",
-        "accent-ink": "#806800"
+        "accent-hover": "#ffe15a",
+        "on-accent": "#191704"
       },
-      "blend": "multiply",
+      "blend": "lighten",
       "media": "logo"
     },
     "34": {
@@ -128,39 +127,42 @@
       "trim_edge": true
     },
     "39": {
-      "palette": "light",
+      "palette": "dark",
       "tokens": {
-        "accent": "#194f91",
-        "accent-hover": "#123d73",
-        "on-accent": "#ffffff"
+        "canvas": "#111316",
+        "surface": "#1b222b",
+        "raised": "#273444",
+        "accent": "#80b9f0",
+        "accent-hover": "#a4d1fa",
+        "on-accent": "#0b1d2d"
       },
-      "blend": "normal",
+      "blend": "lighten",
       "media": "logo"
     },
     "40": {
       "palette": "dark",
       "tokens": {
-        "canvas": "#094899",
-        "surface": "#0c3d7e",
-        "raised": "#175aaf",
-        "ink": "#ffffff",
-        "muted": "#d8e5f5",
-        "line": "#8aa9d0",
-        "accent": "#ffffff",
-        "accent-hover": "#deebff",
-        "on-accent": "#123d73"
+        "canvas": "#111316",
+        "surface": "#18222e",
+        "raised": "#24364a",
+        "accent": "#69adf4",
+        "accent-hover": "#99caff",
+        "on-accent": "#0b1928"
       },
       "blend": "lighten",
       "media": "logo"
     },
     "41": {
-      "palette": "light",
+      "palette": "dark",
       "tokens": {
-        "accent": "#25333a",
-        "accent-hover": "#41535e",
-        "on-accent": "#ffffff"
+        "canvas": "#111316",
+        "surface": "#1e2428",
+        "raised": "#30393e",
+        "accent": "#d9e1e4",
+        "accent-hover": "#ffffff",
+        "on-accent": "#151b1d"
       },
-      "blend": "multiply",
+      "blend": "lighten",
       "media": "logo"
     },
     "42": {

@@ -3,6 +3,36 @@
   "method": "Built-in image_gen; user-requested adaptation of sourced logos to site palettes. Originals remain unchanged.",
   "edits": [
     {
+      "number": 32,
+      "source_file": "sto-32/maps-1004.jpg",
+      "output_file": "sto-32/extra-9201.png",
+      "prompt": "Edit this existing business logo for a dark website. Preserve exact STARTER and MASTER lettering and the green starter illustration. Recolor the dark blue text to white. Keep the existing central dark blue rectangular backing inside the mark, and green components unchanged. Replace the surrounding rectangular background with a perfectly uniform opaque charcoal #111316, including all negative space. Preserve the logo identity, no redesign and no added symbols or text. Sharp clean edges, no gradients, no glow, no grain, no white card, centered composition with margin on every side."
+    },
+    {
+      "number": 33,
+      "source_file": "sto-33/maps-1010.jpg",
+      "output_file": "sto-33/extra-9201.png",
+      "prompt": "Edit this existing business logo for a dark website. Preserve the exact WKS CV lettering, wrench symbol, yellow and gray chevrons, and small 'WorKShop since 2013' line. Recolor the black lettering and wrench symbol to clean white, preserve yellow and gray parts. Replace the surrounding rectangular background with a perfectly uniform opaque charcoal #111316, including all negative space. Preserve the logo identity, no redesign and no added symbols or text. Sharp clean edges, no gradients, no glow, no grain, no white card, centered composition with margin on every side."
+    },
+    {
+      "number": 39,
+      "source_file": "sto-39/extra-9101.png",
+      "output_file": "sto-39/extra-9201.png",
+      "prompt": "Edit this existing business logo for a dark website. Preserve the exact intertwined red and blue lowercase i logo and orbit. Make the dark blue parts a brighter medium blue for visibility on dark while keeping the red parts and shapes identical. No text. Replace the surrounding rectangular background with a perfectly uniform opaque charcoal #111316, including all negative space. Preserve the logo identity, no redesign and no added symbols or text. Sharp clean edges, no gradients, no glow, no grain, no white card, centered composition with margin on every side."
+    },
+    {
+      "number": 40,
+      "source_file": "sto-40/extra-1076.png",
+      "output_file": "sto-40/extra-9201.png",
+      "prompt": "Edit this existing business logo for a dark website. Preserve the exact white stylized ms monogram and lowercase mservice wordmark, all shapes and spacing. Remove the blue background and shadows, leaving clean white logo. Replace the surrounding rectangular background with a perfectly uniform opaque charcoal #111316, including all negative space. Preserve the logo identity, no redesign and no added symbols or text. Sharp clean edges, no gradients, no glow, no grain, no white card, centered composition with margin on every side."
+    },
+    {
+      "number": 41,
+      "source_file": "sto-41/extra-1031.png",
+      "output_file": "sto-41/extra-9201.png",
+      "prompt": "Edit this existing business logo for a dark website. Preserve exact VIVAT lettering, line-drawn van, crossed tools and underline. Change all existing dark logo elements to clean bright white; keep exact shapes and positions. Replace the surrounding rectangular background with a perfectly uniform opaque charcoal #111316, including all negative space. Preserve the logo identity, no redesign and no added symbols or text. Sharp clean edges, no gradients, no glow, no grain, no white card, centered composition with margin on every side."
+    },
+    {
       "number": 37,
       "source_file": "sto-37/extra-9104.jpg",
       "source_url": "https://top20.ua/media-resize/company_large/GT-Motors-Logo-JPG-413071.jpeg?timestamp=1580714808",

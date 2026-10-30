@@ -457,9 +457,12 @@
     "data_status": "sourced_with_explicit_limits",
     "recreated_on": "2026-10-30",
     "cover": {
-      "file": "maps-1004.jpg",
+      "file": "extra-9201.png",
       "kind": "logo",
-      "reason": "Логотип із картки цього бізнесу."
+      "reason": "Логотип із картки цього бізнесу.",
+      "transformation": "Imagegen restoration of the sourced logo; original source retained.",
+      "original_file": "maps-1004.jpg",
+      "sha256": "def542e84f34ba46d9fe68e7ac8af3bf0659ae3e78f5f50baf842c1f6e651d02"
     }
   },
   {
@@ -669,9 +672,12 @@
     "data_status": "sourced_with_explicit_limits",
     "recreated_on": "2026-10-30",
     "cover": {
-      "file": "maps-1010.jpg",
+      "file": "extra-9201.png",
       "kind": "logo",
-      "reason": "Логотип із картки цього бізнесу."
+      "reason": "Логотип із картки цього бізнесу.",
+      "transformation": "Imagegen restoration of the sourced logo; original source retained.",
+      "original_file": "maps-1010.jpg",
+      "sha256": "2f63776431d442c23ccd1b72a005f66880ce190f31a42b75d1931ae5c33d7e13"
     }
   },
   {
@@ -2051,12 +2057,12 @@
     "data_status": "sourced_with_explicit_limits",
     "recreated_on": "2026-10-30",
     "cover": {
-      "file": "extra-9101.png",
+      "file": "extra-9201.png",
       "kind": "logo",
       "reason": "Логотип із картки цього бізнесу.",
       "transformation": "Imagegen restoration of the sourced logo; original source retained.",
-      "original_file": "extra-9001.jpg",
-      "sha256": "5e8f8dbc35b6c649b968a51ad29a2587414964413e96ab2f7033c5920996f034"
+      "original_file": "extra-9101.png",
+      "sha256": "8f630db68fb078d7ec71613014e8abcebeaa70550c427910f02f39e8677c0b8e"
     }
   },
   {
@@ -2296,9 +2302,12 @@
     "data_status": "sourced_with_explicit_limits",
     "recreated_on": "2026-10-30",
     "cover": {
-      "file": "extra-1076.png",
+      "file": "extra-9201.png",
       "kind": "logo",
-      "reason": "Логотип із картки цього бізнесу."
+      "reason": "Логотип із картки цього бізнесу.",
+      "transformation": "Imagegen restoration of the sourced logo; original source retained.",
+      "original_file": "extra-1076.png",
+      "sha256": "432248dd103b2067d80d8a6709c726ec7a6cd24533352cd3a7e2804c204e0216"
     }
   },
   {
@@ -2538,9 +2547,12 @@
     "data_status": "sourced_with_explicit_limits",
     "recreated_on": "2026-10-30",
     "cover": {
-      "file": "extra-1031.png",
+      "file": "extra-9201.png",
       "kind": "logo",
-      "reason": "Логотип із картки цього бізнесу."
+      "reason": "Логотип із картки цього бізнесу.",
+      "transformation": "Imagegen restoration of the sourced logo; original source retained.",
+      "original_file": "extra-1031.png",
+      "sha256": "8b41f5dfab4673060357cd7e998b1d6d2128c529225e3b50b0a7468ad69e1e84"
     }
   },
   {
