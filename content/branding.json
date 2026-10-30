@@ -93,13 +93,19 @@
       "media": "logo"
     },
     "37": {
-      "palette": "light",
+      "palette": "dark",
       "tokens": {
-        "accent": "#bb2530",
-        "accent-hover": "#991c26",
-        "on-accent": "#ffffff"
+        "canvas": "#111316",
+        "surface": "#1c2025",
+        "raised": "#2b3037",
+        "ink": "#f3f1ee",
+        "muted": "#bcbfc5",
+        "line": "#535b65",
+        "accent": "#ff6571",
+        "accent-hover": "#ff8a93",
+        "on-accent": "#220c11"
       },
-      "blend": "multiply",
+      "blend": "lighten",
       "media": "logo"
     },
     "38": {

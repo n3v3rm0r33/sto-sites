@@ -3,6 +3,14 @@
   "method": "Built-in image_gen; user-requested adaptation of sourced logos to site palettes. Originals remain unchanged.",
   "edits": [
     {
+      "number": 37,
+      "source_file": "sto-37/extra-9104.jpg",
+      "source_url": "https://top20.ua/media-resize/company_large/GT-Motors-Logo-JPG-413071.jpeg?timestamp=1580714808",
+      "source_page_url": "https://top20.ua/tr/avto-moto/sto/gt-motors.html",
+      "output_file": "sto-37/extra-9103.png",
+      "prompt": "Edit this existing GT Motors logo for a dark website. Preserve EXACT existing design: gear emblem at left, italic stylized red Gt letters overlapping it, italic motors word to right, Ukrainian subtitle АВТОСЕРВІС in spaced red capitals. Use this supplied FULLER reference, not a cropped composition. Entire gear, every letter including final s, and subtitle must be completely visible with 10% clear margin on ALL FOUR sides. Keep exact letter shapes and geometry. Adapt formerly black gear and motors lettering to solid ivory #f3f1ee for readability, keep red Gt and subtitle #ed3947. Uniform opaque dark charcoal #111316 background, no white rectangle, no border, no texture, no shadows, no glow, no additional text or symbols. Flat sharp clean contours. Landscape composition, centered whole logo, no cropping anywhere."
+    },
+    {
       "number": 24,
       "source_file": "sto-24/user-cover-v2.png",
       "output_file": "sto-24/extra-9102.png",

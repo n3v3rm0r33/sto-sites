@@ -1573,9 +1573,12 @@
     "data_status": "sourced_with_explicit_limits",
     "recreated_on": "2026-10-30",
     "cover": {
-      "file": "extra-1055.png",
+      "file": "extra-9103.png",
       "kind": "logo",
-      "reason": "Логотип із картки цього бізнесу."
+      "reason": "Логотип із картки цього бізнесу.",
+      "transformation": "Imagegen restoration of the sourced logo; original source retained.",
+      "original_file": "extra-9104.jpg",
+      "sha256": "b6ce76f4ef72283aa79d60b81a90a8374fac9ffae04cc4a36cb4631aef495fb1"
     }
   },
   {
