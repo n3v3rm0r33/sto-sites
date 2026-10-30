@@ -111,9 +111,16 @@
     "38": {
       "palette": "dark",
       "tokens": {
-        "accent": "#f45c59",
-        "accent-hover": "#ff807e",
-        "on-accent": "#1c1010"
+        "canvas": "#111112",
+        "surface": "#211b1c",
+        "raised": "#342426",
+        "ink": "#e4e6e8",
+        "muted": "#b9bcc1",
+        "line": "#58545a",
+        "accent": "#d21f2b",
+        "accent-hover": "#b81824",
+        "on-accent": "#ffffff",
+        "accent-ink": "#ff6570"
       },
       "blend": "lighten",
       "media": "logo",

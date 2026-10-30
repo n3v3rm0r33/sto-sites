@@ -31,7 +31,7 @@
 | Red Garage | Чагор | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-35/) | 050 545 5586 |
 | DS-service | Чернівці | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-36/) | 066 638 8818 |
 | GT Motors | Тернопіль | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-37/) | 098 400 8242 |
-| БІОЛ | Тернопіль | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-38/) | 050 588 4676 |
+| BIOL | Тернопіль | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-38/) | 050 588 4676 |
 | Інтеравтосервіс | Тернопіль | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-39/) | 096 520 8750 |
 | Mservice | Хмельницький | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-40/) | 098 188 5588 |
 | VivaT | Луцьк | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-41/) | 097 550 5051 |
