@@ -44,3 +44,50 @@
 | Grand Allmax | Новоселиця | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-48/) | 068 313 7777 |
 | GIS | Хмельницький | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-49/) | 093 483 0746 |
 | Дакар-Сервіс | Хмельницький | [Відкрити сайт](https://n3v3rm0r33.github.io/sto-sites/sto-50/) | 098 669 4575 |
+
+## Коло 02.11.2026
+
+40 нових демосторінок. Власного сайту не знайдено під час перевірки Google Maps та додаткового пошуку. Джерела даних: `content/round-3.json`.
+
+| СТО | Телефон | Демо |
+|---|---|---|
+| SERVICE 88 | +380988810588 | https://n3v3rm0r33.github.io/sto-sites/sto-51/ |
+| TOPMOTORS | +380503236066 | https://n3v3rm0r33.github.io/sto-sites/sto-52/ |
+| AvtoRado | +380506284091 | https://n3v3rm0r33.github.io/sto-sites/sto-53/ |
+| Масльонка | +380978787031 | https://n3v3rm0r33.github.io/sto-sites/sto-54/ |
+| Супершиномонтаж | +380971001407 | https://n3v3rm0r33.github.io/sto-sites/sto-55/ |
+| Red Zone | +380988868696 | https://n3v3rm0r33.github.io/sto-sites/sto-56/ |
+| Paint Box | +380977996597 | https://n3v3rm0r33.github.io/sto-sites/sto-57/ |
+| TvoeSTO | +380676139074 | https://n3v3rm0r33.github.io/sto-sites/sto-58/ |
+| TOP Service RV | +380971100888 | https://n3v3rm0r33.github.io/sto-sites/sto-59/ |
+| Каретний двір | +380938003939 | https://n3v3rm0r33.github.io/sto-sites/sto-60/ |
+| Інжектор Дизель Сервіс | +380966624699 | https://n3v3rm0r33.github.io/sto-sites/sto-61/ |
+| СТО «Таврія» | +380931367379 | https://n3v3rm0r33.github.io/sto-sites/sto-62/ |
+| Інтер Дизель | +380680003004 | https://n3v3rm0r33.github.io/sto-sites/sto-63/ |
+| Автоторнадо | +380637757427 | https://n3v3rm0r33.github.io/sto-sites/sto-64/ |
+| TIR SERVICE «ФЕДУС» | +380967045693 | https://n3v3rm0r33.github.io/sto-sites/sto-65/ |
+| DiService | +380993156323 | https://n3v3rm0r33.github.io/sto-sites/sto-66/ |
+| Альфа Сервіс | +380678850100 | https://n3v3rm0r33.github.io/sto-sites/sto-67/ |
+| СТО «КАТЕР» | +380667883151 | https://n3v3rm0r33.github.io/sto-sites/sto-68/ |
+| СТО «Скіф» | +380500749491 | https://n3v3rm0r33.github.io/sto-sites/sto-69/ |
+| AUTO BEAR SERVICE | +380987150498 | https://n3v3rm0r33.github.io/sto-sites/sto-70/ |
+| Autoelektrika12volt | +380636869104 | https://n3v3rm0r33.github.io/sto-sites/sto-71/ |
+| 12 вольт | +380509160458 | https://n3v3rm0r33.github.io/sto-sites/sto-72/ |
+| Фреон Сервіс | +380677298565 | https://n3v3rm0r33.github.io/sto-sites/sto-73/ |
+| Carman | +380689377000 | https://n3v3rm0r33.github.io/sto-sites/sto-74/ |
+| Style Glass | +380990302242 | https://n3v3rm0r33.github.io/sto-sites/sto-75/ |
+| TACHKI | +380683070012 | https://n3v3rm0r33.github.io/sto-sites/sto-76/ |
+| USE | +380675504411 | https://n3v3rm0r33.github.io/sto-sites/sto-77/ |
+| СклоАвто | +380680785692 | https://n3v3rm0r33.github.io/sto-sites/sto-78/ |
+| Tab_Auto | +380977588284 | https://n3v3rm0r33.github.io/sto-sites/sto-79/ |
+| AUTOBODY | +380960259998 | https://n3v3rm0r33.github.io/sto-sites/sto-80/ |
+| Clifford | +380503381128 | https://n3v3rm0r33.github.io/sto-sites/sto-81/ |
+| СамДоДир | +380509855163 | https://n3v3rm0r33.github.io/sto-sites/sto-82/ |
+| Док АВТО Сервіс | +380684401328 | https://n3v3rm0r33.github.io/sto-sites/sto-83/ |
+| Ярош-сервіс | +380677447907 | https://n3v3rm0r33.github.io/sto-sites/sto-84/ |
+| Комфорт-Авто | +380996228080 | https://n3v3rm0r33.github.io/sto-sites/sto-85/ |
+| СТО «Гараж» | +380955904949 | https://n3v3rm0r33.github.io/sto-sites/sto-86/ |
+| СТО «Ресора» | +380984525817 | https://n3v3rm0r33.github.io/sto-sites/sto-87/ |
+| Сервис-электро | +380663655492 | https://n3v3rm0r33.github.io/sto-sites/sto-88/ |
+| Autoclimate Club | +380967619537 | https://n3v3rm0r33.github.io/sto-sites/sto-89/ |
+| Auto-Fix service | +380964155590 | https://n3v3rm0r33.github.io/sto-sites/sto-90/ |
