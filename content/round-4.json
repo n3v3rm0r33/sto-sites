@@ -211,5 +211,107 @@
       "file": "extra-1.jpg",
       "kind": "photo"
     }
+  },
+  {
+    "number": 93,
+    "name": "Автосервіс АвтомастерОК",
+    "city": "Черкаси",
+    "address": "м. Черкаси, вулиця В'ячеслава Чорновола, 89",
+    "phone": "066 616 4951",
+    "services": [
+      "Технічне обслуговування автомобілів",
+      "Заміна сайлентблоків",
+      "Чищення форсунок",
+      "Розвал-сходження"
+    ],
+    "hours_weekly": {
+      "monday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "tuesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "wednesday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "thursday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "friday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "18:00"
+      },
+      "saturday": {
+        "status": "open",
+        "opens": "09:00",
+        "closes": "15:00"
+      },
+      "sunday": {
+        "status": "closed",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "maps_url": "https://www.google.com/maps?cid=15808011834222266043&hl=uk",
+    "source_urls": [
+      "https://www.google.com/maps?cid=15808011834222266043&hl=uk",
+      "https://kolesadovid.com/sto/cherkasi/avtoservis-avtomasterok/",
+      "https://top20.ua/ck/avto-moto/avtoservisi-sto/avtomasterok-9.html"
+    ],
+    "website_status": "Власного сайту не знайдено під час перевірки Maps та пошуку.",
+    "checked_on": "2026-11-03",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://kolesadovid.com/wp-content/uploads/d0b0d0b2d182d0bed181d0b5d180d0b2d0b8d181-d0b0d0b2d182d0bed0bcd0b0d181d182d0b5d180d0bed0ba-3.webp",
+        "source_page_url": "https://kolesadovid.com/sto/cherkasi/avtoservis-avtomasterok/",
+        "source_name": "Kolesadovid",
+        "maps_url": "https://www.google.com/maps?cid=15808011834222266043&hl=uk",
+        "observed_on": "2026-11-03",
+        "sha256": "8f7eca6b7c3561519ef3da6e09bed1da3beacb6097dbbda37ae4fb466493d6c7",
+        "bytes": 194435,
+        "original_sha256": "4a49d62180b1325db614242c97b1320027f893bddc2e0dcad76673d3947045e7",
+        "transformation": "Auto-orient; resize within 1600 px without upscaling; JPEG quality 88."
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://kolesadovid.com/wp-content/uploads/d0b0d0b2d182d0bed181d0b5d180d0b2d0b8d181-d0b0d0b2d182d0bed0bcd0b0d181d182d0b5d180d0bed0ba-2.webp",
+        "source_page_url": "https://kolesadovid.com/sto/cherkasi/avtoservis-avtomasterok/",
+        "source_name": "Kolesadovid",
+        "maps_url": "https://www.google.com/maps?cid=15808011834222266043&hl=uk",
+        "observed_on": "2026-11-03",
+        "sha256": "08e2f260542f304c5e68d00626d71143a37d048454fe885c3c5945016d798832",
+        "bytes": 122271,
+        "original_sha256": "ee54c183da67b7d024829ded5883bb0021fa1195dbdd6080dfcdc29e4cfcb66d",
+        "transformation": "Auto-orient; resize within 1600 px without upscaling; JPEG quality 88."
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Технічне обслуговування",
+        "text": "Клієнт пише, що на сервісі замінили сайлентблоки й виконали ТО; після робіт автомобіль став їхати тихіше.",
+        "source_name": "Google Maps через Kolesadovid",
+        "source_url": "https://kolesadovid.com/sto/cherkasi/avtoservis-avtomasterok/"
+      },
+      {
+        "title": "Роботи з автомобілем Toyota",
+        "text": "Власник Toyota Camry залишився задоволений чищенням форсунок і регулюванням розвалу.",
+        "source_name": "Google Maps через Kolesadovid",
+        "source_url": "https://kolesadovid.com/sto/cherkasi/avtoservis-avtomasterok/"
+      }
+    ],
+    "cover": {
+      "file": "extra-1.jpg",
+      "kind": "photo"
+    }
   }
 ]
