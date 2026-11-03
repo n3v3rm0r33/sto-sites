@@ -198,5 +198,203 @@
       "file": "extra-1.jpg",
       "kind": "photo"
     }
+  },
+  {
+    "number": 94,
+    "name": "AnnReal Car Service",
+    "city": "Вінниця",
+    "address": "м. Вінниця, вулиця Київська, 138Ж",
+    "phone": "096 750 0551",
+    "services": [
+      "Заміна оливи в двигуні",
+      "Діагностика системи EGR",
+      "Заміна помпи та важелів підвіски"
+    ],
+    "hours_weekly": {
+      "monday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "tuesday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "wednesday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "thursday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "friday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "saturday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "maps_url": "https://www.google.com/maps?cid=18103083323444401447&hl=uk",
+    "source_urls": [
+      "https://www.google.com/maps?cid=18103083323444401447&hl=uk",
+      "https://maysterua.com/maistri-z-konditsioneriv/vinnitsia/annreal-car-service/"
+    ],
+    "website_status": "Власного сайту не знайдено під час перевірки Maps та пошуку.",
+    "checked_on": "2026-11-03",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://maysterua.com/wp-content/uploads/annreal-car-service-3.webp",
+        "source_page_url": "https://maysterua.com/maistri-z-konditsioneriv/vinnitsia/annreal-car-service/",
+        "source_name": "Maysterua",
+        "maps_url": "https://www.google.com/maps?cid=18103083323444401447&hl=uk",
+        "observed_on": "2026-11-03",
+        "sha256": "22bea5e892bacc13693ea4e98331399b8ed89a26ddcfdaa30748820674b86d76",
+        "bytes": 226424,
+        "original_sha256": "217bbbef22baeeebe887bcdf8e83e68f1de129cb7b2af69b3278d51520e31b3a",
+        "transformation": "Auto-orient; resize within 1600 px without upscaling; JPEG quality 88."
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://maysterua.com/wp-content/uploads/annreal-car-service-2.webp",
+        "source_page_url": "https://maysterua.com/maistri-z-konditsioneriv/vinnitsia/annreal-car-service/",
+        "source_name": "Maysterua",
+        "maps_url": "https://www.google.com/maps?cid=18103083323444401447&hl=uk",
+        "observed_on": "2026-11-03",
+        "sha256": "a657ca75b47df51b4e69c92dfd7c4be17ac8b4fd8284c3e8b715efcfcd13b616",
+        "bytes": 106594,
+        "original_sha256": "c379e599fccead2d759901f46775519eb098ea6c7b82d26ddff756c196ca477d",
+        "transformation": "Auto-orient; resize within 1600 px without upscaling; JPEG quality 88."
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Діагностика EGR",
+        "text": "Клієнт відзначив діагностику клапана й охолоджувача EGR та пояснення робіт із фотографіями деталей.",
+        "source_name": "Google Maps через Maysterua",
+        "source_url": "https://maysterua.com/maistri-z-konditsioneriv/vinnitsia/annreal-car-service/"
+      },
+      {
+        "title": "Обслуговування двигуна",
+        "text": "Під час заміни оливи на сервісі перевірили двигун і звернули увагу клієнта на стан ланцюга ГРМ.",
+        "source_name": "Google Maps через Maysterua",
+        "source_url": "https://maysterua.com/maistri-z-konditsioneriv/vinnitsia/annreal-car-service/"
+      }
+    ],
+    "cover": {
+      "file": "extra-1.jpg",
+      "kind": "photo"
+    }
+  },
+  {
+    "number": 95,
+    "name": "СТО Автоплюс",
+    "city": "Черкаси",
+    "address": "м. Черкаси, вулиця В'ячеслава Чорновола, 112/3",
+    "phone": "096 010 0451",
+    "services": [
+      "Технічне обслуговування автомобілів"
+    ],
+    "hours_weekly": {
+      "monday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "tuesday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "wednesday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "thursday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "friday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "saturday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "maps_url": "https://www.google.com/maps?cid=3153329419882934543&hl=uk",
+    "source_urls": [
+      "https://www.google.com/maps?cid=3153329419882934543&hl=uk",
+      "https://kolesadovid.com/sto/cherkasi/sto-avtoplius/"
+    ],
+    "website_status": "Власного сайту не знайдено під час перевірки Maps та пошуку.",
+    "checked_on": "2026-11-03",
+    "photos": [
+      {
+        "file": "extra-1.jpg",
+        "source_url": "https://kolesadovid.com/wp-content/uploads/d181d182d0be-d0b0d0b2d182d0bed0bfd0bbd18ed181-2.webp",
+        "source_page_url": "https://kolesadovid.com/sto/cherkasi/sto-avtoplius/",
+        "source_name": "Kolesadovid",
+        "maps_url": "https://www.google.com/maps?cid=3153329419882934543&hl=uk",
+        "observed_on": "2026-11-03",
+        "sha256": "b654bf40da53514d37f49570b89b96f0b7af94a7239e3b999d53b0f477888b2e",
+        "bytes": 124139,
+        "original_sha256": "5fd2d60a06ee4b0682f1c13801697d1716bbdd8c020f8aca9c9efb3f62aaa6a9",
+        "transformation": "Auto-orient; resize within 1600 px without upscaling; JPEG quality 88."
+      },
+      {
+        "file": "extra-2.jpg",
+        "source_url": "https://kolesadovid.com/wp-content/uploads/d181d182d0be-d0b0d0b2d182d0bed0bfd0bbd18ed181-3.webp",
+        "source_page_url": "https://kolesadovid.com/sto/cherkasi/sto-avtoplius/",
+        "source_name": "Kolesadovid",
+        "maps_url": "https://www.google.com/maps?cid=3153329419882934543&hl=uk",
+        "observed_on": "2026-11-03",
+        "sha256": "2719596e72a5c65f0b345e79edd6b70e49513ccbc2ee956dd484642c75b9e0dd",
+        "bytes": 166267,
+        "original_sha256": "cdbc2f3646799781ed9921568ae8562e5494d72b6c80a4aaecaee2dc9fc39c35",
+        "transformation": "Auto-orient; resize within 1600 px without upscaling; JPEG quality 88."
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Узгоджена вартість",
+        "text": "Клієнт зазначив, що сплатив за роботи заздалегідь узгоджену суму та планує звертатися знову.",
+        "source_name": "Google Maps через Kolesadovid",
+        "source_url": "https://kolesadovid.com/sto/cherkasi/sto-avtoplius/"
+      },
+      {
+        "title": "Регулярне ТО",
+        "text": "Клієнт позитивно оцінив виконане технічне обслуговування й допомогу під час попередніх звернень.",
+        "source_name": "Google Maps через Kolesadovid",
+        "source_url": "https://kolesadovid.com/sto/cherkasi/sto-avtoplius/"
+      }
+    ],
+    "cover": {
+      "file": "extra-1.jpg",
+      "kind": "photo"
+    }
   }
 ]
