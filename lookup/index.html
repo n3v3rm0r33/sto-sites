@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<meta name="color-scheme" content="dark light">
+<title>Знайти сайт СТО</title>
+<link rel="stylesheet" href="lookup.css">
+<script src="lookup.js" defer></script>
+</head>
+<body>
+<main>
+<h1>Знайти сайт СТО</h1>
+<form role="search" id="search-form">
+<label for="query">Назва сервісу або телефон</label>
+<div class="search"><input id="query" type="search" autocomplete="off" spellcheck="false" placeholder="Наприклад: Автоклан або 067…" aria-describedby="hint" disabled><button id="clear" type="button" disabled>Очистити</button></div>
+<p id="hint">/ — перейти до пошуку · Esc — очистити</p>
+</form>
+<p id="status" role="status" aria-live="polite">Завантажуємо посилання…</p>
+<ul id="results" aria-label="Знайдені сайти"></ul>
+<p id="copy-status" role="status" aria-live="polite"></p>
+<noscript>Для пошуку увімкніть JavaScript у браузері.</noscript>
+</main>
+<footer>Демо-концепт сайту для «Пошук СТО». Підготовлено як пропозицію, не є офіційним сайтом. Видалимо за першим проханням.</footer>
+</body>
+</html>

@@ -1,0 +1,527 @@
+[
+  {
+    "number": 1,
+    "name": "Auto Car Service",
+    "phone": "+380979198576",
+    "city": "м. Рівне",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-01/"
+  },
+  {
+    "number": 3,
+    "name": "СТО \"Бімер\"",
+    "phone": "+380689907077",
+    "city": "м. Рівне",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-03/"
+  },
+  {
+    "number": 5,
+    "name": "СТО Автоклан",
+    "phone": "+380674221955",
+    "city": "м. Рівне",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-05/"
+  },
+  {
+    "number": 6,
+    "name": "STO.RV",
+    "phone": "+380932746208",
+    "city": "м. Рівне",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-06/"
+  },
+  {
+    "number": 8,
+    "name": "Шиномонтаж TECH",
+    "phone": "+380975842271",
+    "city": "м. Рівне",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-08/"
+  },
+  {
+    "number": 12,
+    "name": "СТО \"Мерседес Сервіс\"",
+    "phone": "+380981296612",
+    "city": "м. Львів",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-12/"
+  },
+  {
+    "number": 17,
+    "name": "AVP SERVICE СТО",
+    "phone": "+380974083470",
+    "city": "м. Львів",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-17/"
+  },
+  {
+    "number": 18,
+    "name": "Шиномонтаж \"Каспер Шина\"",
+    "phone": "+380677907226",
+    "city": "м. Львів",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-18/"
+  },
+  {
+    "number": 19,
+    "name": "СТО АвтоГараж",
+    "phone": "+380934503348",
+    "city": "м. Львів",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-19/"
+  },
+  {
+    "number": 20,
+    "name": "Шиномонтаж \"LEV\"",
+    "phone": "+380983439540",
+    "city": "м. Львів",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-20/"
+  },
+  {
+    "number": 22,
+    "name": "СТО \"СКЛ Автосервіс\"",
+    "phone": "+380958822841",
+    "city": "с. Угринів",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-22/"
+  },
+  {
+    "number": 23,
+    "name": "АВТОСЕРВІС STANISLAVIV",
+    "phone": "+380684098068",
+    "city": "м. Івано-Франківськ",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-23/"
+  },
+  {
+    "number": 24,
+    "name": "VARTO IF",
+    "phone": "+380674921113",
+    "city": "с. Угринів",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-24/"
+  },
+  {
+    "number": 27,
+    "name": "СТО Самара-Сервіс",
+    "phone": "+380989220646",
+    "city": "м. Івано-Франківськ",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-27/"
+  },
+  {
+    "number": 30,
+    "name": "7Service шиномонтаж",
+    "phone": "+380992472447",
+    "city": "м. Івано-Франківськ",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-30/"
+  },
+  {
+    "number": 31,
+    "name": "BIZON",
+    "phone": "+380997583817",
+    "city": "м. Луцьк",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-31/"
+  },
+  {
+    "number": 32,
+    "name": "Starter-master",
+    "phone": "+380506727333",
+    "city": "м. Чернівці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-32/"
+  },
+  {
+    "number": 33,
+    "name": "WKS.cv",
+    "phone": "+380672124455",
+    "city": "м. Чернівці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-33/"
+  },
+  {
+    "number": 34,
+    "name": "SKS",
+    "phone": "+380504341775",
+    "city": "м. Чернівці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-34/"
+  },
+  {
+    "number": 35,
+    "name": "Red Garage",
+    "phone": "+380505455586",
+    "city": "с. Чагор",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-35/"
+  },
+  {
+    "number": 36,
+    "name": "DS-service",
+    "phone": "+380666388818",
+    "city": "м. Чернівці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-36/"
+  },
+  {
+    "number": 37,
+    "name": "GT Motors",
+    "phone": "+380984008242",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-37/"
+  },
+  {
+    "number": 38,
+    "name": "BIOL",
+    "phone": "+380505884676",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-38/"
+  },
+  {
+    "number": 39,
+    "name": "Інтеравтосервіс",
+    "phone": "+380965208750",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-39/"
+  },
+  {
+    "number": 40,
+    "name": "Mservice",
+    "phone": "+380981885588",
+    "city": "м. Хмельницький",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-40/"
+  },
+  {
+    "number": 41,
+    "name": "VivaT",
+    "phone": "+380975505051",
+    "city": "м. Луцьк",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-41/"
+  },
+  {
+    "number": 42,
+    "name": "СТО «ТИТАН»",
+    "phone": "+380971508577",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-42/"
+  },
+  {
+    "number": 43,
+    "name": "AUTOSTE",
+    "phone": "+380983759329",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-43/"
+  },
+  {
+    "number": 44,
+    "name": "Преміум Шина",
+    "phone": "+380972104575",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-44/"
+  },
+  {
+    "number": 45,
+    "name": "Грація Дизель-Сервіс",
+    "phone": "+380673502513",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-45/"
+  },
+  {
+    "number": 46,
+    "name": "СПЕКТР",
+    "phone": "+380974351918",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-46/"
+  },
+  {
+    "number": 47,
+    "name": "ОРІОН",
+    "phone": "+380667511111",
+    "city": "м. Чернівці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-47/"
+  },
+  {
+    "number": 48,
+    "name": "Grand Allmax",
+    "phone": "+380683137777",
+    "city": "м. Новоселиця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-48/"
+  },
+  {
+    "number": 49,
+    "name": "GIS",
+    "phone": "+380934830746",
+    "city": "м. Хмельницький",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-49/"
+  },
+  {
+    "number": 50,
+    "name": "Дакар-Сервіс",
+    "phone": "+380986694575",
+    "city": "м. Хмельницький",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-50/"
+  },
+  {
+    "number": 51,
+    "name": "SERVICE 88",
+    "phone": "+380988810588",
+    "city": "м. Вінниця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-51/"
+  },
+  {
+    "number": 52,
+    "name": "TOPMOTORS",
+    "phone": "+380503236066",
+    "city": "м. Вінниця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-52/"
+  },
+  {
+    "number": 53,
+    "name": "AvtoRado",
+    "phone": "+380506284091",
+    "city": "м. Полтава",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-53/"
+  },
+  {
+    "number": 54,
+    "name": "Масльонка",
+    "phone": "+380978787031",
+    "city": "м. Вінниця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-54/"
+  },
+  {
+    "number": 55,
+    "name": "Супершиномонтаж",
+    "phone": "+380971001407",
+    "city": "м. Рівне",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-55/"
+  },
+  {
+    "number": 56,
+    "name": "Red Zone",
+    "phone": "+380988868696",
+    "city": "м. Вінниця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-56/"
+  },
+  {
+    "number": 57,
+    "name": "Paint Box",
+    "phone": "+380977996597",
+    "city": "м. Хмельницький",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-57/"
+  },
+  {
+    "number": 58,
+    "name": "TvoeSTO",
+    "phone": "+380676139074",
+    "city": "м. Вінниця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-58/"
+  },
+  {
+    "number": 59,
+    "name": "TOP Service RV",
+    "phone": "+380971100888",
+    "city": "м. Рівне",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-59/"
+  },
+  {
+    "number": 60,
+    "name": "Каретний двір",
+    "phone": "+380938003939",
+    "city": "м. Вінниця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-60/"
+  },
+  {
+    "number": 61,
+    "name": "Інжектор Дизель Сервіс",
+    "phone": "+380966624699",
+    "city": "м. Вінниця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-61/"
+  },
+  {
+    "number": 62,
+    "name": "СТО «Таврія»",
+    "phone": "+380931367379",
+    "city": "м. Черкаси",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-62/"
+  },
+  {
+    "number": 63,
+    "name": "Інтер Дизель",
+    "phone": "+380680003004",
+    "city": "м. Хмельницький",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-63/"
+  },
+  {
+    "number": 64,
+    "name": "Автоторнадо",
+    "phone": "+380637757427",
+    "city": "м. Вінниця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-64/"
+  },
+  {
+    "number": 65,
+    "name": "TIR SERVICE «ФЕДУС»",
+    "phone": "+380967045693",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-65/"
+  },
+  {
+    "number": 66,
+    "name": "DiService",
+    "phone": "+380993156323",
+    "city": "м. Луцьк",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-66/"
+  },
+  {
+    "number": 67,
+    "name": "Альфа Сервіс",
+    "phone": "+380678850100",
+    "city": "с. Смиківці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-67/"
+  },
+  {
+    "number": 68,
+    "name": "СТО «КАТЕР»",
+    "phone": "+380667883151",
+    "city": "м. Івано-Франківськ",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-68/"
+  },
+  {
+    "number": 69,
+    "name": "СТО «Скіф»",
+    "phone": "+380500749491",
+    "city": "м. Чернівці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-69/"
+  },
+  {
+    "number": 70,
+    "name": "AUTO BEAR SERVICE",
+    "phone": "+380987150498",
+    "city": "м. Хмельницький",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-70/"
+  },
+  {
+    "number": 71,
+    "name": "Autoelektrika12volt",
+    "phone": "+380636869104",
+    "city": "м. Черкаси",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-71/"
+  },
+  {
+    "number": 72,
+    "name": "12 вольт",
+    "phone": "+380509160458",
+    "city": "м. Чернівці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-72/"
+  },
+  {
+    "number": 73,
+    "name": "Фреон Сервіс",
+    "phone": "+380677298565",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-73/"
+  },
+  {
+    "number": 74,
+    "name": "Carman",
+    "phone": "+380689377000",
+    "city": "м. Вінниця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-74/"
+  },
+  {
+    "number": 75,
+    "name": "Style Glass",
+    "phone": "+380990302242",
+    "city": "м. Чернівці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-75/"
+  },
+  {
+    "number": 76,
+    "name": "TACHKI",
+    "phone": "+380683070012",
+    "city": "м. Рівне",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-76/"
+  },
+  {
+    "number": 77,
+    "name": "USE",
+    "phone": "+380675504411",
+    "city": "м. Хмельницький",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-77/"
+  },
+  {
+    "number": 78,
+    "name": "СклоАвто",
+    "phone": "+380680785692",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-78/"
+  },
+  {
+    "number": 79,
+    "name": "Tab_Auto",
+    "phone": "+380977588284",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-79/"
+  },
+  {
+    "number": 80,
+    "name": "AUTOBODY",
+    "phone": "+380960259998",
+    "city": "м. Тернопіль",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-80/"
+  },
+  {
+    "number": 81,
+    "name": "Clifford",
+    "phone": "+380503381128",
+    "city": "м. Чернівці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-81/"
+  },
+  {
+    "number": 82,
+    "name": "СамДоДир",
+    "phone": "+380509855163",
+    "city": "м. Чернівці",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-82/"
+  },
+  {
+    "number": 83,
+    "name": "Док АВТО Сервіс",
+    "phone": "+380684401328",
+    "city": "м. Луцьк",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-83/"
+  },
+  {
+    "number": 84,
+    "name": "Ярош-сервіс",
+    "phone": "+380677447907",
+    "city": "м. Житомир",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-84/"
+  },
+  {
+    "number": 85,
+    "name": "Комфорт-Авто",
+    "phone": "+380996228080",
+    "city": "м. Івано-Франківськ",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-85/"
+  },
+  {
+    "number": 86,
+    "name": "СТО «Гараж»",
+    "phone": "+380955904949",
+    "city": "м. Хмельницький",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-86/"
+  },
+  {
+    "number": 87,
+    "name": "СТО «Ресора»",
+    "phone": "+380984525817",
+    "city": "м. Хмельницький",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-87/"
+  },
+  {
+    "number": 88,
+    "name": "Сервис-электро",
+    "phone": "+380663655492",
+    "city": "м. Полтава",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-88/"
+  },
+  {
+    "number": 89,
+    "name": "Autoclimate Club",
+    "phone": "+380967619537",
+    "city": "м. Вінниця",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-89/"
+  },
+  {
+    "number": 90,
+    "name": "Auto-Fix service",
+    "phone": "+380964155590",
+    "city": "м. Хмельницький",
+    "url": "https://n3v3rm0r33.github.io/sto-sites/sto-90/"
+  }
+]
