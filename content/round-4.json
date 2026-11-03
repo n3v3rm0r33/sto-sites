@@ -1,0 +1,100 @@
+[
+  {
+    "number": 91,
+    "name": "СТО Fix AUTO",
+    "city": "Драгомирчани",
+    "address": "с. Драгомирчани, вулиця Миру, 21",
+    "phone": "067 688 6637",
+    "services": [
+      "Ремонт і обслуговування автомобілів"
+    ],
+    "hours_weekly": {
+      "monday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "tuesday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "wednesday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "thursday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "friday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "saturday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      },
+      "sunday": {
+        "status": "unknown",
+        "opens": null,
+        "closes": null
+      }
+    },
+    "maps_url": "https://www.google.com/maps?cid=16152721169475129525&hl=uk",
+    "source_urls": [
+      "https://www.google.com/maps?cid=16152721169475129525&hl=uk",
+      "https://robota.ua/zapros/avtomekhanik/yamnytsia"
+    ],
+    "website_status": "Власного сайту не знайдено під час перевірки Maps та пошуку.",
+    "checked_on": "2026-11-03",
+    "photos": [
+      {
+        "file": "maps-1.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QFIu5O8fzt8wh-AOOluqW4SoFimlhg90no8_PlS9JQLqXjbMCaK9mOOHMPxXK9O1XwXpWK7PFcFrtuXpyiOW8ioYOM2yUurs-GZMjZkiLNUzAQjWrs1Et24fV9JRRBG7Oyo7vP=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16152721169475129525&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16152721169475129525&hl=uk",
+        "observed_on": "2026-11-03",
+        "sha256": "e4cf38b93234407e7398868d25e7035b8b17c6ae68f0b1a01daef079c29f203a",
+        "bytes": 135971,
+        "original_sha256": "71b5a8947c3ffc49cbd8398a73bc39d3833d643db7f0942b931c8c7ca9570863",
+        "transformation": "Auto-orient; resize within 1600 px without upscaling; JPEG quality 88."
+      },
+      {
+        "file": "maps-2.jpg",
+        "source_url": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SvvPhl7Hyz90M1zaU2d1TuVxAsrlTiYYKVoLZLmRTiQh-dDnGKT4dCCgSWxhaUpj0XeMcSY6r1PZ_w8CPyzeHNTWRLoLqOPRFLkgIFumPW4Z0t4byxSSX8NdGN9fN2uzDQvRD9UQ=w1600-h1200-k-no",
+        "source_page_url": "https://www.google.com/maps?cid=16152721169475129525&hl=uk",
+        "source_name": "Google Maps",
+        "maps_url": "https://www.google.com/maps?cid=16152721169475129525&hl=uk",
+        "observed_on": "2026-11-03",
+        "sha256": "ed64474ce48f859347fdff285abd482e8ed2a7558d88670c731cc57b5221c0b0",
+        "bytes": 323960,
+        "original_sha256": "b4d9555f9eba2454a480c82d8bb42ad2bfdea1e2672e67608a93d4700f310159",
+        "transformation": "Auto-orient; resize within 1600 px without upscaling; JPEG quality 88."
+      }
+    ],
+    "reviews": [
+      {
+        "title": "Швидке обслуговування",
+        "text": "Клієнт відзначив швидку роботу, зрозуміле спілкування та зворотний зв’язок під час обслуговування.",
+        "source_name": "Google Maps",
+        "source_url": "https://www.google.com/maps?cid=16152721169475129525&hl=uk"
+      },
+      {
+        "title": "Узгодження робіт",
+        "text": "За відгуком клієнта, роботи виконали вчасно, а їхній обсяг обговорили заздалегідь.",
+        "source_name": "Google Maps",
+        "source_url": "https://www.google.com/maps?cid=16152721169475129525&hl=uk"
+      }
+    ],
+    "cover": {
+      "file": "maps-2.jpg",
+      "kind": "photo"
+    }
+  }
+]
