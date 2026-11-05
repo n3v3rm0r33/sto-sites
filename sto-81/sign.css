@@ -1,0 +1,10 @@
+/* Deeper sign-blue variant of the black redesign. */
+:root{--blue:#4f8fdd;--paper:#101214;--navy:#0d0f11}
+.header,.hero,.contact,.footer,.gallery-side,.modal{background:#0d0f11}
+.wordmark,.hero-title,.footer .wordmark{color:#2165b5}
+.wordmark span,.hero-title span{color:#f4f6f8}
+.address-strip,.gallery-section{background:#191c20}
+.button{background:#1958a1;border-color:#4f8fdd;color:#fff}
+.button.white{background:#f4f6f8;color:#111315;border-color:#f4f6f8}
+.gallery-photo>button:not(.gallery-open):hover{background:#1958a1}
+@media(max-width:800px){.mobile-call{border-color:#4f8fdd}.mobile-call .button{background:#f4f6f8;color:#111315}}
