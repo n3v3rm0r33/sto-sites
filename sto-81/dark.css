@@ -1,0 +1,28 @@
+/* Black sign-inspired theme; shared layout and gallery stay identical. */
+:root{color-scheme:dark;--blue:#79aaff;--navy:#111315;--paper:#141618;--ink:#f4f6f8;--muted:#b4bdc9;--line:#3c424b}
+.header{background:#101113;border-bottom:1px solid var(--line)}
+.wordmark,.hero-title{color:#79aaff}
+.wordmark span,.hero-title span{color:#f4f6f8}
+.hero{background:#101113;color:var(--ink)}
+.hero-top,.hero-copy p,.photo-label{color:var(--muted)}
+.hero-photo img{border:1px solid var(--line)}
+.address-strip{background:#1d2024;border-block:1px solid var(--line)}
+.address-strip a{color:var(--blue)}
+.button{background:#2b60d9;color:#fff;border:1px solid #6193f4}
+.button.white{background:#f4f6f8;color:#111315;border-color:#f4f6f8}
+.gallery-section{background:#1d2024;border-block:1px solid var(--line)}
+.gallery-side{background:#101113;border:1px solid var(--line)}
+.gallery-side p{color:var(--muted)}
+.gallery-controls button,.modal button{border-color:var(--line);color:var(--ink)}
+.gallery-photo>button:not(.gallery-open),.modal button.modal-prev,.modal button.modal-next{background:#101113eb;border-color:#a0a8b4;color:#fff}
+.gallery-photo>button:not(.gallery-open):hover{background:#2b60d9}
+.contact{background:#101113;border-top:1px solid var(--line)}
+.contact .kicker,.contact-details p,.contact-details small{color:var(--muted)}
+.big-phone,.contact-details,.contact-map-frame{border-color:var(--line)}
+.contact-map-frame{color-scheme:light}
+.footer{background:#101113;color:var(--muted)}
+.footer .wrap{border-color:var(--line)}
+.footer .wordmark{color:var(--blue)}
+.modal{background:#101113}.modal::backdrop{background:#000e}
+.skip{background:#fff;color:#111315}
+@media(max-width:800px){.mobile-call{border:2px solid #79aaff;box-shadow:0 8px 32px #0009}.mobile-call .button{background:#f4f6f8;color:#111315;border:0}.mobile-call .button:hover{background:#dce9ff}}
