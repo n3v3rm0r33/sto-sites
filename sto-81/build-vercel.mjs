@@ -10,7 +10,7 @@ const origin = url.origin;
 const out = join(root, 'public');
 await rm(out, { recursive: true, force: true });
 await mkdir(out, { recursive: true });
-const assets = ['style.css','dark.css','sign.css','reviews.css','classic.css','gallery.js','classic-gallery.js','favicon.svg','display.ttf','FONT-LICENSE.txt', ...[1,2,3,4].map(n => `enhanced-${n}.webp`)];
+const assets = ['style.css','dark.css','sign.css','reviews.css','classic.css','gallery.js','classic-gallery.js','favicon.svg','display.ttf','FONT-LICENSE.txt','googledd29f73153431fc9.html', ...[1,2,3,4].map(n => `enhanced-${n}.webp`)];
 for (const asset of assets) {
   const contents = await readFile(join(root, asset));
   if (asset.endsWith('.css')) await writeFile(join(out, asset), contents.toString().replaceAll('../assets/display.ttf', 'display.ttf'));
