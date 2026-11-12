@@ -18,12 +18,18 @@
 <style>:root { --accent: #ff6b35; } :root{--canvas:#111212;--accent:#ff6b35}</style>
 <style>:root:root,html body[data-brand-layout]{--canvas:#15181C;--surface:#232A31;--ink:#F2F4F6;--accent:#FFB35C;--on-accent:#101216;--muted:#F2F4F6;--action:var(--accent);--bg:var(--canvas);--panel:var(--surface);--text:var(--ink)}body[data-brand-layout] { background: var(--canvas); color: var(--ink); }
 [data-brand-layout] header .brand { color: var(--ink); min-width: 0; overflow-wrap: anywhere; }
+[data-brand-layout] header .brand:has(> .brand-title) { display: flex; align-items: center; gap: .65rem; }
 [data-brand-layout] .business-logo { width: 48px; height: 48px; object-fit: contain; flex: none; }
 [data-brand-layout] .button:not(.secondary) { background: var(--accent); color: var(--on-accent); border-color: var(--accent); }
 [data-brand-layout] :is(.text-link, .section-no, .eyebrow, .nav-contact, .header-phone) { color: var(--accent); }
 [data-brand-layout] :is(.service-card, .calculator-shell, .contact-panel, .hero-route a) { background-color: var(--surface); color: var(--ink); }
 [data-brand-layout] main .hero { grid-template-columns: minmax(0, 1fr); }
 [data-brand-layout] main .hero h1 { overflow-wrap: anywhere; }
+[data-brand-layout]:has(header .brand-title) main .hero-copy { container-type: inline-size; }
+[data-brand-layout]:has(header .brand-title) main .hero h1 {
+  font-size: clamp(2rem, 11cqi, 5rem);
+  text-wrap: balance;
+}
 [data-brand-layout="type"] main .hero .hero-copy { max-width: 62rem; }
 [data-brand-layout] .business-hero-services {
   display: flex; flex-wrap: wrap; gap: .6rem; padding: 0; list-style: none; margin: 1.25rem 0;
