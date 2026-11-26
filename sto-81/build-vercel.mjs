@@ -26,7 +26,9 @@ const business = {
 const title = 'Clifford — СТО та шиномонтаж у Чернівцях | Головна, 177';
 for (const [target, source] of [['index.html','sign.html'],['blue.html','index.html'],['classic.html','classic.html'],['dark.html','dark.html'],['sign.html','sign.html']]) {
   let html = await readFile(join(root, source), 'utf8');
-  html = html.replace(/<meta name="robots"[^>]*>/g, '').replace(/<title>.*?<\/title>/s, `<title>${title}</title>`).replaceAll('../assets/display.ttf', 'display.ttf');
+  html = html.replace(/<meta\b[^>]*\sname\s*=\s*(["'])robots\1(?=\s|\/?>)[^>]*>/gi, '')
+    .replace(/<title>.*?<\/title>/s, `<title>${title}</title>`)
+    .replaceAll('../assets/display.ttf', 'display.ttf');
   const metadata = `<meta name="robots" content="index,follow,max-image-preview:large"><link rel="canonical" href="${origin}/"><meta property="og:url" content="${origin}/"><meta property="og:locale" content="uk_UA"><meta property="og:image" content="${origin}/enhanced-4.webp"><script type="application/ld+json">${JSON.stringify(business)}</script>`;
   html = html.replace('</head>', metadata+'</head>');
   await writeFile(join(out, target), html);
